@@ -31,6 +31,9 @@ Remember, this mod allows you to do 4ws, but you need to configure your mixes. A
 
 4. Download the `DDF_V1.1.2 0.0.3mix.ips` file. Chances you are reading this on GitHub. This file should be visible in the listing nearby.
 
+    * Try [this link](https://github.com/ELynx/ddf-350-modding/raw/main/DDF_V1.1.2%200.0.3mix.ips)
+    * If for some reason this does not work, go to the file in repository, then find and click "Download raw file".
+
 5. Using LunarIPS apply my "Romack" to clean fresh official 1.1.2 binary file.
 
     * LunarIPS modifies binary file "in place". Make sure to not override your backup.
