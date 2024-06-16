@@ -105,7 +105,11 @@ Consider these restrictions:
 If you want to be helpful, look at the "Issues" page. Join existing issues there, or make a new one. Please add a *picture* of place you want to change, and clear writing you want to see there.
 
 If you _really really_ want if fixed and fast, go to [hexed.it](https://hexed.it), load .bin file into it, and search for text you want to do. Remember [strings are null terminated](https://en.wikipedia.org/wiki/Null-terminated_string).
+
 ## Legals
-I am not associated or affiliated with DumboRC, Radiolink or other commercial companies. They in no way or shape endorse this, or involved in this.
-Likewise, Transmitter and it‘s firmware are their property and distribution.
+
+I am not associated or affiliated with DumboRC, Radiolink or other commercial companies.
+
+They in no way or shape endorse this, or involved in this. Likewise, Transmitter and it‘s firmware are their property and distribution.
+
 I only distribute my changes to firmware, and I do this because changes are done by me.
