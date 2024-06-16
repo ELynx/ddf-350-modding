@@ -2,7 +2,19 @@
 
 ## What this does
 
-TODO video and text
+[![Video demonstration](https://img.youtube.com/vi/AhQe9XWsPlI/hqdefault.jpg)](https://www.youtube.com/embed/AhQe9XWsPlI)
+
+In text format:
+
+1. Gives you configurable quick ways to turn Program MIX 1 and 2 on and off without menu diving.
+
+2. Cleans up some English translation to my taste and to get rid of scrolling.
+
+3. "Clears up" some German translation to best of my German knowledge to get rid of terrible amounts of scrolling.
+
+I am now into RC crawlers, and I have a crawler with four-wheel steering (4ws). This mod expresses my desire to be able to turn 4ws (and Crab) on and off without kilometer of menus. It replaces Timer, IMO not a huge loss on crawler community.
+
+Remember, this mod allows you to do 4ws, but you need to configure your mixes. Also, you can configure anything else you want.
 
 ## How to install
 
@@ -56,7 +68,7 @@ TODO video and text
     * As above, it is better so than broken or never.
 
 3. Timer is gone.
-    * Yes, this mod took it's place.
+    * Yes, this mod took its place.
     * I _crawl_ so does not affect me :3
 
 ## Safety, warranty, responsibility
