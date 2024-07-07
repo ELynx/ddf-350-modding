@@ -18,6 +18,10 @@ Remember, this mod allows you to do 4ws, but you need to configure your mixes. A
 
 ## How to install
 
+[![Video demonstration](https://img.youtube.com/vi/8Tg5iURBdxE/hqdefault.jpg)](https://youtu.be/8Tg5iURBdxE)
+
+In text format:
+
 1. Download and unpack firmware version 1.1.2 from official DumboRC site [here](https://www.dumborc.com/?page_id=930).
 
     * This mod will work ONLY with 1.1.2 download.
@@ -55,6 +59,10 @@ Remember, this mod allows you to do 4ws, but you need to configure your mixes. A
     * Turn transmitter on, new firmware fill flash automatically and you should see changes.
 
 7. Enjoy! Drop a star on this repo, "watch" it for future updates. These numbers mean a lot to me, letting me know that I should not only to all this, but share with the community.
+
+## Four-wheel steering setup
+
+[![Video demonstration](https://img.youtube.com/vi/32zv6zOlYxQ/hqdefault.jpg)](https://youtu.be/32zv6zOlYxQ)
 
 ## How to uninstall
 
