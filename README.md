@@ -18,6 +18,10 @@ Remember, this mod allows you to do 4ws, but you need to configure your mixes. A
 
 ## How to install
 
+⚠️ Important note: remote is **very** picky about USB cables ⚠️. Even when cable work as Data cable for phone, PC, etc., remote may *not* work with it.
+
+Symptoms are "USB device error", device flash drive not appearing. Try different cables, one by one, until one of them works.
+
 [![Video demonstration](https://img.youtube.com/vi/8Tg5iURBdxE/hqdefault.jpg)](https://youtu.be/8Tg5iURBdxE)
 
 In text format:
@@ -48,6 +52,7 @@ In text format:
 
     * Take out batteries from your remote.
     * Connect your remote to computer using USB cable _with data capabilities_.
+       * ⚠️ It is **very** picky, not every cable will work. Try several until you find one.
     * Press and hold CH3 and CH4 buttons, then turn on the remote with power button.
     * Screen will flash "black", you will hear the chime. You can release the buttons now.
     * On your computer, you will see new USB flash drive appearing.
