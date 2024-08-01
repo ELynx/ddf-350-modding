@@ -2,15 +2,18 @@
 
 ## What this does
 
-[![Video demonstration](https://img.youtube.com/vi/AhQe9XWsPlI/hqdefault.jpg)](https://www.youtube.com/embed/AhQe9XWsPlI)
+[![Video demonstration of main feature](https://img.youtube.com/vi/AhQe9XWsPlI/hqdefault.jpg)](https://www.youtube.com/embed/AhQe9XWsPlI)
 
 In text format:
 
 1. Gives you configurable quick ways to turn Program MIX 1 and 2 on and off without menu diving.
-
 2. Cleans up some English translation to my taste and to get rid of scrolling.
-
 3. "Clears up" some German translation to best of my German knowledge to get rid of terrible amounts of scrolling.
+4. Adds main screen battery level "circle" calibration for 4 NiMh batteries in addition to original options for 4 AA and 2/3S LiPo.
+    * Set it in transmitter settings "power" page
+    * Range is 3.6 volts 0% to 5.6 volts 100%
+    * Also lowered voltage alarm lowest setting to 4.1 volts
+        * Research into lowering even further is ongoing
 
 I am now into RC crawlers, and I have a crawler with four-wheel steering (4ws). This mod expresses my desire to be able to turn 4ws (and Crab) on and off without kilometer of menus. It replaces Timer, IMO not a huge loss on crawler community.
 
@@ -18,7 +21,7 @@ Remember, this mod allows you to do 4ws, but you need to configure your mixes. A
 
 ## How to install
 
-⚠️ Important note: remote is **very** picky about USB cables ⚠️. Even when cable work as Data cable for phone, PC, etc., remote may *not* work with it.
+⚠️ Important note: remote is **very** picky about USB cables. Even when cable work as Data cable for phone, PC, etc., remote may *not* work with it. ⚠️
 
 Symptoms are "USB device error", device flash drive not appearing. Try different cables, one by one, until one of them works.
 
@@ -27,29 +30,22 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
 In text format:
 
 1. Download and unpack firmware version 1.1.2 from official DumboRC site [here](https://www.dumborc.com/?page_id=930).
-
+    * ⚠️ Always apply patch to clean original binary ⚠️
+        * Applying patch on top of previously patched binary _will_ result in glitches.
     * This mod will work ONLY with 1.1.2 download.
-    * I will update it to best of my ability, supporting me will tell that it is useful and very likely speed this up.
-
+        * I will update it to best of my ability, supporting me will tell that it is useful and very likely speed this up.
 2. Back up the official 1.1.2 files. When 1.1.2 was released, 1.1.1 was removed. And you need official 1.1.2 firmware, so do yourself and others a favor and keep a copy.
-
 3. Download very good tool named LunarIPS [here](https://fusoya.eludevisibility.org/lips).
-
     * This is because I _cannot_ distribute official firmware, but I _can_ [distribute my rom hacks](https://en.wikipedia.org/wiki/ROM_hacking#Distribution).
-
-4. Download the `DDF_V1.1.2 0.0.3mix.ips` file. Chances you are reading this on GitHub. This file should be visible in the listing nearby.
-
-    * Try [this link](https://github.com/ELynx/ddf-350-modding/raw/main/DDF_V1.1.2%200.0.3mix.ips)
-    * If for some reason this does not work, go to the file in repository, then find and click "Download raw file".
-
+4. Download the latest `.ips` file.
+    * Visit [latest release](https://github.com/ELynx/ddf-350-modding/releases/latest)
+    * Find "Assets" under text description
+    * Download `.ips` file
 5. Using LunarIPS apply my "Romack" to clean fresh official 1.1.2 binary file.
-
     * LunarIPS modifies binary file "in place". Make sure to not override your backup.
     * Make sure you are applying it to the .bin file, and not the .zip
     * If (when) you do not see the .bin file in LunarIPS, change the filter inside it to `all files / *.*`
-
 6. Flash the modified binary file as described in official instruction. To summarize it here, purely for your convenience:
-
     * Take out batteries from your remote.
     * Connect your remote to computer using USB cable _with data capabilities_.
        * ⚠️ It is **very** picky, not every cable will work. Try several until you find one.
@@ -62,8 +58,11 @@ In text format:
     * Unplug the transmitter.
     * Plug the transmitter back, or insert batteries.
     * Turn transmitter on, new firmware fill flash automatically and you should see changes.
-
-7. Enjoy! Drop a star on this repo, "watch" it for future updates. These numbers mean a lot to me, letting me know that I should not only to all this, but share with the community.
+7. ⚠️ Make sure to turn off "Trigger priming" unless you specifically need it.
+    * It appears that trigger priming is "on" for some of the people by default.
+    * It turns on ProgMIX 1 when you increase throttle.
+    * By default ProgMIXes mix CH1 and CH2, so you get very unexpected cross-talk between steering and throttle.
+8. Enjoy! Drop a star on this repo, "watch" it for future updates. These numbers mean a lot to me, letting me know that I should not only to all this, but share with the community.
 
 ## Four-wheel steering setup
 
@@ -78,11 +77,9 @@ In text format:
 1. Program MIX menu does not update "live" when you press the toggle buttons.
     * It updates if you change page back and forth, though.
     * I _maybe_ will look into this in future, but I do not want to break stuff "just because", or delay release forever.
-
 2. Desktop icon is Timer, and not something cool.
     * I know . Annoys me as well. I am working on graphical changes, but cannot figure graphical format yet.
     * As above, it is better so than broken or never.
-
 3. Timer is gone.
     * Yes, this mod took its place.
     * I _crawl_ so does not affect me :3
