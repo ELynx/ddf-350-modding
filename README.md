@@ -28,6 +28,10 @@ Remember, this mod allows you to do 4ws, but you need to configure your mixes. A
 
 Symptoms are "USB device error", device flash drive not appearing. Try different cables, one by one, until one of them works.
 
+⚠️ Important note: start patching with fresh 1.1.2 firmware file. Do not reuse files changed by previous releases. ⚠️
+
+☑️ Note: turn off "Trigger priming" unless you need it. When it is on unexpectedly it can cause a lot of confusion. ☑️
+
 [![Video demonstration](https://img.youtube.com/vi/8Tg5iURBdxE/hqdefault.jpg)](https://youtu.be/8Tg5iURBdxE)
 
 In text format:
@@ -61,7 +65,7 @@ In text format:
     * Unplug the transmitter.
     * Plug the transmitter back, or insert batteries.
     * Turn transmitter on, new firmware fill flash automatically and you should see changes.
-1. ⚠️ Make sure to turn off "Trigger priming" unless you specifically need it.
+1. ☑️ Make sure to turn off "Trigger priming" unless you specifically need it.
     * It appears that trigger priming is "on" for some of the people by default.
     * It turns on ProgMIX 1 when you increase throttle.
     * By default ProgMIXes mix CH1 and CH2, so you get very unexpected cross-talk between steering and throttle.
@@ -90,10 +94,11 @@ In text format:
 1. Timer is gone.
     * Yes, this mod took its place.
     * I _crawl_ so does not affect me :3
-1. NiMh 0% voltage is too low.
-    * Chime in at #6 and suggest your voltages.
-1. Program MIX multipler is "funky" with VR knobs.
-    * Yes, I know. But no one told me they are interested in having this better beside single comment with no follow-up. Chine in at #3.
+1. NiMh 3.6V as 0% is too low.
+    * Chime in at [Issue #6](https://github.com/ELynx/ddf-350-modding/issues/6) and suggest your voltages.
+1. Program MIX multiplier is "funky" with VR knobs.
+    * Yes, I know. But no one told me they are interested in having it better.
+    * I literally got single comment with no follow-up. Chine in at [Issue #3](https://github.com/ELynx/ddf-350-modding/issues/3) and let me know.
 
 ## Safety, warranty, responsibility
 
@@ -118,8 +123,6 @@ Works for me :3
 Jokes aside, I am open to suggestions. My goal was to get rid of scrolling, because scrolling gave me perceivable headache. Plus couple of outdated terms that just need to go.
 
 If you want to be helpful, look at the "Issues" page. Join existing issues there, or make a new one. Please add a *picture* of place you want to change, and clear writing you want to see there.
-
-If you _really really_ want if fixed and fast, go to [hexed.it](https://hexed.it), load .bin file into it, and search for text you want to do. Remember [strings are null terminated](https://en.wikipedia.org/wiki/Null-terminated_string).
 
 ## Legals
 
