@@ -77,7 +77,7 @@ In text format:
 
 ## SW-7 as throttle limit setup
 
-[![Video demonstration](https://img.youtube.com/vi/TODO/hqdefault.jpg)](https://youtu.be/TODO)
+[![Video demonstration](https://img.youtube.com/vi/C1-xoKf7d_Y/hqdefault.jpg)](https://youtu.be/C1-xoKf7d_Y)
 
 ## How to uninstall
 
