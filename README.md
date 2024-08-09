@@ -4,14 +4,18 @@
 
 ## What this does
 
+### Quick Program MIX toggle
+
 [![Video demonstration of quick on/off feature](https://img.youtube.com/vi/AhQe9XWsPlI/hqdefault.jpg)](https://www.youtube.com/embed/AhQe9XWsPlI)
+
+### New Program MIX mode - multiplicative mixing
 
 [![Video demonstration of multiply feature](https://img.youtube.com/vi/MkXmJsyX0sQ/hqdefault.jpg)](https://www.youtube.com/embed/MkXmJsyX0sQ?start=20)
 
-In text format:
+### Features
 
 1. Gives you configurable quick ways to turn Program MIX 1 and 2 on and off without menu diving.
-1. Gives you new way of using Program MIX 1 and 2 by scaling / multiplying channels
+1. Gives you a new way of using Program MIX 1 and 2 by scaling / multiplying channels
 1. Cleans up some English translation to my taste and to get rid of scrolling.
 1. "Clears up" some German translation to best of my German knowledge to get rid of terrible amounts of scrolling.
 1. Adds main screen battery level "circle" calibration for 4 NiMh batteries in addition to original options for 4 AA and 2/3S LiPo.
@@ -28,20 +32,22 @@ Remember, this mod allows you to do 4ws, but you need to configure your mixes. A
 
 Symptoms are "USB device error", device flash drive not appearing. Try different cables, one by one, until one of them works.
 
-⚠️ Important note: start patching with fresh 1.1.2 firmware file. Do not reuse files changed by previous releases. ⚠️
+⚠️ Important note: always start patching with fresh 1.1.2 firmware file. Do not reuse files changed by previous mod releases. ⚠️
 
-☑️ Note: turn off "Trigger priming" unless you need it. When it is on unexpectedly it can cause a lot of confusion. ☑️
+☑️ Note: turn off "Trigger priming" unless you need it. When it is on unexpectedly, it can cause a lot of confusion. ☑️
+
+### Video version (step by step, but less nuanced)
 
 [![Video demonstration](https://img.youtube.com/vi/8Tg5iURBdxE/hqdefault.jpg)](https://youtu.be/8Tg5iURBdxE)
 
-In text format:
+### Text version (more nuances, read this if you have troubles)
 
 1. Download and unpack firmware version 1.1.2 from official DumboRC site [here](https://www.dumborc.com/?page_id=930).
-    * ⚠️ Always apply patch to clean original binary ⚠️
+    * ⚠️ Always apply patch to **clean original** binary. ⚠️
         * Applying patch on top of previously patched binary _will_ result in glitches.
-    * This mod will work ONLY with 1.1.2 download.
-        * I will update it to best of my ability, supporting me will tell that it is useful and very likely speed this up.
-1. Back up the official 1.1.2 files. When 1.1.2 was released, 1.1.1 was removed. And you need official 1.1.2 firmware, so do yourself and others a favor and keep a copy.
+    * This mod will work **ONLY** with 1.1.2 download.
+1. Back up the official 1.1.2 files.
+    * When 1.1.2 was released, 1.1.1 was removed. And you may need original 1.1.2 firmware, so do yourself and others a favor and keep a copy.
 1. Download very good tool named LunarIPS [here](https://fusoya.eludevisibility.org/lips).
     * This is because I _cannot_ distribute official firmware, but I _can_ [distribute my rom hacks](https://en.wikipedia.org/wiki/ROM_hacking#Distribution).
 1. Download the latest `.ips` file.
@@ -70,6 +76,7 @@ In text format:
     * It turns on ProgMIX 1 when you increase throttle.
     * By default ProgMIXes mix CH1 and CH2, so you get very unexpected cross-talk between steering and throttle.
 1. Enjoy! Drop a star on this repo, "watch" it for future updates. These numbers mean a lot to me, letting me know that I should not only to all this, but share with the community.
+1. If this was useful, consider Ko-Fi or GitHub Sponsorship (one-time or monthly).
 
 ## Four-wheel steering setup
 
@@ -87,7 +94,7 @@ In text format:
 
 1. Program MIX menu does not update "live" when you press the toggle buttons.
     * It updates if you change page back and forth, though.
-    * I _maybe_ will look into this in future, but I do not want to break stuff "just because", or delay release forever.
+    * I _maybe_ will look into this in future, but I do not want to break stuff "just because", or delay releases forever.
 1. Desktop icon is Timer, and not something cool.
     * I know . Annoys me as well. I am working on graphical changes, but cannot figure graphical format yet.
     * As above, it is better so than broken or never.
@@ -97,8 +104,8 @@ In text format:
 1. NiMh 3.6V as 0% is too low.
     * Chime in at [Issue #6](https://github.com/ELynx/ddf-350-modding/issues/6) and suggest your voltages.
 1. Program MIX multiplier is "funky" with VR knobs.
-    * Yes, I know. But no one told me they are interested in having it better.
-    * I literally got single comment with no follow-up. Chine in at [Issue #3](https://github.com/ELynx/ddf-350-modding/issues/3) and let me know.
+    * Yes, I know. But no one told me they are interested in having it better. I literally got single comment with no follow-up.
+    * Chine in at [Issue #3](https://github.com/ELynx/ddf-350-modding/issues/3) and let me know.
 
 ## Safety, warranty, responsibility
 
