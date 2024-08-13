@@ -2,14 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FELynx%2Fddf-350-modding&count_bg=%237FD2C6&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%237FD2C6&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## A personal message
-
-I am currently [building](https://www.rockcrawler.de/thread/53994-redcat-ascent-fusion-gmade-gs02f-injora-cherokee-karosserie/) my 1:10 crawler.
-
-To build it myself, I need access to a [metalwork latch](https://hobbyhimmel.de/werkstatt/metall/) and [some education on it](https://hobbyhimmel.de/termin/drehen-grundlagen-der-zerspanung/2024-09-01/).
-
-But it costs 90€ for the training. As much as RC is an expensive hobby, I do not have spare hundred laying around. If you found this helpful, consider using Ko-Fi or GitHub one-time sponsorship. If I can collect 90€ by September I will enroll.
-
 ## What this does
 
 ### Quick Program MIX toggle
