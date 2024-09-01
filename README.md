@@ -1,3 +1,9 @@
+# About version 1.1.3
+
+Firmware version 1.1.3 was released. My mod works only with 1.1.2, thus will not work with new firmware. I will remove release files to prevent people from flashing broken firmwares.
+
+Currently I am facing personal mental health issues, and I do not know when I will overcome them. It may be tomorrow, it may be never. As such do not expect any schedule for release on my part.
+
 # DumboRC DDF-350 Transmitter firmware modding
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FELynx%2Fddf-350-modding&count_bg=%237FD2C6&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%237FD2C6&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com)
