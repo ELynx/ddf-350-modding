@@ -1,0 +1,148 @@
+ADDRESS   :0x46b5c
+LEN_BYTES :20
+ORIGINAL  :Transmitter Settings[END]
+TRANSLATED:Transmitter settings[END]
+
+ADDRESS   :0x7030
+LEN_BYTES :14
+ORIGINAL  :Rudder reading[END]
+TRANSLATED:Channel Values[END]
+
+ADDRESS   :0xbcb8
+LEN_BYTES :9
+ORIGINAL  :END Point[END]
+TRANSLATED:Endpoints[END]
+
+ADDRESS   :0xc60c
+LEN_BYTES :4
+ORIGINAL  :Back[END]
+TRANSLATED:Back[END]
+
+ADDRESS   :0xc63c
+LEN_BYTES :5
+ORIGINAL  :Front[END]
+TRANSLATED:Fwd[END]
+
+ADDRESS   :0xf8dc
+LEN_BYTES :8
+ORIGINAL  :SUB Trim[END]
+TRANSLATED:Subtrims[END]
+
+ADDRESS   :0x14154
+LEN_BYTES :15
+ORIGINAL  :Locking
+Inching[END]
+TRANSLATED:Toggle
+Push[END]
+
+ADDRESS   :0x1564c
+LEN_BYTES :9
+ORIGINAL  :Remapping[END]
+TRANSLATED:Mapping[END]
+
+ADDRESS   :0x84bc
+LEN_BYTES :13
+ORIGINAL  :mode 1
+mode 2[END]
+TRANSLATED:Mode 1
+Mode 2[END]
+
+ADDRESS   :0xe538
+LEN_BYTES :7
+ORIGINAL  :Presets[END]
+TRANSLATED:Preset [END]
+
+ADDRESS   :0xe0e4
+LEN_BYTES :20
+ORIGINAL  :Throttle/Brake Curve[END]
+TRANSLATED:Throttle Curve[END]
+
+ADDRESS   :0x100f4
+LEN_BYTES :10
+ORIGINAL  :Enable key[END]
+TRANSLATED:Enable Key[END]
+
+ADDRESS   :0x130e0
+LEN_BYTES :11
+ORIGINAL  :Front Ratio[END]
+TRANSLATED:Fwd Ratio[END]
+
+ADDRESS   :0x13118
+LEN_BYTES :11
+ORIGINAL  :Break Ratio[END]
+TRANSLATED:Back Ratio[END]
+
+ADDRESS   :0x14ae4
+LEN_BYTES :12
+ORIGINAL  :Rising ratio[END]
+TRANSLATED:Rise rate[END]
+
+ADDRESS   :0x14de8
+LEN_BYTES :13
+ORIGINAL  :Decline ratio[END]
+TRANSLATED:Drop rate[END]
+
+ADDRESS   :0x7a64
+LEN_BYTES :14
+ORIGINAL  :Model renaming[END]
+TRANSLATED:Model Rename[END]
+
+ADDRESS   :0x98cc
+LEN_BYTES :14
+ORIGINAL  :Coaching model[END]
+TRANSLATED:Trainer mode[END]
+
+ADDRESS   :0xa1ec
+LEN_BYTES :17
+ORIGINAL  :Stop/Reset button[END]
+TRANSLATED:Stop/Reset btn[END]
+
+ADDRESS   :0xd4f0
+LEN_BYTES :18
+ORIGINAL  :Power_on/off sound[END]
+TRANSLATED:On/Off Sound[END]
+
+ADDRESS   :0xd544
+LEN_BYTES :9
+ORIGINAL  :Tone Type[END]
+TRANSLATED:Sounds[END]
+
+ADDRESS   :0xdc70
+LEN_BYTES :36
+ORIGINAL  :Close 
+1 min 
+3 min 
+10 min 
+30 min [END]
+TRANSLATED:No
+1 min
+3 min
+10 min
+30 min[END]
+
+ADDRESS   :0x17828
+LEN_BYTES :29
+ORIGINAL  :Close 
+15 min 
+30 min 
+60 min[END]
+TRANSLATED:No
+15 min
+30 min
+60 min[END]
+
+ADDRESS   :0x17d30
+LEN_BYTES :43
+ORIGINAL  :Close 
+Idle 5 min 
+Idle 10 min 
+Idle 20 min[END]
+TRANSLATED:No
+Idle 5 min
+Idle 10 min
+Idle 20 min[END]
+
+ADDRESS   :0x18318
+LEN_BYTES :18
+ORIGINAL  :Voltage Calibrator[END]
+TRANSLATED:Voltage Calib.[END]
