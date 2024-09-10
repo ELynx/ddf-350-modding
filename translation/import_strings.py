@@ -6,8 +6,8 @@ def parse_and_insert_translated_strings(original_file, output_file, translation_
         original_data = bytearray(f.read())
 
     # Regular expressions for matching the format
-    address_pattern = re.compile(r"ADDRESS\s+:\s*(0x[0-9a-fA-F]+)")
-    translated_pattern = re.compile(r"TRANSLATED:(.*)", re.DOTALL)
+    address_pattern = re.compile(r"ADDRESS\s*:\s*(0x[0-9a-fA-F]+)")
+    translated_pattern = re.compile(r"TRANSLATED\s*:(.*)", re.DOTALL)
     
     # Read the translation file line by line
     with open(translation_file, 'r', encoding='utf-8') as f:
@@ -26,13 +26,12 @@ def parse_and_insert_translated_strings(original_file, output_file, translation_
 
         # Extract the address as an integer
         address = int(address_match.group(1), 16)
-        print(f"Found address: {hex(address)}")  # Debug
+        print(f"ADDRESS: {hex(address)}")  # Debug
 
         # Extract and process the TRANSLATED string
         translated_text = translated_match.group(1).strip()
-        print(f"Original TRANSLATED text: {translated_text}")  # Debug
+        print(f"TRANSLATED: {translated_text}")  # Debug
         translated_text = translated_text.replace('[END]', '\x00')  # Replace [END] with null terminator
-        print(f"Processed TRANSLATED text: {translated_text}")  # Debug
 
         # Function to handle $xx bytes in the string
         def process_translated_string(text):
@@ -79,8 +78,6 @@ def parse_and_insert_translated_strings(original_file, output_file, translation_
 
 if __name__ == "__main__":
     # Example usage
-    original_file_path = 'input.bin'  # Path to the original binary file
-    output_file_path = 'output.bin'   # Path to the output binary file (modified copy)
-    translation_file_path = 'common.txt'    # Path to the file with ADDRESS and TRANSLATED strings
-
-    parse_and_insert_translated_strings(original_file_path, output_file_path, translation_file_path)
+    parse_and_insert_translated_strings('input.bin',    'common.tmp',   'common.txt')
+    parse_and_insert_translated_strings('common.tmp',   'EN.tmp',       'EN.txt')
+    parse_and_insert_translated_strings('EN.tmp',       'output.bin',   'DE.txt')
