@@ -59,8 +59,13 @@ def parse_and_insert_translated_strings(original_file, output_file, translation_
         if null_terminator_pos == -1:
             raise ValueError(f"No null terminator found in the original file after address {hex(address)}.")
 
+        # Check for additional null bytes after the initial null terminator
+        next_non_null_pos = null_terminator_pos + 1
+        while next_non_null_pos < len(original_data) and original_data[next_non_null_pos] == 0:
+            next_non_null_pos += 1
+
         # Ensure we don't overwrite beyond the null-terminator
-        max_length = null_terminator_pos - address
+        max_length = next_non_null_pos - address
         print(f"Max length available: {max_length}")  # Debug
 
         # Pad with null bytes if needed to fit the original size
