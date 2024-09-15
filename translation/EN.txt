@@ -1,7 +1,24 @@
+ADDRESS   :0x474f0
+LEN_BYTES :20
+ORIGINAL  :Transmitter Settings[END]
+TRANSLATED:Transmitter settings[END]
+
 ADDRESS   :0x46b5c
 LEN_BYTES :20
 ORIGINAL  :Transmitter Settings[END]
 TRANSLATED:Transmitter settings[END]
+
+ADDRESS   :0x46b74
+LEN_BYTES :16
+COMMENT   :Should be fine, there are nulls past this string
+ORIGINAL  :Receiver setting[END]
+TRANSLATED:Receiver settings[END]
+
+ADDRESS   :0x47568
+LEN_BYTES :16
+COMMENT   :Should be fine, there are nulls past this string
+ORIGINAL  :Receiver setting[END]
+TRANSLATED:Receiver settings[END]
 
 ADDRESS   :0x7030
 LEN_BYTES :14
@@ -46,6 +63,11 @@ ORIGINAL  :mode 1
 mode 2[END]
 TRANSLATED:Mode 1
 Mode 2[END]
+
+ADDRESS   :0xab60
+LEN_BYTES :7
+ORIGINAL  :Presets[END]
+TRANSLATED:Preset [END]
 
 ADDRESS   :0xe538
 LEN_BYTES :7
@@ -114,11 +136,11 @@ ORIGINAL  :Close
 3 min 
 10 min 
 30 min [END]
-TRANSLATED:No
-1 min
-3 min
-10 min
-30 min[END]
+TRANSLATED:Off   
+1 min 
+3 min 
+10 min 
+30 min [END]
 
 ADDRESS   :0x17828
 LEN_BYTES :29
@@ -126,9 +148,9 @@ ORIGINAL  :Close
 15 min 
 30 min 
 60 min[END]
-TRANSLATED:No
-15 min
-30 min
+TRANSLATED:Off   
+15 min 
+30 min 
 60 min[END]
 
 ADDRESS   :0x17d30
@@ -137,9 +159,9 @@ ORIGINAL  :Close
 Idle 5 min 
 Idle 10 min 
 Idle 20 min[END]
-TRANSLATED:No
-Idle 5 min
-Idle 10 min
+TRANSLATED:Off   
+Idle 5 min 
+Idle 10 min 
 Idle 20 min[END]
 
 ADDRESS   :0x18318

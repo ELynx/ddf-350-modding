@@ -3589,10 +3589,10 @@ LEN_BYTES :7
 ORIGINAL  :#F I	H[END]
 TRANSLATED:#F I	H[END]
 
-ADDRESS   :0x1278f
-LEN_BYTES :37
-ORIGINAL  : Zurücksetzen auf Werkseinstellungen[END]
-TRANSLATED: Zurücksetzen auf Werkseinstellungen[END]
+ADDRESS   :0x12790
+LEN_BYTES :36
+ORIGINAL  :Zurücksetzen auf Werkseinstellungen[END]
+TRANSLATED:Zurücksetzen auf Werkseinstellungen[END]
 
 ADDRESS   :0x127b8
 LEN_BYTES :25
@@ -6967,10 +6967,10 @@ LEN_BYTES :16
 ORIGINAL  : 接收机设置[END]
 TRANSLATED: 接收机设置[END]
 
-ADDRESS   :0x46a93
-LEN_BYTES :11
-ORIGINAL  : Hauptmenü[END]
-TRANSLATED: Hauptmenü[END]
+ADDRESS   :0x46a94
+LEN_BYTES :10
+ORIGINAL  :Hauptmenü[END]
+TRANSLATED:Hauptmenü[END]
 
 ADDRESS   :0x46aa0
 LEN_BYTES :20
