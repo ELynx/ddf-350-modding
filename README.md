@@ -1,12 +1,8 @@
-# About version 1.1.3
-
-Firmware version 1.1.3 was released. My mod works only with 1.1.2, thus will not work with new firmware. I will remove release files to prevent people from flashing broken firmwares.
-
-Currently I am facing personal mental health issues, and I do not know when I will overcome them. It may be tomorrow, it may be never. As such do not expect any schedule for release on my part.
-
 # DumboRC DDF-350 Transmitter firmware modding
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FELynx%2Fddf-350-modding&count_bg=%237FD2C6&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%237FD2C6&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Current supported version - 1.1.3
 
 ## What this does
 
@@ -23,7 +19,7 @@ Currently I am facing personal mental health issues, and I do not know when I wi
 1. Gives you configurable quick ways to turn Program MIX 1 and 2 on and off without menu diving.
 1. Gives you a new way of using Program MIX 1 and 2 by scaling / multiplying channels
 1. Cleans up some English translation to my taste and to get rid of scrolling.
-1. "Clears up" some German translation to best of my German knowledge to get rid of terrible amounts of scrolling.
+1. Clears up some German translation to best of my German knowledge to get rid of terrible amounts of scrolling.
 1. Adds main screen battery level "circle" calibration for 4 NiMh batteries in addition to original options for 4 AA and 2/3S LiPo.
     * Range is 3.6 volts 0% to 5.6 volts 100%.
     * Also lowered voltage alarm lowest setting to 4.1 volts.
@@ -48,19 +44,19 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
 
 ### Text version (more nuances, read this if you have troubles)
 
-1. Download and unpack firmware version 1.1.2 from official DumboRC site [here](https://www.dumborc.com/?page_id=930).
+1. Download and unpack firmware version 1.1.3 from official DumboRC site [here](https://www.dumborc.com/?page_id=930).
     * ⚠️ Always apply patch to **clean original** binary. ⚠️
         * Applying patch on top of previously patched binary _will_ result in glitches.
-    * This mod will work **ONLY** with 1.1.2 download.
-1. Back up the official 1.1.2 files.
-    * When 1.1.2 was released, 1.1.1 was removed. And you may need original 1.1.2 firmware, so do yourself and others a favor and keep a copy.
+    * This mod will work **ONLY** with 1.1.3 download.
+1. Back up the official files.
+    * When 1.1.2 was released, 1.1.1 was removed. Same with 1.1.3 and 1.1.2. And you may need original firmware, so do yourself and others a favor and keep a copy.
 1. Download very good tool named LunarIPS [here](https://fusoya.eludevisibility.org/lips).
     * This is because I _cannot_ distribute official firmware, but I _can_ [distribute my rom hacks](https://en.wikipedia.org/wiki/ROM_hacking#Distribution).
 1. Download the latest `.ips` file.
     * Visit [latest release](https://github.com/ELynx/ddf-350-modding/releases/latest)
     * Find "Assets" under text description
     * Download `.ips` file
-1. Using LunarIPS apply my "Romack" to clean fresh official 1.1.2 binary file.
+1. Using LunarIPS apply my "Romack" to clean fresh official 1.1.3 binary file.
     * LunarIPS modifies binary file "in place". Make sure to not override your backup.
     * Make sure you are applying it to the .bin file, and not the .zip
     * If (when) you do not see the .bin file in LunarIPS, change the filter inside it to `all files / *.*`
@@ -94,7 +90,7 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
 
 ## How to uninstall
 
-1. Flash stock firmware of your choice.
+1. Flash original firmware of your choice.
 
 ## Known limitations
 
@@ -110,8 +106,8 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
 1. NiMh 3.6V as 0% is too low.
     * Chime in at [Issue #6](https://github.com/ELynx/ddf-350-modding/issues/6) and suggest your voltages.
 1. Program MIX multiplier is "funky" with VR knobs.
-    * Yes, I know. But no one told me they are interested in having it better. I literally got single comment with no follow-up.
-    * Chine in at [Issue #3](https://github.com/ELynx/ddf-350-modding/issues/3) and let me know.
+    * Yes, I know. But when I made a test version that was logically sound, it was visually difficult to understand.
+    * Chine in at [Issue #3](https://github.com/ELynx/ddf-350-modding/issues/3) and sugget your ideas.
 
 ## Safety, warranty, responsibility
 
