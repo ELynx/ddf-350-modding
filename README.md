@@ -21,7 +21,7 @@
 1. Cleans up some English translation to my taste and to get rid of scrolling.
 1. Clears up some German translation to best of my German knowledge to get rid of terrible amounts of scrolling.
 1. Adds main screen battery level "circle" calibration for 4 NiMh batteries in addition to original options for 4 AA and 2/3S LiPo.
-    * Range is 3.6 volts 0% to 5.6 volts 100%.
+    * Range is 4.0 volts 0% to 5.6 volts 100%.
     * Also lowered voltage alarm lowest setting to 4.1 volts.
 
 I am now into RC crawlers, and I have a crawler with four-wheel steering (4ws). This mod expresses my desire to be able to turn 4ws (and Crab) on and off without kilometer of menus. It replaces Timer, IMO not a huge loss on crawler community.
@@ -34,7 +34,7 @@ Remember, this mod allows you to do 4ws, but you need to configure your mixes. A
 
 Symptoms are "USB device error", device flash drive not appearing. Try different cables, one by one, until one of them works.
 
-⚠️ Important note: always start patching with fresh 1.1.2 firmware file. Do not reuse files changed by previous mod releases. ⚠️
+⚠️ Important note: always start patching with fresh 1.1.3 firmware file. Do not reuse files changed by previous mod releases. ⚠️
 
 ☑️ Note: turn off "Trigger priming" unless you need it. When it is on unexpectedly, it can cause a lot of confusion. ☑️
 
@@ -76,7 +76,7 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
 1. ☑️ Make sure to turn off "Trigger priming" unless you specifically need it.
     * It appears that trigger priming is "on" for some of the people by default.
     * It turns on ProgMIX 1 when you increase throttle.
-    * By default ProgMIXes mix CH1 and CH2, so you get very unexpected cross-talk between steering and throttle.
+    * By default, ProgMIXes mix CH1 and CH2, so you get very unexpected cross-talk between steering and throttle.
 1. Enjoy! Drop a star on this repo, "watch" it for future updates. These numbers mean a lot to me, letting me know that I should not only to all this, but share with the community.
 1. If this was useful, consider Ko-Fi or GitHub Sponsorship (one-time or monthly).
 
@@ -103,11 +103,11 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
 1. Timer is gone.
     * Yes, this mod took its place.
     * I _crawl_ so does not affect me :3
-1. NiMh 3.6V as 0% is too low.
-    * Chime in at [Issue #6](https://github.com/ELynx/ddf-350-modding/issues/6) and suggest your voltages.
+1. 4 NiMh 4.0V as 0% is not optimal.
+    * I aligned it with 4 AA and with lowest alarm voltage.
 1. Program MIX multiplier is "funky" with VR knobs.
     * Yes, I know. But when I made a test version that was logically sound, it was visually difficult to understand.
-    * Chine in at [Issue #3](https://github.com/ELynx/ddf-350-modding/issues/3) and sugget your ideas.
+    * Unless I think of something radically different or get a lot of inspiration, I will not spend more time on this.
 
 ## Safety, warranty, responsibility
 
@@ -119,17 +119,39 @@ Just to keep it cool, do not do this day before important drives.
 
 ## How I did this, how I do this myself
 
-Coming. There is so much writing I can do in one sitting. If you are a dev and want to do something similar, "watch" this repo for updates.
+### Translations
 
-In short, .bin file is ARM Cortex 32-bit LE. Ghidra or other tool of your choice does the rest. As of time of writing, there are no checks on flashed firmware, flash at your heart's content.
+With a help of stochastic parrot, I made some Python scripts to dump and insert UTF-8 strings. Of course, some are too short, some are not recognized and some are wrongly offset, but process is pretty smooth.
 
-I also have a "memdump" firmware version where buttons change memory address and content is displayed on screen. I plan to make this a permanent feature and plug it to CN language, but if you need it sooner ping me, we can work it out.
+I highly recommend making a "translation" file, or modifying existing ones compared to changing raw binaries. You lose track of what is where quickly, and as I experience it with update, have to reinvent the wheel.
+
+Current EN translation is 98% OK by me. DE translation is modified to get rid of scrolling, all your suggestions are welcome. I presume CN is very good. If you want to improve FR, make an issue, offer your help, we will work it out.
+
+### Logic
+
+With porting to 1.1.3 I finally started to publish my Ghidra projects publicly. With those, you can follow on my changes, or do yours, _collaboratively_.
+
+It is still not Git-based, since Git replaces common server storage. As such, if you want to do something, let me know in the issues, I will make sure to upload my latest changes and take a break to allow your changes to pass.
+
+You will need Ghidra (search engine of your choice is your friend). I use Ghidra 11.1.2.
+
+You will need to set up `./ghidra_repositories` folder of this repo as `ghidra.repositories.dir` in `server.conf`.
+
+You can set up user name as `user.name` / `VMARGS=-Duser.name=` in `launch.properties`.
+
+I run server in `console` mode without any auth^2.
+
+From there on, do a local "check-out" of project of interest, and follow the usual Ghidra SRE flow.
+
+I export modified .bin file and flash it with standard procedure. In case of broken firmware recovery is possible, just follow standard flashing procedure.
+
+I assume that if you want to mod firmwares and use Ghidra you know what you are doing.
 
 ## Your translation is bad / your choice of words is bad / there is a better term
 
 Works for me :3
 
-Jokes aside, I am open to suggestions. My goal was to get rid of scrolling, because scrolling gave me perceivable headache. Plus couple of outdated terms that just need to go.
+Jokes aside, I am open to suggestions. My goal was to get rid of scrolling, because scrolling gave me perceivable headache. Plus, couple of outdated terms that just need to go.
 
 If you want to be helpful, look at the "Issues" page. Join existing issues there, or make a new one. Please add a *picture* of place you want to change, and clear writing you want to see there.
 
