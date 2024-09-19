@@ -98,7 +98,7 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
     * It updates if you change page back and forth, though.
     * I _maybe_ will look into this in future, but I do not want to break stuff "just because", or delay releases forever.
 1. Desktop icon is Timer, and not something cool.
-    * I know . Annoys me as well. I am working on graphical changes, but cannot figure graphical format yet.
+    * I know. I cannot figure graphical format yet.
     * As above, it is better so than broken or never.
 1. Timer is gone.
     * Yes, this mod took its place.
@@ -121,7 +121,7 @@ Just to keep it cool, do not do this day before important drives.
 
 ### Translations
 
-With a help of stochastic parrot, I made some Python scripts to dump and insert UTF-8 strings. Of course, some are too short, some are not recognized and some are wrongly offset, but process is pretty smooth.
+With a help of ChatGPT, I made some Python scripts to dump and insert UTF-8 strings. Of course, some are too short, some are not recognized and some are wrongly offset, but process is pretty smooth.
 
 I highly recommend making a "translation" file, or modifying existing ones compared to changing raw binaries. You lose track of what is where quickly, and as I experience it with update, have to reinvent the wheel.
 
@@ -142,6 +142,8 @@ You can set up user name as `user.name` / `VMARGS=-Duser.name=` in `launch.prope
 I run server in `console` mode without any auth^2.
 
 From there on, do a local "check-out" of project of interest, and follow the usual Ghidra SRE flow.
+
+After your changes are made, make sure to release the files. Since we pretend to do a repository, I want it to be consistent.
 
 I export modified .bin file and flash it with standard procedure. In case of broken firmware recovery is possible, just follow standard flashing procedure.
 
