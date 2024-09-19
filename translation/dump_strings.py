@@ -34,7 +34,7 @@ def extract_utf8_strings(binary_file, output_file, min_length=4):
                         out.write(f"LEN_BYTES :{len(current_string)}\n")
                         out.write(f"ORIGINAL  :{decoded_str}[END]\n")
                         out.write(f"TRANSLATED:{decoded_str}[END]\n\n")
-                
+
                 # Reset variables for the next string
                 current_string = bytearray()
                 start_address = None
