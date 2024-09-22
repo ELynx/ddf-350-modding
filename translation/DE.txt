@@ -94,7 +94,7 @@ ADDRESS   :0x8014
 LEN_BYTES :4
 COMMENT   :Should be fine, there are nulls past this string
 ORIGINAL  :Sart[END]
-TRANSLATED:Start[END]
+TRANSLATED:Starten[END]
 
 ADDRESS   :0x7fbc
 LEN_BYTES :12
@@ -120,6 +120,16 @@ ADDRESS   :0x10090
 LEN_BYTES :9
 ORIGINAL  :Gyromodus[END]
 TRANSLATED:Gyroskop[END]
+
+ADDRESS   :0x100d8
+LEN_BYTES :11
+ORIGINAL  :Einschalten[END]
+TRANSLATED:Starten[END]
+
+ADDRESS   :0x1052c
+LEN_BYTES :13
+ORIGINAL  :Einstellknopf[END]
+TRANSLATED:Setting[END]
 
 ADDRESS   :0x130c0
 LEN_BYTES :12
@@ -177,8 +187,8 @@ LEN_BYTES :29
 ORIGINAL  :Schließen
 Helligkeit
 Dynamik[END]
-TRANSLATED:Aus       
-Statik    
+TRANSLATED:Aus
+Statik
 Dynamik[END]
 
 ADDRESS   :0xd4c4
@@ -196,7 +206,7 @@ LEN_BYTES :20
 ORIGINAL  :Stumm
 Nur Alarm
 Alle[END]
-TRANSLATED:Aus  
+TRANSLATED:Aus
 Nur Alarm
 Alle[END]
 
@@ -207,16 +217,27 @@ ORIGINAL  :Schließen
 3 min 
 10 min 
 30 min [END]
-TRANSLATED:Aus       
-1 min 
-3 min 
-10 min 
-30 min [END]
+TRANSLATED:Aus
+1 min
+3 min
+10 min
+30 min[END]
 
 ADDRESS   :0x17784
 LEN_BYTES :14
 ORIGINAL  :Leerlauf Alarm[END]
 TRANSLATED:Leerlauf Alm[END]
+
+ADDRESS   :0x177e4
+LEN_BYTES :34
+ORIGINAL  :Schließen 
+15 min 
+30 min 
+60 min[END]
+TRANSLATED:Aus
+15 min
+30 min
+60 min[END]
 
 ADDRESS   :0x17cc8
 LEN_BYTES :54
@@ -224,9 +245,9 @@ ORIGINAL  :Schließen
 Leerlauf 5 m 
 Leerlauf 10 m 
 Leerlauf 20 m[END]
-TRANSLATED:Aus        
-Leerlauf 5 m 
-Leerlauf 10 m 
+TRANSLATED:Aus
+Leerlauf 5 m
+Leerlauf 10 m
 Leerlauf 20 m[END]
 
 ADDRESS   :0x17de8

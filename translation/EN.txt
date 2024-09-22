@@ -1,24 +1,42 @@
-ADDRESS   :0x474f0
-LEN_BYTES :20
-ORIGINAL  :Transmitter Settings[END]
-TRANSLATED:Transmitter settings[END]
+ADDRESS   :0x46b40
+LEN_BYTES :12
+ORIGINAL  :General menu[END]
+TRANSLATED:General[END]
+
+ADDRESS   :0x46b50
+LEN_BYTES :10
+ORIGINAL  :Model menu[END]
+TRANSLATED:Model[END]
 
 ADDRESS   :0x46b5c
 LEN_BYTES :20
 ORIGINAL  :Transmitter Settings[END]
-TRANSLATED:Transmitter settings[END]
+TRANSLATED:Transmitter[END]
 
 ADDRESS   :0x46b74
 LEN_BYTES :16
-COMMENT   :Should be fine, there are nulls past this string
 ORIGINAL  :Receiver setting[END]
-TRANSLATED:Receiver settings[END]
+TRANSLATED:Receiver[END]
 
-ADDRESS   :0x47568
+ADDRESS   :0x47024
+LEN_BYTES :12
+ORIGINAL  :General menu[END]
+TRANSLATED:General[END]
+
+ADDRESS   :0x4707c
+LEN_BYTES :10
+ORIGINAL  :Model menu[END]
+TRANSLATED:Model[END]
+
+ADDRESS   :0x474f0
+LEN_BYTES :20
+ORIGINAL  :Transmitter Settings[END]
+TRANSLATED:Transmitter[END]
+
+ADDRESS   :0x46b74
 LEN_BYTES :16
-COMMENT   :Should be fine, there are nulls past this string
 ORIGINAL  :Receiver setting[END]
-TRANSLATED:Receiver settings[END]
+TRANSLATED:Receiver[END]
 
 ADDRESS   :0x7030
 LEN_BYTES :14
@@ -82,7 +100,12 @@ TRANSLATED:Throttle Curve[END]
 ADDRESS   :0x100f4
 LEN_BYTES :10
 ORIGINAL  :Enable key[END]
-TRANSLATED:Enable Key[END]
+TRANSLATED:Start[END]
+
+ADDRESS   :0x10554
+LEN_BYTES :14
+ORIGINAL  :Adjusting Knob[END]
+TRANSLATED:Setting[END]
 
 ADDRESS   :0x130e0
 LEN_BYTES :11
@@ -136,11 +159,11 @@ ORIGINAL  :Close
 3 min 
 10 min 
 30 min [END]
-TRANSLATED:Off   
-1 min 
-3 min 
-10 min 
-30 min [END]
+TRANSLATED:Off
+1 min
+3 min
+10 min
+30 min[END]
 
 ADDRESS   :0x17828
 LEN_BYTES :29
@@ -148,9 +171,9 @@ ORIGINAL  :Close
 15 min 
 30 min 
 60 min[END]
-TRANSLATED:Off   
-15 min 
-30 min 
+TRANSLATED:Off
+15 min
+30 min
 60 min[END]
 
 ADDRESS   :0x17d30
@@ -159,9 +182,9 @@ ORIGINAL  :Close
 Idle 5 min 
 Idle 10 min 
 Idle 20 min[END]
-TRANSLATED:Off   
-Idle 5 min 
-Idle 10 min 
+TRANSLATED:Off
+Idle 5 min
+Idle 10 min
 Idle 20 min[END]
 
 ADDRESS   :0x18318
