@@ -1,4 +1,5 @@
 import re
+import os
 
 def parse_and_insert_translated_strings(original_file, output_file, translation_file):
     # Read the original binary file and make a copy to modify
@@ -83,6 +84,14 @@ def parse_and_insert_translated_strings(original_file, output_file, translation_
 
 if __name__ == "__main__":
     # Example usage
-    parse_and_insert_translated_strings('input.bin',    'common.tmp',   'common.txt')
-    parse_and_insert_translated_strings('common.tmp',   'EN.tmp',       'EN.txt')
-    parse_and_insert_translated_strings('EN.tmp',       'output.bin',   'DE.txt')
+    parse_and_insert_translated_strings('input.bin',    'EN.tmp',       'EN.txt')
+    parse_and_insert_translated_strings('EN.tmp',       'DE.tmp',       'DE.txt')
+    parse_and_insert_translated_strings('DE.tmp',       'DDF.bin',      'common.txt')
+
+    for file in os.listdir():
+        if file.endswith('.tmp'):
+            try:
+                os.remove(file)
+                print(f"Removed: {file}")
+            except Exception as e:
+                print(f"Error removing {file}: {e}")
