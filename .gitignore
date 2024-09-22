@@ -1,6 +1,5 @@
-*.tmp
-
 translation/input.bin
-translation/output.bin
+translation/*.tmp
+translation/DDF.bin
 
 ghidra_repositories/server.log
