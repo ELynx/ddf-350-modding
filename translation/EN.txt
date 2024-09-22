@@ -33,7 +33,7 @@ LEN_BYTES :20
 ORIGINAL  :Transmitter Settings[END]
 TRANSLATED:Transmitter[END]
 
-ADDRESS   :0x46b74
+ADDRESS   :0x47568
 LEN_BYTES :16
 ORIGINAL  :Receiver setting[END]
 TRANSLATED:Receiver[END]
