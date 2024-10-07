@@ -23,3 +23,6 @@
 23;ELynx;1728243580908;basic toggles
 24;ELynx;1728252089547;toggle logic
 25;ELynx;1728256972157;alpha 4\nhandle link register properly
+26;ELynx;1728326778204;move progmix old to single memory cell, prepare item for bytes
+27;ELynx;1728334778712;fish
+28;ELynx;1728338796112;add toggle to list\nlint UI
