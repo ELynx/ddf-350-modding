@@ -191,3 +191,12 @@ ADDRESS   :0x18318
 LEN_BYTES :18
 ORIGINAL  :Voltage Calibrator[END]
 TRANSLATED:Voltage Calib.[END]
+
+ADDRESS   :0xa2cc
+LEN_BYTES :20
+ORIGINAL  :Close
+Bright
+Dynamic[END]
+TRANSLATED:Off
+Static
+Dynamic[END]
