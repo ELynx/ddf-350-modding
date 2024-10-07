@@ -1,0 +1,28 @@
+1;ELynx;1726521062854;import original
+2;ELynx;1726523500284;initial analysis\nmark down battery percentage function
+3;ELynx;1726613806559;lower voltage alarm minimum to 4.1 volts
+4;ELynx;1726615463229;prepare some bookmarks
+5;ELynx;1726793306503;NiMh 4.0-5.6 volts added to battery options\n- to be tested
+6;ELynx;1727040579449;wip
+7;ELynx;1727041212056;very WIP, test expanding some memory
+8;ELynx;1727041325860;remove test code, remove test function
+9;ELynx;1727043238482;prep for main show
+10;ELynx;1727044719618;work in progress
+11;ELynx;1727382129867;prelim display
+12;ELynx;1727384329090;main screen progmix display
+13;ELynx;1727481539643;mix main screen design as-is
+14;ELynx;1727483451386;wip
+15;ELynx;1727535207410;mark out the function
+16;ELynx;1727537396096;language flow
+17;ELynx;1727562607440;multiplicative mix - ui part
+18;ELynx;1727640283131;transfer knowledge
+19;ELynx;1727646328212;multiplicative mix
+20;ELynx;1727737285363;some thoughts
+21;ELynx;1728238097683;custom key handler fish
+22;ELynx;1728242077435;toggle fish
+23;ELynx;1728243580908;basic toggles
+24;ELynx;1728252089547;toggle logic
+25;ELynx;1728256972157;alpha 4\nhandle link register properly
+26;ELynx;1728326778204;move progmix old to single memory cell, prepare item for bytes
+27;ELynx;1728334778712;fish
+28;ELynx;1728338796112;add toggle to list\nlint UI

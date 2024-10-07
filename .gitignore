@@ -1,0 +1,5 @@
+translation/input.bin
+translation/*.tmp
+translation/DDF.bin
+
+ghidra_repositories/server.log
