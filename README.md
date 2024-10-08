@@ -1,10 +1,6 @@
-# About version 1.1.3
-
-Firmware version 1.1.3 was released. My mod works only with 1.1.2, thus will not work with new firmware. I will remove release files to prevent people from flashing broken firmwares.
-
-Currently I am facing personal mental health issues, and I do not know when I will overcome them. It may be tomorrow, it may be never. As such do not expect any schedule for release on my part.
-
 # DumboRC DDF-350 Transmitter firmware modding
+
+## Current supported version - 1.1.3
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FELynx%2Fddf-350-modding&count_bg=%237FD2C6&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%237FD2C6&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -82,11 +78,7 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
 1. ☑️ Make sure to turn off "Trigger priming" unless you specifically need it.
     * It appears that trigger priming is "on" for some of the people by default.
     * It turns on ProgMIX 1 when you increase throttle.
-<<<<<<< Updated upstream
-    * By default ProgMIXes mix CH1 and CH2, so you get very unexpected cross-talk between steering and throttle.
-=======
     * By default, ProgMIXes mixes CH1 and CH2, so you get very unexpected cross-talk between steering and throttle.
->>>>>>> Stashed changes
 1. Enjoy! Drop a star on this repo, "watch" it for future updates. These numbers mean a lot to me, letting me know that I should not only to all this, but share with the community.
 1. If this was useful, consider Ko-Fi or GitHub Sponsorship (one-time or monthly).
 
@@ -104,26 +96,12 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
 
 ## Known limitations
 
-<<<<<<< Updated upstream
-1. Program MIX menu does not update "live" when you press the toggle buttons.
-    * It updates if you change page back and forth, though.
-    * I _maybe_ will look into this in future, but I do not want to break stuff "just because", or delay releases forever.
-1. Desktop icon is Timer, and not something cool.
-    * I know . Annoys me as well. I am working on graphical changes, but cannot figure graphical format yet.
-    * As above, it is better so than broken or never.
-1. Timer is gone.
-    * Yes, this mod took its place.
-    * I _crawl_ so does not affect me :3
-1. NiMh 3.6V as 0% is too low.
-    * Chime in at [Issue #6](https://github.com/ELynx/ddf-350-modding/issues/6) and suggest your voltages.
-=======
 1. Program MIX menu does not update "live" when you do mod settings.
     * It updates if you change page back and forth.
     * I want to change that, but don't want to hold release back by cosmetics.
 1. 4 NiMh 4.0V as 0% is not optimal.
     * I aligned it with 4 AA and with lowest alarm voltage.
     * I suspect transmitter will not work below 4.0 volts anyway, also lowest alarm is very much hardcoded to 4.1 volts.
->>>>>>> Stashed changes
 1. Program MIX multiplier is "funky" with VR knobs.
     * Yes, I know. But no one told me they are interested in having it better. I literally got single comment with no follow-up.
     * Chine in at [Issue #3](https://github.com/ELynx/ddf-350-modding/issues/3) and let me know.
@@ -142,9 +120,6 @@ Coming. There is so much writing I can do in one sitting. If you are a dev and w
 
 In short, .bin file is ARM Cortex 32-bit LE. Ghidra or other tool of your choice does the rest. As of time of writing, there are no checks on flashed firmware, flash at your heart's content.
 
-<<<<<<< Updated upstream
-I also have a "memdump" firmware version where buttons change memory address and content is displayed on screen. I plan to make this a permanent feature and plug it to CN language, but if you need it sooner ping me, we can work it out.
-=======
 I highly recommend making a "translation" file, or modifying existing ones compared to changing raw binaries. You lose track of what is where quickly, and as I experience it with update, have to reinvent the wheel on every sneeze.
 
 Current EN translation is 98% OK by me. DE translation is modified to get rid of scrolling, all your suggestions are welcome. I presume CN is very good. If you want to improve FR, make an issue, offer your help, we will work it out.
@@ -196,7 +171,6 @@ To add translations to `input.bin` run `import_strings.py`.
 Run `update.bat` that is just verbose translated official update script. Process is as usual.
 
 If you flashed garbage, just flash working version again.
->>>>>>> Stashed changes
 
 ## Your translation is bad / your choice of words is bad / there is a better term
 
