@@ -21,9 +21,9 @@
     * From version 0.6.b1 with option to toggle between Program MIX 1 and 2 with single key.
 1. Gives you a new way of using Program MIX 1 and 2 by scaling / multiplying channels.
 1. Cleans up some English translation to my taste and to get rid of scrolling.
-1. "Clears up" some German translation to best of my German knowledge to get rid of terrible amounts of scrolling.
+1. Clears up some German translation to best of my German knowledge to get rid of terrible amounts of scrolling.
 1. Adds main screen battery level "circle" calibration for 4 NiMh batteries in addition to original options for 4 AA and 2/3S LiPo.
-    * Range is 3.6 volts 0% to 5.6 volts 100%.
+    * Range is 4.0 volts 0% to 5.6 volts 100%.
     * Also lowered voltage alarm lowest setting to 4.1 volts.
 
 I am now into RC crawlers, and I have a crawler with four-wheel steering (4ws). This mod expresses my desire to be able to turn 4ws (and Crab) on and off without kilometer of menus.
@@ -36,7 +36,7 @@ Remember, this mod allows you to do 4ws, but you need to configure your mixes. A
 
 Symptoms are "USB device error", device flash drive not appearing. Try different cables, one by one, until one of them works.
 
-⚠️ Important note: always start patching with fresh 1.1.2 firmware file. Do not reuse files changed by previous mod releases. ⚠️
+⚠️ Important note: always start patching with fresh 1.1.3 firmware file. Do not reuse files changed by previous mod releases. ⚠️
 
 ☑️ Note: turn off "Trigger priming" unless you need it. When it is on unexpectedly, it can cause a lot of confusion. ☑️
 
@@ -46,19 +46,19 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
 
 ### Text version (more nuances, read this if you have troubles)
 
-1. Download and unpack firmware version 1.1.2 from official DumboRC site [here](https://www.dumborc.com/?page_id=930).
+1. Download and unpack firmware version 1.1.3 from official DumboRC site [here](https://www.dumborc.com/?page_id=930).
     * ⚠️ Always apply patch to **clean original** binary. ⚠️
         * Applying patch on top of previously patched binary _will_ result in glitches.
-    * This mod will work **ONLY** with 1.1.2 download.
-1. Back up the official 1.1.2 files.
-    * When 1.1.2 was released, 1.1.1 was removed. And you may need original 1.1.2 firmware, so do yourself and others a favor and keep a copy.
+    * This mod will work **ONLY** with 1.1.3 download.
+1. Back up the official 1.1.3 files.
+    * When 1.1.2 was released, 1.1.1 was removed. Same with 1.1.3 and 1.1.2. And you may need original 1.1.3 firmware, so do yourself and others a favor and keep a copy.
 1. Download very good tool named LunarIPS [here](https://fusoya.eludevisibility.org/lips).
     * This is because I _cannot_ distribute official firmware, but I _can_ [distribute my rom hacks](https://en.wikipedia.org/wiki/ROM_hacking#Distribution).
 1. Download the latest `.ips` file.
     * Visit [latest release](https://github.com/ELynx/ddf-350-modding/releases/latest)
     * Find "Assets" under text description
     * Download `.ips` file
-1. Using LunarIPS apply my "Romack" to clean fresh official 1.1.2 binary file.
+1. Using LunarIPS apply my "Romack" to clean fresh official 1.1.3 binary file.
     * LunarIPS modifies binary file "in place". Make sure to not override your backup.
     * Make sure you are applying it to the .bin file, and not the .zip
     * If (when) you do not see the .bin file in LunarIPS, change the filter inside it to `all files / *.*`
@@ -92,7 +92,7 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
 
 ## How to uninstall
 
-1. Flash stock firmware of your choice.
+1. Flash original firmware of your choice.
 
 ## Known limitations
 
@@ -103,8 +103,8 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
     * I aligned it with 4 AA and with lowest alarm voltage.
     * I suspect transmitter will not work below 4.0 volts anyway, also lowest alarm is very much hardcoded to 4.1 volts.
 1. Program MIX multiplier is "funky" with VR knobs.
-    * Yes, I know. But no one told me they are interested in having it better. I literally got single comment with no follow-up.
-    * Chine in at [Issue #3](https://github.com/ELynx/ddf-350-modding/issues/3) and let me know.
+    * Yes, I know. But when I made a test version that was logically sound, it was visually difficult to understand.
+    * Unless I think of something radically different or get a lot of inspiration, I will not spend more time on this.
 
 ## Safety, warranty, responsibility
 
@@ -116,11 +116,11 @@ Just to keep it cool, do not do this day before important drives.
 
 ## How I did this, how I do this myself
 
-Coming. There is so much writing I can do in one sitting. If you are a dev and want to do something similar, "watch" this repo for updates.
+### Translations
 
-In short, .bin file is ARM Cortex 32-bit LE. Ghidra or other tool of your choice does the rest. As of time of writing, there are no checks on flashed firmware, flash at your heart's content.
+With a help of ChatGPT, I made some Python scripts to dump and insert UTF-8 strings. Of course, some are too short, some are not recognized and some are wrongly offset, but process is pretty smooth.
 
-I highly recommend making a "translation" file, or modifying existing ones compared to changing raw binaries. You lose track of what is where quickly, and as I experience it with update, have to reinvent the wheel on every sneeze.
+I highly recommend making a "translation" file, or modifying existing ones compared to changing raw binaries. You lose track of what is where quickly, and as I experience it with update, have to reinvent the wheel.
 
 Current EN translation is 98% OK by me. DE translation is modified to get rid of scrolling, all your suggestions are welcome. I presume CN is very good. If you want to improve FR, make an issue, offer your help, we will work it out.
 
