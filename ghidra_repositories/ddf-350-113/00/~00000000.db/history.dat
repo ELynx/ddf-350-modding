@@ -26,3 +26,4 @@
 26;ELynx;1728326778204;move progmix old to single memory cell, prepare item for bytes
 27;ELynx;1728334778712;fish
 28;ELynx;1728338796112;add toggle to list\nlint UI
+29;ELynx;1728468096952;fix bug with "stuck" progmix toggles

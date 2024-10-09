@@ -17,8 +17,8 @@
 ### Features
 
 1. Gives you configurable quick ways to turn Program MIX 1 and 2 on and off without menu diving.
-    * From version 0.6.b1 with per model key settings.
-    * From version 0.6.b1 with option to toggle between Program MIX 1 and 2 with single key.
+    * From version 0.6.0 with per model key settings.
+    * From version 0.6.0 with option to toggle between Program MIX 1 and 2 with single key.
 1. Gives you a new way of using Program MIX 1 and 2 by scaling / multiplying channels.
 1. Cleans up some English translation to my taste and to get rid of scrolling.
 1. Clears up some German translation to best of my German knowledge to get rid of terrible amounts of scrolling.
