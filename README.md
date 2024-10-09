@@ -1,18 +1,27 @@
 # DumboRC DDF-350 Transmitter firmware modding
 
-## Current supported version - 1.1.3
+## ℹ️ Current supported version - 1.1.3 ℹ️
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FELynx%2Fddf-350-modding&count_bg=%237FD2C6&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%237FD2C6&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## What this does
+## At a glance
 
-### Quick Program MIX toggle
+### New Program MIX mode - quick toggle, one key -> toggle two mixes
 
-[![Video demonstration of quick on/off feature](https://img.youtube.com/vi/AhQe9XWsPlI/hqdefault.jpg)](https://www.youtube.com/embed/AhQe9XWsPlI)
+Current version
+
+[![Version 0.6.0](https://img.youtube.com/vi/W_R5PePB6ME/hqdefault.jpg)](https://www.youtube.com/embed/W_R5PePB6ME)
+
+<details>
+<summary>Previous version(s)</summary>
+
+[![Version 0.0.4](https://img.youtube.com/vi/AhQe9XWsPlI/hqdefault.jpg)](https://www.youtube.com/embed/AhQe9XWsPlI)
+
+</details>
 
 ### New Program MIX mode - multiplicative mixing
 
-[![Video demonstration of multiply feature](https://img.youtube.com/vi/MkXmJsyX0sQ/hqdefault.jpg)](https://www.youtube.com/embed/MkXmJsyX0sQ?start=20)
+[![Version 0.0.4](https://img.youtube.com/vi/MkXmJsyX0sQ/hqdefault.jpg)](https://www.youtube.com/embed/MkXmJsyX0sQ?start=20)
 
 ### Features
 
@@ -20,6 +29,7 @@
     * From version 0.6.0 with per model key settings.
     * From version 0.6.0 with option to toggle between Program MIX 1 and 2 with single key.
 1. Gives you a new way of using Program MIX 1 and 2 by scaling / multiplying channels.
+    * "Kid mode" on the go to limit throttle.
 1. Cleans up some English translation to my taste and to get rid of scrolling.
 1. Clears up some German translation to best of my German knowledge to get rid of terrible amounts of scrolling.
 1. Adds main screen battery level "circle" calibration for 4 NiMh batteries in addition to original options for 4 AA and 2/3S LiPo.
@@ -37,8 +47,6 @@ Remember, this mod allows you to do 4ws, but you need to configure your mixes. A
 Symptoms are "USB device error", device flash drive not appearing. Try different cables, one by one, until one of them works.
 
 ⚠️ Important note: always start patching with fresh 1.1.3 firmware file. Do not reuse files changed by previous mod releases. ⚠️
-
-☑️ Note: turn off "Trigger priming" unless you need it. When it is on unexpectedly, it can cause a lot of confusion. ☑️
 
 ### Video version (step by step, but less nuanced)
 
@@ -58,7 +66,7 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
     * Visit [latest release](https://github.com/ELynx/ddf-350-modding/releases/latest)
     * Find "Assets" under text description
     * Download `.ips` file
-1. Using LunarIPS apply my "Romack" to clean fresh official 1.1.3 binary file.
+1. Using LunarIPS apply my "Romhack" to clean fresh official 1.1.3 binary file.
     * LunarIPS modifies binary file "in place". Make sure to not override your backup.
     * Make sure you are applying it to the .bin file, and not the .zip
     * If (when) you do not see the .bin file in LunarIPS, change the filter inside it to `all files / *.*`
@@ -75,10 +83,6 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
     * Unplug the transmitter.
     * Plug the transmitter back, or insert batteries.
     * Turn transmitter on, new firmware fill flash automatically and you should see changes.
-1. ☑️ Make sure to turn off "Trigger priming" unless you specifically need it.
-    * It appears that trigger priming is "on" for some of the people by default.
-    * It turns on ProgMIX 1 when you increase throttle.
-    * By default, ProgMIXes mixes CH1 and CH2, so you get very unexpected cross-talk between steering and throttle.
 1. Enjoy! Drop a star on this repo, "watch" it for future updates. These numbers mean a lot to me, letting me know that I should not only to all this, but share with the community.
 1. If this was useful, consider Ko-Fi or GitHub Sponsorship (one-time or monthly).
 
@@ -99,9 +103,12 @@ Symptoms are "USB device error", device flash drive not appearing. Try different
 1. Program MIX menu does not update "live" when you do mod settings.
     * It updates if you change page back and forth.
     * I want to change that, but don't want to hold release back by cosmetics.
+1. Program MIX menu does not show keys used to toggle.
+    * I want to change that, but it may take more time and I don't want to hold release back.
 1. 4 NiMh 4.0V as 0% is not optimal.
     * I aligned it with 4 AA and with lowest alarm voltage.
-    * I suspect transmitter will not work below 4.0 volts anyway, also lowest alarm is very much hardcoded to 4.1 volts.
+    * I suspect transmitter will not work below 4.0 volts anyway.
+    * I suspect lowest value is set by bootloader to 4.1 volts, and I will *not* mess with bootloader (the part that makes transmitter start).
 1. Program MIX multiplier is "funky" with VR knobs.
     * Yes, I know. But when I made a test version that was logically sound, it was visually difficult to understand.
     * Unless I think of something radically different or get a lot of inspiration, I will not spend more time on this.
@@ -184,6 +191,6 @@ If you want to be helpful, look at the "Issues" page. Join existing issues there
 
 I am not associated or affiliated with DUMBORC, RadioLink or other commercial companies.
 
-They in no way or shape endorse this, or involved in this. Likewise, Transmitter and it‘s firmware are their property and distribution.
+They in no way or shape endorse this, or involved in this. Likewise, Transmitter and it's firmware are their property and distribution.
 
 I only distribute my changes to firmware, and I do this because changes are done by me.
