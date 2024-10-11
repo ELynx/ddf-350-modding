@@ -1,7 +1,7 @@
 import re
 import os
 
-def parse_and_insert_translated_strings(original_file, output_file, translation_file):
+def parse_and_insert_translated_strings(original_file, output_file, translation_file, skip_nulling = False):
     # Read the original binary file and make a copy to modify
     with open(original_file, 'rb') as f:
         original_data = bytearray(f.read())
@@ -31,7 +31,7 @@ def parse_and_insert_translated_strings(original_file, output_file, translation_
 
         # Extract and process the TRANSLATED string
         translated_text = translated_match.group(1).strip()
-        print(f"TRANSLATED: {translated_text}")  # Debug
+        print(f"TRANSLATED: >>>{translated_text}<<<")  # Debug
         translated_text = translated_text.replace('[END]', '\x00')  # Replace [END] with null terminator
 
         # Function to handle $xx bytes in the string
@@ -66,7 +66,7 @@ def parse_and_insert_translated_strings(original_file, output_file, translation_
             next_non_null_pos += 1
 
         # Ensure we don't overwrite beyond the null-terminator
-        max_length = next_non_null_pos - address
+        max_length = len(translated_bytes) if skip_nulling else next_non_null_pos - address
         print(f"Max length available: {max_length}")  # Debug
 
         # Pad with null bytes if needed to fit the original size
@@ -83,10 +83,12 @@ def parse_and_insert_translated_strings(original_file, output_file, translation_
         print(f"File written to {output_file}")  # Debug
 
 if __name__ == "__main__":
-    # Example usage
     parse_and_insert_translated_strings('input.bin',    'EN.tmp',       'EN.txt')
     parse_and_insert_translated_strings('EN.tmp',       'DE.tmp',       'DE.txt')
     parse_and_insert_translated_strings('DE.tmp',       'DDF.bin',      'common.txt')
+
+    # parse_and_insert_translated_strings('DDF.bin',      'DDF.bin',      'ch_rainbow_sharp.txt', True)
+    # parse_and_insert_translated_strings('DDF.bin',      'DDF.bin',      'ch_rainbow_muted.txt', True)
 
     for file in os.listdir():
         if file.endswith('.tmp'):
