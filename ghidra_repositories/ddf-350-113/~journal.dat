@@ -1,0 +1,8 @@
+IADD:00000005:/DDF_V1.1.4_original.bin
+IDSET:/DDF_V1.1.4_original.bin:c0a8b226fe2d925607014620600
+IADD:00000006:/DDF_V1.1.4.bin
+IDSET:/DDF_V1.1.4.bin:c0a8b226fe43925839506123800
+IMV:/DDF_BOOT_Firmware.bin:/DDF_BOOT_Firmware 1.0.9.bin
+IMV:/DDF_BOOT_Firmware 1.0.9.bin:/DDF_BOOT_Firmware for 1.0.9.bin
+IADD:00000007:/DDF_BOOT_Firmware for 1.1.4.bin
+IDSET:/DDF_BOOT_Firmware for 1.1.4.bin:c0a8b226fe5d925900673866600
