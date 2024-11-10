@@ -6,6 +6,6 @@
         <STATE NAME="FILE_ID" TYPE="string" VALUE="c0a8b226ebe8163915499538800" />
         <STATE NAME="FILE_TYPE" TYPE="int" VALUE="0" />
         <STATE NAME="READ_ONLY" TYPE="boolean" VALUE="false" />
-        <STATE NAME="NAME" TYPE="string" VALUE="DDF_BOOT_Firmware.bin" />
+        <STATE NAME="NAME" TYPE="string" VALUE="DDF_BOOT_Firmware for 1.0.9.bin" />
     </BASIC_INFO>
 </FILE_INFO>
