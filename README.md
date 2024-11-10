@@ -1,25 +1,25 @@
-# DumboRC DDF-350 Transmitter firmware modding
+# DumboRC DDF-350 Transmitter Firmware Modding
 
-## ℹ️ Current supported firmware version - 1.1.5 ℹ️
+## ℹ️ Current Supported Firmware Version - 1.1.5 ℹ️
 
-## ℹ️ Current mod version - 0.7.0 ℹ️
+## ℹ️ Current Mod Version - 0.7.0 ℹ️
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FELynx%2Fddf-350-modding&count_bg=%237FD2C6&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%237FD2C6&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Versions 0.7.x targeting long-term firmware release 1.1.5
+## Versions 0.7.x Targeting Long-Term Firmware Release 1.1.5
 
 ### Version 0.7.0
 
 Improved translations for EN and DE:
 * No scrolling.
-* Reduces ambiguity.
+* Reduced ambiguity.
 
-Transmitter battery display option for four NiMh cells:
-* Range 0% at 4.0 Volts to 100% at 5.6 Volts.
-* Lower possible transmitter voltage alarm setting down to 4.1 Volts.
+Transmitter battery display option for four NiMH cells:
+* Range: 0% at 4.0 volts to 100% at 5.6 volts.
+* Lower possible transmitter voltage alarm setting down to 4.1 volts.
 
 <details>
-<summary>Previous versions</summary>
+<summary>Previous Versions</summary>
 
 [![Version 0.6.0](https://img.youtube.com/vi/W_R5PePB6ME/hqdefault.jpg)](https://www.youtube.com/embed/W_R5PePB6ME)
 
@@ -27,92 +27,91 @@ Transmitter battery display option for four NiMh cells:
 
 </details>
 
-## How to install
+## How to Install
 
-⚠️ Important note: transmitter is **very** specific with USB cables. Even when USB cable works as a data cable for phone, PC, etc., it may *not* work with transmitter. ⚠️
+⚠️ Important note: The transmitter is **very** specific about USB cables. Even if a USB cable works as a data cable for a phone, PC, etc., it may *not* work with the transmitter. ⚠️
 
-Symptoms include "USB device error", device flash drive not appearing. Try different cables, one by one, until one of them works.
+Symptoms include "USB device error" or the device's flash drive not appearing. Try different cables, one by one, until one works.
 
-⚠️ Remove batteries from transmitter before doing upgrades. ⚠️
+⚠️ Remove batteries from the transmitter before performing upgrades. ⚠️
 
-### ⚠️ Upgrading from firmware versions lower than 1.1.5, stock or modded ⚠️
+### ⚠️ Upgrading from Firmware Versions Lower Than 1.1.5 (Stock or Modded) ⚠️
 
-If your current firmware version is lower than 1.1.5, stock or modded, you need **ONCE** to update to stock version 1.1.5.
+If your current firmware version is lower than 1.1.5 (stock or modded), you need to **first** update to the stock version 1.1.5.
 
-Process depends on your current version, and I will leave explanation to official video and website.
+The process depends on your current version. Please refer to the official video and website for detailed instructions:
 
-[![Official 1.1.5 installation guide on YouTube](https://img.youtube.com/vi/NK6ea4CEv3U/hqdefault.jpg)](https://www.youtube.com/embed/NK6ea4CEv3U)
+[![Official 1.1.5 Installation Guide on YouTube](https://img.youtube.com/vi/NK6ea4CEv3U/hqdefault.jpg)](https://www.youtube.com/embed/NK6ea4CEv3U)
 
 [Official DumboRC site with firmware for DDF-350](https://www.dumborc.com/?page_id=930)
 
-Once you successfully updated to 1.1.5, return here. You will not need to go through whole boot update process.
+Once successfully updated to 1.1.5, return here. You will not need to go through the entire boot update process again.
 
-### Upgrading 1.1.5 stock <-> mod or upgrading versions of mod
+### Upgrading 1.1.5 Stock <-> Mod or Upgrading Mod Versions
 
-⚠️ Important note: always start patching with clean original 1.1.5 firmware file `DDF.bin`. Do not reuse files changed by previous mod releases. ⚠️
+⚠️ Important note: Always start patching with a clean original 1.1.5 firmware file, `DDF.bin`. Do not reuse files altered by previous mod releases. ⚠️
 
-1. Start with 1.1.5 firmware file `DDF.bin`
-    * You should already have it on hand after initial upgrade to stock 1.1.5.
-    * ⚠️ Always apply patch to **clean original** binary. ⚠️
-        * Applying patch on top of previously patched binary _will_ result in glitches.
-    * This mod will work **ONLY** with 1.1.5 download.
-1. Back up the official 1.1.5 files.
-    * DumboRC removes previous versions of firmware from their website. If you ever want to go back to some specific version, or if I am lagging behind on supported version, your only legitimate source of original files is your backup.
-1. Download very good tool named LunarIPS [here](https://fusoya.eludevisibility.org/lips).
-    * This is because I _cannot_ distribute official firmware, but I _can_ [distribute my rom hacks](https://en.wikipedia.org/wiki/ROM_hacking#Distribution).
-1. Download the latest `.ips` file.
-    * Visit [latest release](https://github.com/ELynx/ddf-350-modding/releases/latest)
-    * Find "Assets" under text description
-    * Download `.ips` file
-1. Using LunarIPS apply my "Romhack" to clean fresh official 1.1.5 binary file.
-    * LunarIPS modifies binary file "in place". Make sure to not override your backup.
-    * Make sure you are applying it to the .bin file, and not the .zip.
-    * Make sure you are applying it to the firmware file, and not any of the *boot* files.
-    * If (when) you do not see the .bin file in LunarIPS, change the filter inside it to `all files / *.*`
-1. Flash the modified binary file as described in official instruction. To summarize it here, purely for your convenience:
-    * ⚠️ Take out batteries from your transmitter. ⚠️
-    * Connect your transmitter to computer using USB cable _with data capabilities_.
-       * ⚠️ It is **very** specific, not every cable will work. Try several until you find one.
-    * Press and hold CH3 and CH4 buttons, then turn on the transmitter with power button.
-    * Screen will flash "black", you will hear the chime. You can release the buttons now.
-    * On your computer, you will see new USB flash drive appearing.
-    * Run official .bat file to flash the image.
-        * Manual copying does _not_ work, Windows creates "System Volume Information" and this throw process off. Official script takes care of that.
-    * After bat file is complete, "Safe Eject" the flash drive.
+1. Start with the 1.1.5 firmware file, `DDF.bin`:
+    * You should already have this file from the initial upgrade to stock 1.1.5.
+    * ⚠️ Always apply the patch to a **clean original** binary. ⚠️
+        * Applying the patch to a previously patched binary _will_ result in glitches.
+    * This mod works **ONLY** with the 1.1.5 download.
+2. Back up the official 1.1.5 files:
+    * DumboRC removes previous firmware versions from their website. If you ever want to revert to a specific version, or if I lag behind on supporting new versions, your only reliable source of original files is your backup.
+3. Download the tool LunarIPS [here](https://fusoya.eludevisibility.org/lips):
+    * I _cannot_ distribute the official firmware but can [distribute my ROM hacks](https://en.wikipedia.org/wiki/ROM_hacking#Distribution).
+4. Download the latest `.ips` file:
+    * Visit the [latest release](https://github.com/ELynx/ddf-350-modding/releases/latest).
+    * Under "Assets," find and download the `.ips` file.
+5. Use LunarIPS to apply my "Romhack" to the clean original 1.1.5 binary file:
+    * LunarIPS modifies the binary file "in place." Ensure your backup remains intact.
+    * Make sure you are applying it to the `.bin` file, not the `.zip`.
+    * Ensure you are applying it to the firmware file, not any of the *boot* files.
+    * If you cannot see the `.bin` file in LunarIPS, change the filter to `all files / *.*`.
+6. Flash the modified binary file as described in the official instructions. For convenience:
+    * ⚠️ Remove the batteries from your transmitter. ⚠️
+    * Connect the transmitter to a computer using a USB cable _with data capabilities_:
+       * ⚠️ The transmitter is **very** specific; not all cables will work. Try several until one does.
+    * Press and hold the CH3 and CH4 buttons, then turn on the transmitter using the power button.
+    * The screen will flash "black," and you will hear a chime. Release the buttons.
+    * On your computer, a new USB flash drive will appear.
+    * Run the official `.bat` file to flash the image:
+        * Manual copying does _not_ work because Windows creates "System Volume Information," disrupting the process. The official script handles this.
+    * After the `.bat` file completes, "Safely Eject" the flash drive.
     * Unplug the transmitter.
-    * Plug the transmitter back, or insert batteries.
-    * Turn transmitter on, new firmware fill flash automatically and you should see changes.
-1. Enjoy! Drop a star on this repo, "watch" it for future updates. These numbers mean a lot to me, letting me know that I should not only to all this, but share with the community.
-1. If this was useful, consider Ko-Fi or GitHub Sponsorship (one-time or monthly).
+    * Reconnect the transmitter or insert the batteries.
+    * Turn the transmitter on. The new firmware will flash automatically, and you should see the changes.
+7. Enjoy! Drop a star on this repo or "watch" it for updates. These numbers mean a lot to me and let me know that my work is appreciated by the community.
+8. If you found this useful, consider supporting via Ko-Fi or GitHub Sponsorship (one-time or monthly).
 
-## Known limitations
+## Known Limitations
 
-1. Four NiMh 0% at 4.0V as is not optimal.
-    * I aligned it with 4 AA and with lowest alarm voltage.
-    * I suspect transmitter will not work below 4.0 volts anyway.
-    * I suspect lowest value is set by bootloader to 4.1 volts, and I will *not* mess with bootloader (the part that makes transmitter start).
+1. Four NiMH 0% threshold of 4.0V is not ideal:
+    * It aligns with four AA cells and the lowest alarm voltage.
+    * The transmitter likely will not function below 4.0 volts.
+    * The lowest voltage setting appears to be 4.1 volts, controlled by the bootloader. I will *not* modify the bootloader (the part that initializes the transmitter).
 
-## Safety, warranty, responsibility
+## Safety, Warranty, and Responsibility
 
-I provide no guarantees of safety and I am not responsible if you break something.
+I provide no guarantees of safety and am not responsible for any damage.
 
-I do my best and test everything on my own only transmitter, so I have "skin in the game". But I cannot predict everything and every situation.
+I test everything on my own transmitter, so I have "skin in the game." However, I cannot predict every situation.
 
-Just to keep it cool, do not do this day before important drives.
+For safety, avoid performing upgrades the day before important events.
 
-## How I did this, how I do this myself
+## Development Details
 
 ### Translations
 
-With a help of ChatGPT, I made some Python scripts to dump and insert UTF-8 strings. Of course, some are too short, some are not recognized and some are wrongly offset, but process is pretty smooth.
+With the help of ChatGPT, I developed Python scripts to dump and insert UTF-8 strings. While some strings are too short, unrecognized, or have incorrect offsets, the process is relatively smooth.
 
-I highly recommend making a "translation" file, or modifying existing ones compared to changing raw binaries. You lose track of what is where quickly, and as I experience it with update, have to reinvent the wheel.
+I recommend creating or modifying a "translation" file instead of editing raw binaries directly. Tracking changes in raw binaries can quickly become chaotic.
 
-Current EN translation is 98% OK by me. DE translation is modified to get rid of scrolling, all your suggestions are welcome. I presume CN is very good. If you want to improve FR, make an issue, offer your help, we will work it out.
+The current EN translation is 98% satisfactory. The DE translation removes scrolling; suggestions are welcome. I presume the CN translation is good. If you'd like to improve FR, create an issue, and we’ll collaborate.
 
 ### Logic
 
-With porting to 1.1.3 I finally started to publish my Ghidra projects publicly. With those, you can follow on my changes, or do yours, _collaboratively_.
+Starting with version 1.1.3, I began publishing my Ghidra projects publicly. These allow you to follow my changes or make your own collaboratively.
 
 It is still not Git-based, since Git replaces common server storage. As such, if you want to do something, let me know in the issues, I will make sure to upload my latest changes and take a break to allow your changes to pass.
 
@@ -158,18 +157,14 @@ Run `update.bat` that is just verbose translated official update script. Process
 
 If you flashed garbage, just flash working version again.
 
-## Your translation is bad / your choice of words is bad / there is a better term
+## Feedback and Suggestions
 
-Works for me :3
+If you find translation issues or better wording choices, let me know. My primary goal was to eliminate scrolling, which caused headaches, and to update outdated terms.
 
-Jokes aside, I am open to suggestions. My goal was to get rid of scrolling, because scrolling gave me perceivable headache. Plus couple of outdated terms that just need to go.
+For feedback, create an issue and include a picture and your suggested text.
 
-If you want to be helpful, look at the "Issues" page. Join existing issues there, or make a new one. Please add a *picture* of place you want to change, and clear writing you want to see there.
+## Legal Disclaimer
 
-## Legals
+I am not associated with or endorsed by DUMBORC, RadioLink, or any related companies.
 
-I am not associated or affiliated with DUMBORC, RadioLink or other commercial companies.
-
-They in no way or shape endorse this, or involved in this. Likewise, Transmitter and it's firmware are their property and distribution.
-
-I only distribute my changes to firmware, and I do this because changes are done by me.
+All firmware and hardware are their property. I only distribute my modifications, as permitted under the concept of derivative works.
