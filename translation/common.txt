@@ -1,57 +1,57 @@
-ADDRESS   :0x13ab0
+ADDRESS   :0x13fbc
 ORIGINAL  :官网: www.dumborc.com
 
 硬件: V1.0.0
-软件: V1.1.4[END]
+软件: V1.1.5[END]
 TRANSLATED:官网:
 www.dumborc.com
-软件: V1.1.4
-ELynx: V0.7.a1[END]
+软件: V1.1.5
+ELynx V0.7.0[END]
 
-ADDRESS   :0x13aec
+ADDRESS   :0x13ff8
 LEN_BYTES :60
 ORIGINAL  :Über uns:
 www.dumborc.com
 Hardware: V1.0.0
-Software: V1.1.4[END]
+Software: V1.1.5[END]
 TRANSLATED:Über uns:
 www.dumborc.com
-Software: V1.1.4
-ELynx: V0.7.a1[END]
+Software: V1.1.5
+ELynx: V0.7.0[END]
 
-ADDRESS   :0x13b34
+ADDRESS   :0x14040
 ORIGINAL  :About Us:
 www.dumborc.com
 Hardware: V1.0.0
-Software: V1.1.4[END]
+Software: V1.1.5[END]
 TRANSLATED:About Us:
 www.dumborc.com
-Software: V1.1.4
-ELynx: V0.7.a1[END]
+Software: V1.1.5
+ELynx: V0.7.0[END]
 
-ADDRESS   :0x6ba48
+ADDRESS   :0x6c56c
 LEN_BYTES :70
 ORIGINAL  :À propos de nous:
 www.dumborc.com
 Matériel: V1.0.0
-Logiciels: V1.1.4[END]
+Logiciels: V1.1.5[END]
 TRANSLATED:À propos de nous:
 www.dumborc.com
-Logiciels: V1.1.4
-ELynx: V0.7.a1[END]
+Logiciels: V1.1.5
+ELynx V0.7.0[END]
 
-ADDRESS   :0x6ba90
+ADDRESS   :0x6c5b4
 LEN_BYTES :83
 ORIGINAL  :サポート:
 www.dumborc.com
 ハードウェア: V1.0.0
-ソフトウェア: V1.1.4[END]
+ソフトウェア: V1.1.5[END]
 TRANSLATED:サポート:
 www.dumborc.com
-ソフトウェア: V1.1.4
-ELynx: V0.7.a1[END]
+ソフトウェア: V1.1.5
+ELynx V0.7.0[END]
 
-ADDRESS   :0x4ce24
+ADDRESS   :0x4d804
 LEN_BYTES :44
 ORIGINAL  :English
 简体中文
@@ -64,45 +64,47 @@ Deutsch
 French
 Japanese[END]
 
-ADDRESS   :0x1ec28
+ADDRESS   :0x1e69c
+LEN_BYTES :4
 ORIGINAL  :%s ![END]
 TRANSLATED:%s[END]
 
-ADDRESS   :0x1ec30
+ADDRESS   :0x1e6a4
 LEN_BYTES :46
 ORIGINAL  :Only P series receivers support this interface[END]
 TRANSLATED:Only for P series receivers![END]
 
-ADDRESS   :0x1dda4
+ADDRESS   :0x1f52c
+LEN_BYTES :4
 ORIGINAL  :%s ![END]
 TRANSLATED:%s[END]
 
-ADDRESS   :0x1ddac
+ADDRESS   :0x1f534
 LEN_BYTES :46
 ORIGINAL  :Only P series receivers support this interface[END]
 TRANSLATED:Only for P series receivers![END]
 
-ADDRESS   :0x20700
+ADDRESS   :0x21090
 LEN_BYTES :12
 ORIGINAL  :Rudder Speed[END]
 TRANSLATED:Servo Freq.[END]
 
-ADDRESS   :0x19808
+ADDRESS   :0x1a0b0
 LEN_BYTES :1
 ORIGINAL  :M[END]
 TRANSLATED:L[END]
 
-ADDRESS   :0x19c70
+ADDRESS   :0x1a518
 LEN_BYTES :1
 ORIGINAL  :S[END]
 TRANSLATED:F[END]
 
-ADDRESS   :0x1af8c
+ADDRESS   :0x1b834
 LEN_BYTES :1
 ORIGINAL  :M[END]
 TRANSLATED:L[END]
 
-ADDRESS   :0x1b3f4
+ADDRESS   :0x1bc9c
 LEN_BYTES :1
 ORIGINAL  :S[END]
 TRANSLATED:F[END]
