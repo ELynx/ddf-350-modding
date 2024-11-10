@@ -38,6 +38,11 @@ LEN_BYTES :16
 ORIGINAL  :Receiver setting[END]
 TRANSLATED:Receiver[END]
 
+ADDRESS   :0x7df0
+LEN_BYTES :14
+ORIGINAL  :Model Settings[END]
+TRANSLATED:Model[END]
+
 ADDRESS   :0x7848
 LEN_BYTES :14
 ORIGINAL  :Rudder reading[END]
