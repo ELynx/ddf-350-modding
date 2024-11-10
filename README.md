@@ -97,7 +97,7 @@ I provide no guarantees of safety and am not responsible for any damage.
 
 I test everything on my own transmitter, so I have "skin in the game." However, I cannot predict every situation.
 
-For safety, avoid performing upgrades the day before important events.
+Avoid performing upgrades the day before important events.
 
 ## Development Details
 
@@ -159,7 +159,7 @@ If you flashed garbage, just flash working version again.
 
 ## Feedback and Suggestions
 
-If you find translation issues or better wording choices, let me know. My primary goal was to eliminate scrolling, which caused headaches, and to update outdated terms.
+If you find translation issues or better wording choices, let me know. My primary goal was to eliminate scrolling, which caused me eye fatigue and headaches, and to update outdated terms.
 
 For feedback, create an issue and include a picture and your suggested text.
 
