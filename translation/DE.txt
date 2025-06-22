@@ -1,232 +1,239 @@
-ADDRESS   :0x4b944
+ADDRESS   :0x4de3c
 LEN_BYTES :25
 ORIGINAL  :#3df3ff # Kanal Status[END]
 TRANSLATED:#3df3ff # CH Status[END]
 
-ADDRESS   :0x4ca98
+ADDRESS   :0x4ef90
 LEN_BYTES :10
 ORIGINAL  :Hauptmenü[END]
 TRANSLATED:Allgemein[END]
 
-ADDRESS   :0x4d06c
+ADDRESS   :0x4f564
 LEN_BYTES :10
 ORIGINAL  :Hauptmenü[END]
 TRANSLATED:Allgemein[END]
 
-ADDRESS   :0x4caa4
+ADDRESS   :0x4ef9c
 LEN_BYTES :20
 ORIGINAL  :Modell Einstellungen[END]
 TRANSLATED:Modell[END]
 
-ADDRESS   :0x4d0cc
+ADDRESS   :0x4f5c4
 LEN_BYTES :20
 ORIGINAL  :Modell Einstellungen[END]
 TRANSLATED:Modell[END]
 
-ADDRESS   :0x7da8
+ADDRESS   :0x81cc
 LEN_BYTES :20
 ORIGINAL  :Modell Einstellungen[END]
 TRANSLATED:Modell[END]
 
-ADDRESS   :0x4cabc
+ADDRESS   :0x4efb4
 LEN_BYTES :28
 ORIGINAL  :Fernsteuerungs Einstellungen[END]
 TRANSLATED:Fernbedienung[END]
 
-ADDRESS   :0x4d548
+ADDRESS   :0x4fa40
 LEN_BYTES :28
 ORIGINAL  :Fernsteuerungs Einstellungen[END]
 TRANSLATED:Fernbedienung[END]
 
-ADDRESS   :0x4cadc
+ADDRESS   :0x4efd4
 LEN_BYTES :21
 ORIGINAL  :Receiver installiert.[END]
 TRANSLATED:Empfänger[END]
 
-ADDRESS   :0x4d5e4
+ADDRESS   :0x4fadc
 LEN_BYTES :21
 ORIGINAL  :Receiver installiert.[END]
 TRANSLATED:Empfänger[END]
 
-ADDRESS   :0x7894
+ADDRESS   :0x7cb8
 LEN_BYTES :6
 ORIGINAL  :Kanal [END]
 TRANSLATED:CH [END]
 
-ADDRESS   :0x9e04
+ADDRESS   :0xa228
 LEN_BYTES :6
 ORIGINAL  :Kanal [END]
 TRANSLATED:CH [END]
 
-ADDRESS   :0x13318
+ADDRESS   :0x1373c
 LEN_BYTES :6
 ORIGINAL  :Kanal [END]
 TRANSLATED:CH [END]
 
-ADDRESS   :0x14cc4
+ADDRESS   :0x150e8
 LEN_BYTES :6
 ORIGINAL  :Kanal [END]
 TRANSLATED:CH [END]
 
-ADDRESS   :0x19750
+ADDRESS   :0x1a290
 LEN_BYTES :6
 ORIGINAL  :Kanal [END]
 TRANSLATED:CH [END]
 
-ADDRESS   :0xd350
+ADDRESS   :0xd774
 LEN_BYTES :7
 ORIGINAL  :Zurück[END]
 TRANSLATED:Rück[END]
 
-ADDRESS   :0xd380
+ADDRESS   :0xd7a4
 LEN_BYTES :9
 ORIGINAL  :Vorwärts[END]
 TRANSLATED:Vorw[END]
 
-ADDRESS   :0x17fb4
+ADDRESS   :0x18a9c
 LEN_BYTES :14
 ORIGINAL  :Schlüssel Typ[END]
 TRANSLATED:Schaltertyp[END]
 
-ADDRESS   :0x18038
-LEN_BYTES :36
-ORIGINAL  :Blockieren
-Tippbetrieb
-Dritte stufe.[END]
+ADDRESS   :0x18b24
+LEN_BYTES :52
+ORIGINAL  :Selbstverriegelnd
+Momenttaster
+Dreistufen
+Vierstufen[END]
 TRANSLATED:Schalter
 Druck
-Drei-Zustand[END]
+Drei-Zustand
+Vier-Zustand[END]
 
-ADDRESS   :0x196f4
+ADDRESS   :0x1a234
 LEN_BYTES :14
 ORIGINAL  :Überschreiben[END]
 TRANSLATED:Zuordnung[END]
 
-ADDRESS   :0x8974
+ADDRESS   :0x8d98
 LEN_BYTES :4
 COMMENT   :Should be fine, there are nulls past this string
 ORIGINAL  :Sart[END]
 TRANSLATED:Starten[END]
 
-ADDRESS   :0x88fc
+ADDRESS   :0x8d20
 LEN_BYTES :12
 ORIGINAL  :Speed Regler[END]
 TRANSLATED:Tempomat[END]
 
-ADDRESS   :0x189d0
+ADDRESS   :0x19510
 LEN_BYTES :7
 ORIGINAL  :Kanal 1[END]
 TRANSLATED:CH 1[END]
 
-ADDRESS   :0x9298
+ADDRESS   :0x96bc
 LEN_BYTES :7
 ORIGINAL  :Kanal 2[END]
 TRANSLATED:CH 2[END]
 
-ADDRESS   :0x16e70
+ADDRESS   :0x177a0
 LEN_BYTES :7
 ORIGINAL  :Kanal 3[END]
 TRANSLATED:CH 3[END]
 
-ADDRESS   :0x189f4
+ADDRESS   :0x19534
 LEN_BYTES :7
 ORIGINAL  :Kanal 4[END]
 TRANSLATED:CH 4[END]
 
-ADDRESS   :0x11ea8
+ADDRESS   :0x122cc
 LEN_BYTES :7
 ORIGINAL  :Kanal 8[END]
 TRANSLATED:CH 8[END]
 
-ADDRESS   :0xb834
+ADDRESS   :0x24170
+LEN_BYTES :8
+ORIGINAL  :Kanal 10[END]
+TRANSLATED:CH 10[END]
+
+ADDRESS   :0xbc58
 LEN_BYTES :9
 ORIGINAL  :Standard-[END]
 TRANSLATED:Vorwahl [END]
 
-ADDRESS   :0xf4fc
+ADDRESS   :0xf920
 LEN_BYTES :9
 ORIGINAL  :Standard-[END]
 TRANSLATED:Vorwahl [END]
 
-ADDRESS   :0xf068
+ADDRESS   :0xf48c
 LEN_BYTES :15
 ORIGINAL  :Gas/Brems Kurve[END]
 TRANSLATED:Gas Kurve[END]
 
-ADDRESS   :0x118cc
+ADDRESS   :0x11cf0
 LEN_BYTES :9
 ORIGINAL  :Gyromodus[END]
 TRANSLATED:Gyroskop[END]
 
-ADDRESS   :0x11930
+ADDRESS   :0x11d54
 LEN_BYTES :11
 ORIGINAL  :Einschalten[END]
 TRANSLATED:Starten[END]
 
-ADDRESS   :0x11dc0
+ADDRESS   :0x121e4
 LEN_BYTES :13
 ORIGINAL  :Einstellknopf[END]
 TRANSLATED:Setting[END]
 
-ADDRESS   :0x11e40
+ADDRESS   :0x12264
 LEN_BYTES :14
 ORIGINAL  :Aktueller Wert[END]
 TRANSLATED:Wert[END]
 
-ADDRESS   :0x149ec
+ADDRESS   :0x14e10
 LEN_BYTES :12
 COMMENT   :Should be fine, there are nulls past this string
 ORIGINAL  :Antriebsrate[END]
 TRANSLATED:Vorwärtsrate[END]
 
-ADDRESS   :0x14a3c
+ADDRESS   :0x14e60
 LEN_BYTES :9
 COMMENT   :Should be fine, there are nulls past this string
 ORIGINAL  :Bremsrate[END]
 TRANSLATED:Rücksrate[END]
 
-ADDRESS   :0x14a88
+ADDRESS   :0x14eac
 LEN_BYTES :12
 ORIGINAL  :Linke Stufe [END]
 TRANSLATED:Linke
 Rate[END]
 
-ADDRESS   :0x14ad8
+ADDRESS   :0x14efc
 LEN_BYTES :12
 ORIGINAL  :Rechte Stufe[END]
 TRANSLATED:Rechte
 Rate[END]
 
-ADDRESS   :0x16e9c
+ADDRESS   :0x177cc
 LEN_BYTES :15
 ORIGINAL  :Steigerungsrate[END]
 TRANSLATED:Aufwärts[END]
 
-ADDRESS   :0x7e14
+ADDRESS   :0x8238
 LEN_BYTES :14
 ORIGINAL  :Modell Auswahl[END]
 TRANSLATED:Modell Wahl[END]
 
-ADDRESS   :0x847c
+ADDRESS   :0x88a0
 LEN_BYTES :21
 ORIGINAL  :Modell zurücksetzten[END]
 TRANSLATED:Modell zurückset.[END]
 
-ADDRESS   :0xa3b8
+ADDRESS   :0xa7dc
 LEN_BYTES :16
 ORIGINAL  :Trainings Modell[END]
 TRANSLATED:Trainings Modus[END]
 
-ADDRESS   :0xa8f4
+ADDRESS   :0xad18
 LEN_BYTES :20
 ORIGINAL  :Gashebel Einstellung[END]
 TRANSLATED:Gas Einstellung[END]
 
-ADDRESS   :0xae20
+ADDRESS   :0xb244
 ORIGINAL  :Stop/Zurücksetzen Knopf[END]
 TRANSLATED:Stop/Zzr. Knopf[END]
 
-ADDRESS   :0xaf24
+ADDRESS   :0xb348
 LEN_BYTES :29
 ORIGINAL  :Schließen
 Helligkeit
@@ -235,17 +242,17 @@ TRANSLATED:Aus
 Statik
 Dynamik[END]
 
-ADDRESS   :0xe350
+ADDRESS   :0xe774
 LEN_BYTES :15
 ORIGINAL  :Startton An/Aus[END]
 TRANSLATED:Startton[END]
 
-ADDRESS   :0xe3bc
+ADDRESS   :0xe7e0
 LEN_BYTES :9
 ORIGINAL  :Singalton[END]
 TRANSLATED:Signalton[END]
 
-ADDRESS   :0xe7f0
+ADDRESS   :0xec14
 LEN_BYTES :20
 ORIGINAL  :Stumm
 Nur Alarm
@@ -254,7 +261,7 @@ TRANSLATED:Aus
 Nur Alarm
 Alle[END]
 
-ADDRESS   :0xeb98
+ADDRESS   :0xefbc
 LEN_BYTES :40
 ORIGINAL  :Schließen
 1 min 
@@ -267,12 +274,12 @@ TRANSLATED:Aus
 10 min
 30 min[END]
 
-ADDRESS   :0x1cbac
+ADDRESS   :0x1d714
 LEN_BYTES :14
 ORIGINAL  :Leerlauf Alarm[END]
 TRANSLATED:Leerlauf Alm[END]
 
-ADDRESS   :0x1cc18
+ADDRESS   :0x1d780
 LEN_BYTES :34
 ORIGINAL  :Schließen 
 15 min 
@@ -283,7 +290,7 @@ TRANSLATED:Aus
 30 min
 60 min[END]
 
-ADDRESS   :0x1d100
+ADDRESS   :0x1dc68
 LEN_BYTES :54
 ORIGINAL  :Schließen 
 Leerlauf 5 m 
@@ -294,37 +301,52 @@ Leerlauf 5 m
 Leerlauf 10 m
 Leerlauf 20 m[END]
 
-ADDRESS   :0x1d258
+ADDRESS   :0x1ddc0
 LEN_BYTES :14
 ORIGINAL  :Spannung Alarm[END]
 TRANSLATED:Spannung Alm[END]
 
-ADDRESS   :0x1d76c
+ADDRESS   :0x1e2d4
 LEN_BYTES :20
 ORIGINAL  :Spannung Kalibrieren[END]
 TRANSLATED:Spannung Kalib[END]
 
-ADDRESS   :0x140a8
+ADDRESS   :0x144cc
 LEN_BYTES :36
 ORIGINAL  :Zurücksetzen auf Werkseinstellungen[END]
 TRANSLATED:Werkreset[END]
 
-ADDRESS   :0x1f264
+ADDRESS   :0x1fe70
 LEN_BYTES :11
 ORIGINAL  :RF abkommen[END]
 TRANSLATED:RF Stand.[END]
 
-ADDRESS   :0x38f0
+ADDRESS   :0x3bb8
 LEN_BYTES :9
 ORIGINAL  :Gyromodus[END]
 TRANSLATED:Gyroskop[END]
 
-ADDRESS   :0x18e44
+ADDRESS   :0x19984
 LEN_BYTES :12
 ORIGINAL  :Linke Stufe [END]
 TRANSLATED:Links[END]
 
-ADDRESS   :0x18f00
+ADDRESS   :0x19a40
 LEN_BYTES :12
 ORIGINAL  :Rechte Stufe[END]
 TRANSLATED:Rechts[END]
+
+ADDRESS   :0x23738
+LEN_BYTES :24
+ORIGINAL  :Servoarm-Schwenkregelung[END]
+TRANSLATED:Servoschwenk[END]
+
+ADDRESS   :0x23c50
+LEN_BYTES :13
+ORIGINAL  :Umschalttaste[END]
+TRANSLATED:Starten[END]
+
+ADDRESS   :0x23cd4
+LEN_BYTES :15
+ORIGINAL  :Geschwindigkeit[END]
+TRANSLATED:Tempo[END]
