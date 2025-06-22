@@ -1,5 +1,7 @@
 translation/input.bin
 translation/*.tmp
 translation/DDF.bin
+translation/lumo.png
+translation/lumo_des.png
 
 ghidra_repositories/server.log
