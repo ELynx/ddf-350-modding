@@ -1,14 +1,14 @@
 # DumboRC DDF-350 Transmitter Firmware Modding
 
-## ℹ️ Current Supported Firmware Version - 1.1.5 ℹ️
+## ℹ️ Current Supported Firmware Version - 1.1.9 ℹ️
 
-## ℹ️ Current Mod Version - 0.7.0 ℹ️
+## ℹ️ Current Mod Version - 0.8.0 ℹ️
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FELynx%2Fddf-350-modding&count_bg=%237FD2C6&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%237FD2C6&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Versions 0.7.x Targeting Long-Term Firmware Release 1.1.5
+## Versions 0.8.x Targeting Long-Term Firmware Release 1.1.9
 
-### Version 0.7.0
+### Version 0.8.0
 
 Improved translations for EN and DE:
 * No scrolling.
@@ -20,6 +20,8 @@ Transmitter battery display option for four NiMH cells:
 
 <details>
 <summary>Previous Versions</summary>
+
+Version 0.7.0 was never publicly released to any serious extent.
 
 [![Version 0.6.0](https://img.youtube.com/vi/W_R5PePB6ME/hqdefault.jpg)](https://www.youtube.com/embed/W_R5PePB6ME)
 
@@ -47,23 +49,22 @@ The process depends on your current version. Please refer to the official video 
 
 Once successfully updated to 1.1.5, return here. You will not need to go through the entire boot update process again.
 
-### Upgrading 1.1.5 Stock <-> Mod or Upgrading Mod Versions
+### Upgrading 1.1.9 Stock <-> Mod or Upgrading Mod Versions
 
-⚠️ Important note: Always start patching with a clean original 1.1.5 firmware file, `DDF.bin`. Do not reuse files altered by previous mod releases. ⚠️
+⚠️ Important note: Always start patching with a clean original 1.1.9 firmware file, `DDF.bin`. Do not reuse files altered by previous mod releases. ⚠️
 
-1. Start with the 1.1.5 firmware file, `DDF.bin`:
-    * You should already have this file from the initial upgrade to stock 1.1.5.
+1. Start with the 1.1.9 firmware file, `DDF.bin`:
     * ⚠️ Always apply the patch to a **clean original** binary. ⚠️
         * Applying the patch to a previously patched binary _will_ result in glitches.
-    * This mod works **ONLY** with the 1.1.5 download.
-2. Back up the official 1.1.5 files:
+    * This mod works **ONLY** with the 1.1.9 download.
+2. Back up the official 1.1.9 files:
     * DumboRC removes previous firmware versions from their website. If you ever want to revert to a specific version, or if I lag behind on supporting new versions, your only reliable source of original files is your backup.
 3. Download the tool LunarIPS [here](https://fusoya.eludevisibility.org/lips):
     * I _cannot_ distribute the official firmware but can [distribute my ROM hacks](https://en.wikipedia.org/wiki/ROM_hacking#Distribution).
 4. Download the latest `.ips` file:
     * Visit the [latest release](https://github.com/ELynx/ddf-350-modding/releases/latest).
     * Under "Assets," find and download the `.ips` file.
-5. Use LunarIPS to apply my "Romhack" to the clean original 1.1.5 binary file:
+5. Use LunarIPS to apply my "Romhack" to the clean original 1.1.9 binary file:
     * LunarIPS modifies the binary file "in place." Ensure your backup remains intact.
     * Make sure you are applying it to the `.bin` file, not the `.zip`.
     * Ensure you are applying it to the firmware file, not any of the *boot* files.
@@ -88,7 +89,7 @@ Once successfully updated to 1.1.5, return here. You will not need to go through
 
 1. Four NiMH 0% threshold of 4.0V is not ideal:
     * It aligns with four AA cells and the lowest alarm voltage.
-    * The transmitter likely will not function below 4.0 volts.
+    * The transmitter likely will not fully function below 4.0 volts.
     * The lowest voltage setting appears to be 4.1 volts, controlled by the bootloader. I will *not* modify the bootloader (the part that initializes the transmitter).
 
 ## Safety, Warranty, and Responsibility
