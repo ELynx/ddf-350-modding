@@ -1,7 +1,7 @@
-#Set background color of all calls to RGB888_to_RGB565 according to the arguments used
-#@author ELynx and o4-mini-high
-#@category Visualization
-#@description Highlight RGB888_to_RGB565 calls with the actual color loaded
+# Set background color of all calls to RGB888_to_RGB565 according to the arguments used
+# @author ELynx and o4-mini-high
+# @category Visualization
+# @description Highlight RGB888_to_RGB565 calls with the actual color loaded
 
 from java.awt import Color
 
@@ -41,7 +41,7 @@ else:
             norm_map = {"param_1": "r0", "param_2": "r1", "param_3": "r2"}
             for insn in reversed(prev_insns):
                 # normalize destination register
-                op0_text = insn.getDefaultOperandRepresentation(0).lower().rstrip(',')
+                op0_text = insn.getDefaultOperandRepresentation(0).lower().rstrip(",")
                 dst = norm_map.get(op0_text, op0_text)
                 if dst not in vals:
                     continue
@@ -54,11 +54,11 @@ else:
                 except:
                     pass
                 # get operand1 text
-                op1_text = insn.getDefaultOperandRepresentation(1).lower().rstrip(',')
+                op1_text = insn.getDefaultOperandRepresentation(1).lower().rstrip(",")
                 # literal immediate
-                if op1_text.startswith('#'):
+                if op1_text.startswith("#"):
                     try:
-                        vals[dst] = int(op1_text.lstrip('#'), 16)
+                        vals[dst] = int(op1_text.lstrip("#"), 16)
                         continue
                     except:
                         pass
@@ -69,14 +69,14 @@ else:
                     continue
 
             # ensure all RGB loaded
-            if None in (vals['r0'], vals['r1'], vals['r2']):
+            if None in (vals["r0"], vals["r1"], vals["r2"]):
                 println(" Missing color values before %s : %s" % (fromAddr, vals))
                 continue
 
             # assign and clamp
-            r = max(0, min(255, vals['r0']))
-            g = max(0, min(255, vals['r1']))
-            b = max(0, min(255, vals['r2']))
+            r = max(0, min(255, vals["r0"]))
+            g = max(0, min(255, vals["r1"]))
+            b = max(0, min(255, vals["r2"]))
             color = Color(r, g, b)
 
             # apply background highlight
