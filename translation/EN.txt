@@ -77,8 +77,7 @@ Four-speed[END]
 TRANSLATED:Toggle
 Push
 Tri-state
-Four-state
-[END]
+Four-state[END]
 
 ADDRESS   :0x1a26c
 LEN_BYTES :9
@@ -242,3 +241,13 @@ ADDRESS   :0x19a74
 LEN_BYTES :11
 ORIGINAL  :Right Ratio[END]
 TRANSLATED:Right[END]
+
+ADDRESS   :0x23794
+LEN_BYTES :19
+ORIGINAL  :Servo Swing Control[END]
+TRANSLATED:Servo Sweep[END]
+
+ADDRESS   :0x23c90
+LEN_BYTES :6
+ORIGINAL  :Switch[END]
+TRANSLATED:Start[END]
