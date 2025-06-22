@@ -116,7 +116,9 @@ Starting with version 1.1.3, I began publishing my Ghidra projects publicly. The
 
 It is still not Git-based, since Git replaces common server storage. As such, if you want to do something, let me know in the issues, I will make sure to upload my latest changes and take a break to allow your changes to pass.
 
-You will need Ghidra. I use [Ghidra 11.2 Public](https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_11.2_build)
+You will need Ghidra. I use [Ghidra 11.3.2 Public](https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_11.3.2_build)
+
+Project started on earlier version of Ghidra, which will not be able to open newer versions. Update accordingly.
 
 You will need to set up `./ghidra_repositories` folder of this repo as `ghidra.repositories.dir` in `server/server.conf`.
 
