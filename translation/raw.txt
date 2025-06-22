@@ -13,6 +13,11 @@ LEN_BYTES :4
 ORIGINAL  :!0K[END]
 TRANSLATED:!0K[END]
 
+ADDRESS   :0xee8
+LEN_BYTES :6
+ORIGINAL  :𵅰F[END]
+TRANSLATED:𵅰F[END]
+
 ADDRESS   :0xfd8
 LEN_BYTES :6
 ORIGINAL  :%d.%dV[END]
@@ -47,6 +52,11 @@ ADDRESS   :0x1c8c
 LEN_BYTES :4
 ORIGINAL  :cтH[END]
 TRANSLATED:cтH[END]
+
+ADDRESS   :0x1f8c
+LEN_BYTES :12
+ORIGINAL  :#24d8a8 #[END]
+TRANSLATED:#24d8a8 #[END]
 
 ADDRESS   :0x20c8
 LEN_BYTES :6
@@ -123,6 +133,11 @@ ADDRESS   :0x2850
 LEN_BYTES :6
 ORIGINAL  :0Hx1H[END]
 TRANSLATED:0Hx1H[END]
+
+ADDRESS   :0x2bf4
+LEN_BYTES :12
+ORIGINAL  :HdHHdpG#gE[END]
+TRANSLATED:HdHHdpG#gE[END]
 
 ADDRESS   :0x2cd0
 LEN_BYTES :4
@@ -2454,6 +2469,11 @@ LEN_BYTES :15
 ORIGINAL  :Current Voltage[END]
 TRANSLATED:Current Voltage[END]
 
+ADDRESS   :0x13158
+LEN_BYTES :6
+ORIGINAL  :#Ip#H[END]
+TRANSLATED:#Ip#H[END]
+
 ADDRESS   :0x13200
 LEN_BYTES :5
 ORIGINAL  :%d.%d[END]
@@ -3750,6 +3770,11 @@ TRANSLATED:Close
 30 min 
 60 min[END]
 
+ADDRESS   :0x1d92c
+LEN_BYTES :4
+ORIGINAL  :H[END]
+TRANSLATED:H[END]
+
 ADDRESS   :0x1dbd4
 LEN_BYTES :13
 ORIGINAL  :自动关机 [END]
@@ -4186,35 +4211,108 @@ LEN_BYTES :6
 ORIGINAL  :ABF-[END]
 TRANSLATED:ABF-[END]
 
-ADDRESS   :0x2053c
-LEN_BYTES :10
-ORIGINAL  :000000 无[END]
-TRANSLATED:000000 无[END]
+ADDRESS   :0x204b4
+LEN_BYTES :36
+ORIGINAL  :%s 信号强度 
+      #000000 %d%s#[END]
+TRANSLATED:%s 信号强度 
+      #000000 %d%s#[END]
 
-ADDRESS   :0x20560
-LEN_BYTES :10
-ORIGINAL  :000000 無[END]
-TRANSLATED:000000 無[END]
+ADDRESS   :0x204dc
+LEN_BYTES :36
+ORIGINAL  :%s 受信感度 
+      #000000 %d%s#[END]
+TRANSLATED:%s 受信感度 
+      #000000 %d%s#[END]
+
+ADDRESS   :0x20504
+LEN_BYTES :28
+ORIGINAL  :%s RSSI 
+      #000000 %d%s#[END]
+TRANSLATED:%s RSSI 
+      #000000 %d%s#[END]
+
+ADDRESS   :0x20524
+LEN_BYTES :34
+ORIGINAL  :%s 信号强度 
+      #000000 无[END]
+TRANSLATED:%s 信号强度 
+      #000000 无[END]
+
+ADDRESS   :0x20548
+LEN_BYTES :34
+ORIGINAL  :%s 受信感度 
+      #000000 無[END]
+TRANSLATED:%s 受信感度 
+      #000000 無[END]
+
+ADDRESS   :0x2056c
+LEN_BYTES :28
+ORIGINAL  :%s RSSI 
+      #000000 NULL#[END]
+TRANSLATED:%s RSSI 
+      #000000 NULL#[END]
 
 ADDRESS   :0x21304
 LEN_BYTES :8
 ORIGINAL  : x%IpH[END]
 TRANSLATED: x%IpH[END]
 
-ADDRESS   :0x21560
-LEN_BYTES :12
-ORIGINAL  :00000 %d.%dV[END]
-TRANSLATED:00000 %d.%dV[END]
+ADDRESS   :0x21524
+LEN_BYTES :37
+ORIGINAL  :%s 回传电压
+      #000000 %d.%dV#[END]
+TRANSLATED:%s 回传电压
+      #000000 %d.%dV#[END]
 
-ADDRESS   :0x21584
-LEN_BYTES :12
-ORIGINAL  :00000 %d.%dV[END]
-TRANSLATED:00000 %d.%dV[END]
+ADDRESS   :0x2154c
+LEN_BYTES :32
+ORIGINAL  :%s EXT Vol 
+      #000000 %d.%dV[END]
+TRANSLATED:%s EXT Vol 
+      #000000 %d.%dV[END]
 
-ADDRESS   :0x215ac
-LEN_BYTES :11
-ORIGINAL  :0000 %d.%dV[END]
-TRANSLATED:0000 %d.%dV[END]
+ADDRESS   :0x21570
+LEN_BYTES :32
+ORIGINAL  :%s EXT Ten 
+      #000000 %d.%dV[END]
+TRANSLATED:%s EXT Ten 
+      #000000 %d.%dV[END]
+
+ADDRESS   :0x21594
+LEN_BYTES :35
+ORIGINAL  :%s EXT 電圧 
+      #000000 %d.%dV[END]
+TRANSLATED:%s EXT 電圧 
+      #000000 %d.%dV[END]
+
+ADDRESS   :0x215bc
+LEN_BYTES :35
+ORIGINAL  :%s 回传电压
+       #000000 无#[END]
+TRANSLATED:%s 回传电压
+       #000000 无#[END]
+
+ADDRESS   :0x215e0
+LEN_BYTES :31
+ORIGINAL  :%s EXT Vol 
+      #000000 NULL#[END]
+TRANSLATED:%s EXT Vol 
+      #000000 NULL#[END]
+
+ADDRESS   :0x21600
+LEN_BYTES :31
+ORIGINAL  :%s EXT Ten 
+      #000000 NULL#[END]
+TRANSLATED:%s EXT Ten 
+      #000000 NULL#[END]
+
+ADDRESS   :0x21620
+LEN_BYTES :33
+ORIGINAL  :%s EXT 電圧 
+      #000000 無#[END]
+TRANSLATED:%s EXT 電圧 
+      #000000 無#[END]
 
 ADDRESS   :0x218b0
 LEN_BYTES :22
@@ -4354,6 +4452,13 @@ ORIGINAL  :モード1
 モード2[END]
 TRANSLATED:モード1
 モード2[END]
+
+ADDRESS   :0x23a14
+LEN_BYTES :6
+ORIGINAL  :x 
+#F[END]
+TRANSLATED:x 
+#F[END]
 
 ADDRESS   :0x23b10
 LEN_BYTES :4
@@ -4528,6 +4633,11 @@ ADDRESS   :0x25ad4
 LEN_BYTES :4
 ORIGINAL  :!F [END]
 TRANSLATED:!F [END]
+
+ADDRESS   :0x26554
+LEN_BYTES :12
+ORIGINAL  :#24d8a8 #[END]
+TRANSLATED:#24d8a8 #[END]
 
 ADDRESS   :0x26928
 LEN_BYTES :29
@@ -5038,6 +5148,11 @@ LEN_BYTES :8
 ORIGINAL  :CF:F1F F[END]
 TRANSLATED:CF:F1F F[END]
 
+ADDRESS   :0x3f344
+LEN_BYTES :8
+ORIGINAL  :𵅰F%F[END]
+TRANSLATED:𵅰F%F[END]
+
 ADDRESS   :0x3f358
 LEN_BYTES :4
 ORIGINAL  :pC[END]
@@ -5541,30 +5656,30 @@ LEN_BYTES :4
 ORIGINAL  :A!2H[END]
 TRANSLATED:A!2H[END]
 
-ADDRESS   :0x4d92c
-LEN_BYTES :13
-ORIGINAL  : 数据回传[END]
-TRANSLATED: 数据回传[END]
+ADDRESS   :0x4d920
+LEN_BYTES :25
+ORIGINAL  :#3df3ff # 数据回传[END]
+TRANSLATED:#3df3ff # 数据回传[END]
 
-ADDRESS   :0x4d948
-LEN_BYTES :11
-ORIGINAL  : Telemetrie[END]
-TRANSLATED: Telemetrie[END]
+ADDRESS   :0x4d93c
+LEN_BYTES :23
+ORIGINAL  :#3df3ff # Telemetrie[END]
+TRANSLATED:#3df3ff # Telemetrie[END]
 
-ADDRESS   :0x4d960
-LEN_BYTES :14
-ORIGINAL  : Télémétrie[END]
-TRANSLATED: Télémétrie[END]
+ADDRESS   :0x4d954
+LEN_BYTES :26
+ORIGINAL  :#3df3ff # Télémétrie[END]
+TRANSLATED:#3df3ff # Télémétrie[END]
 
-ADDRESS   :0x4d97c
-LEN_BYTES :19
-ORIGINAL  : テレメトリー[END]
-TRANSLATED: テレメトリー[END]
+ADDRESS   :0x4d970
+LEN_BYTES :31
+ORIGINAL  :#3df3ff # テレメトリー[END]
+TRANSLATED:#3df3ff # テレメトリー[END]
 
-ADDRESS   :0x4d99c
-LEN_BYTES :10
-ORIGINAL  : Telemetry[END]
-TRANSLATED: Telemetry[END]
+ADDRESS   :0x4d990
+LEN_BYTES :22
+ORIGINAL  :#3df3ff # Telemetry[END]
+TRANSLATED:#3df3ff # Telemetry[END]
 
 ADDRESS   :0x4d9b4
 LEN_BYTES :12
@@ -5601,30 +5716,30 @@ LEN_BYTES :6
 ORIGINAL  :AHhAH[END]
 TRANSLATED:AHhAH[END]
 
-ADDRESS   :0x4de2c
-LEN_BYTES :13
-ORIGINAL  : 通道状态[END]
-TRANSLATED: 通道状态[END]
+ADDRESS   :0x4de20
+LEN_BYTES :25
+ORIGINAL  :#3df3ff # 通道状态[END]
+TRANSLATED:#3df3ff # 通道状态[END]
 
-ADDRESS   :0x4de48
-LEN_BYTES :13
-ORIGINAL  : Kanal Status[END]
-TRANSLATED: Kanal Status[END]
+ADDRESS   :0x4de3c
+LEN_BYTES :25
+ORIGINAL  :#3df3ff # Kanal Status[END]
+TRANSLATED:#3df3ff # Kanal Status[END]
 
-ADDRESS   :0x4de64
-LEN_BYTES :13
-ORIGINAL  : Statut du CH[END]
-TRANSLATED: Statut du CH[END]
+ADDRESS   :0x4de58
+LEN_BYTES :25
+ORIGINAL  :#3df3ff # Statut du CH[END]
+TRANSLATED:#3df3ff # Statut du CH[END]
 
-ADDRESS   :0x4de80
-LEN_BYTES :31
-ORIGINAL  : チャンネルステータス[END]
-TRANSLATED: チャンネルステータス[END]
+ADDRESS   :0x4de74
+LEN_BYTES :43
+ORIGINAL  :#3df3ff # チャンネルステータス[END]
+TRANSLATED:#3df3ff # チャンネルステータス[END]
 
-ADDRESS   :0x4deac
-LEN_BYTES :9
-ORIGINAL  : CH State[END]
-TRANSLATED: CH State[END]
+ADDRESS   :0x4dea0
+LEN_BYTES :21
+ORIGINAL  :#3df3ff # CH State[END]
+TRANSLATED:#3df3ff # CH State[END]
 
 ADDRESS   :0x4e150
 LEN_BYTES :4
@@ -5961,11 +6076,11 @@ LEN_BYTES :10
 ORIGINAL  :model %02d[END]
 TRANSLATED:model %02d[END]
 
-ADDRESS   :0x50a38
-LEN_BYTES :21
-ORIGINAL  :然后按下OK按键
+ADDRESS   :0x50a10
+LEN_BYTES :61
+ORIGINAL  :请将手轮移动至#9f2f34 最右侧#,然后按下OK按键
 [END]
-TRANSLATED:然后按下OK按键
+TRANSLATED:请将手轮移动至#9f2f34 最右侧#,然后按下OK按键
 [END]
 
 ADDRESS   :0x50a50
@@ -5982,11 +6097,11 @@ ORIGINAL  :xtrême droite et appuyez sur OK.
 TRANSLATED:xtrême droite et appuyez sur OK.
 [END]
 
-ADDRESS   :0x50b04
-LEN_BYTES :21
-ORIGINAL  :然后按下OK按键
+ADDRESS   :0x50adc
+LEN_BYTES :61
+ORIGINAL  :请将扳机移动至#9f2f34 最上方#,然后按下OK按键
 [END]
-TRANSLATED:然后按下OK按键
+TRANSLATED:请将扳机移动至#9f2f34 最上方#,然后按下OK按键
 [END]
 
 ADDRESS   :0x50b1c
@@ -6003,18 +6118,18 @@ ORIGINAL  :Déplacez la gâchette vers le haut et appuyez sur OK.
 TRANSLATED:Déplacez la gâchette vers le haut et appuyez sur OK.
 [END]
 
-ADDRESS   :0x50bb4
-LEN_BYTES :22
-ORIGINAL  :然后按下OK按键.
+ADDRESS   :0x50b98
+LEN_BYTES :50
+ORIGINAL  :请#9f2f34 按住K10按键#,然后按下OK按键.
 [END]
-TRANSLATED:然后按下OK按键.
+TRANSLATED:请#9f2f34 按住K10按键#,然后按下OK按键.
 [END]
 
-ADDRESS   :0x50c08
-LEN_BYTES :22
-ORIGINAL  :,然后按下OK按键
+ADDRESS   :0x50be0
+LEN_BYTES :62
+ORIGINAL  :请将手轮移动至#9f7b34 中心点 #,然后按下OK按键
 [END]
-TRANSLATED:,然后按下OK按键
+TRANSLATED:请将手轮移动至#9f7b34 中心点 #,然后按下OK按键
 [END]
 
 ADDRESS   :0x50c24
@@ -6024,11 +6139,11 @@ ORIGINAL  :Placez le volant en position centrale et appuyez sur OK.
 TRANSLATED:Placez le volant en position centrale et appuyez sur OK.
 [END]
 
-ADDRESS   :0x50c94
-LEN_BYTES :22
-ORIGINAL  :,然后按下OK按键
+ADDRESS   :0x50c6c
+LEN_BYTES :62
+ORIGINAL  :请将扳机移动至#9f2f34 中心点 #,然后按下OK按键
 [END]
-TRANSLATED:,然后按下OK按键
+TRANSLATED:请将扳机移动至#9f2f34 中心点 #,然后按下OK按键
 [END]
 
 ADDRESS   :0x50cb0
@@ -6038,11 +6153,11 @@ ORIGINAL  :Placez la gâchette en position centrale et appuyez sur OK
 TRANSLATED:Placez la gâchette en position centrale et appuyez sur OK
 [END]
 
-ADDRESS   :0x50d1c
-LEN_BYTES :22
-ORIGINAL  :然后按下OK按键.
+ADDRESS   :0x50cf8
+LEN_BYTES :58
+ORIGINAL  :请#9f2f34 同时按住K9和K10键#,然后按下OK按键.
 [END]
-TRANSLATED:然后按下OK按键.
+TRANSLATED:请#9f2f34 同时按住K9和K10键#,然后按下OK按键.
 [END]
 
 ADDRESS   :0x510e8
@@ -6090,11 +6205,11 @@ LEN_BYTES :8
 ORIGINAL  :Warning![END]
 TRANSLATED:Warning![END]
 
-ADDRESS   :0x511a8
-LEN_BYTES :22
-ORIGINAL  :然后按下OK按键.
+ADDRESS   :0x51180
+LEN_BYTES :62
+ORIGINAL  :请将手轮移动至#3df3ff 最左侧#,然后按下OK按键.
 [END]
-TRANSLATED:然后按下OK按键.
+TRANSLATED:请将手轮移动至#3df3ff 最左侧#,然后按下OK按键.
 [END]
 
 ADDRESS   :0x511c0
@@ -6111,11 +6226,11 @@ ORIGINAL  :Move the steering wheel all the way to the left and press OK
 TRANSLATED:Move the steering wheel all the way to the left and press OK
 [END]
 
-ADDRESS   :0x51270
-LEN_BYTES :22
-ORIGINAL  :然后按下OK按键.
+ADDRESS   :0x51240
+LEN_BYTES :70
+ORIGINAL  :xDD:请将扳机移动至#3df3ff 最下方#,然后按下OK按键.
 [END]
-TRANSLATED:然后按下OK按键.
+TRANSLATED:xDD:请将扳机移动至#3df3ff 最下方#,然后按下OK按键.
 [END]
 
 ADDRESS   :0x51288
@@ -6132,11 +6247,11 @@ ORIGINAL  :Déplacez la gâchette vers le bas et appuyez sur OK
 TRANSLATED:Déplacez la gâchette vers le bas et appuyez sur OK
 [END]
 
-ADDRESS   :0x51324
-LEN_BYTES :13
-ORIGINAL  :下OK按键.
+ADDRESS   :0x51300
+LEN_BYTES :49
+ORIGINAL  :请#3df3ff 按住K9按键#,然后按下OK按键.
 [END]
-TRANSLATED:下OK按键.
+TRANSLATED:请#3df3ff 按住K9按键#,然后按下OK按键.
 [END]
 
 ADDRESS   :0x51334
@@ -6198,6 +6313,11 @@ ADDRESS   :0x53518
 LEN_BYTES :4
 ORIGINAL  :GIBH[END]
 TRANSLATED:GIBH[END]
+
+ADDRESS   :0x53524
+LEN_BYTES :4
+ORIGINAL  :#!?H[END]
+TRANSLATED:#!?H[END]
 
 ADDRESS   :0x538a4
 LEN_BYTES :6
@@ -6433,6 +6553,11 @@ ADDRESS   :0x5b75c
 LEN_BYTES :4
 ORIGINAL  :wwwt[END]
 TRANSLATED:wwwt[END]
+
+ADDRESS   :0x5b784
+LEN_BYTES :5
+ORIGINAL  :ʎ#__[END]
+TRANSLATED:ʎ#__[END]
 
 ADDRESS   :0x5bb84
 LEN_BYTES :6
@@ -6806,53 +6931,60 @@ LEN_BYTES :4
 ORIGINAL  :Y[END]
 TRANSLATED:Y[END]
 
-ADDRESS   :0x6e9d4
-LEN_BYTES :33
-ORIGINAL  : enfoncée, puis appuyez sur OK.
+ADDRESS   :0x6e9b4
+LEN_BYTES :65
+ORIGINAL  :Maintenez la touche #9f2f34 K10# enfoncée, puis appuyez sur OK.
 [END]
-TRANSLATED: enfoncée, puis appuyez sur OK.
-[END]
-
-ADDRESS   :0x6ea28
-LEN_BYTES :24
-ORIGINAL  :nd press the OK button.
-[END]
-TRANSLATED:nd press the OK button.
+TRANSLATED:Maintenez la touche #9f2f34 K10# enfoncée, puis appuyez sur OK.
 [END]
 
-ADDRESS   :0x6ea80
-LEN_BYTES :25
-ORIGINAL  :and press the OK button.
+ADDRESS   :0x6e9f8
+LEN_BYTES :72
+ORIGINAL  :Please move the trigger to the #3df3ff bottom# and press the OK button.
 [END]
-TRANSLATED:and press the OK button.
-[END]
-
-ADDRESS   :0x6eac8
-LEN_BYTES :25
-ORIGINAL  :and press the OK button.
-[END]
-TRANSLATED:and press the OK button.
+TRANSLATED:Please move the trigger to the #3df3ff bottom# and press the OK button.
 [END]
 
-ADDRESS   :0x6eb2c
-LEN_BYTES :31
-ORIGINAL  : and then press the OK button.
+ADDRESS   :0x6ea44
+LEN_BYTES :85
+ORIGINAL  :Please move the handwheel to the #3df3ff far# #3df3ff left# and press the OK button.
 [END]
-TRANSLATED: and then press the OK button.
-[END]
-
-ADDRESS   :0x6eb94
-LEN_BYTES :30
-ORIGINAL  :and then press the OK button.
-[END]
-TRANSLATED:and then press the OK button.
+TRANSLATED:Please move the handwheel to the #3df3ff far# #3df3ff left# and press the OK button.
 [END]
 
-ADDRESS   :0x6ec48
-LEN_BYTES :8
-ORIGINAL  :退出.
+ADDRESS   :0x6ea9c
+LEN_BYTES :69
+ORIGINAL  :Please move the trigger to the #9f2f34 top #and press the OK button.
 [END]
-TRANSLATED:退出.
+TRANSLATED:Please move the trigger to the #9f2f34 top #and press the OK button.
+[END]
+
+ADDRESS   :0x6eae4
+LEN_BYTES :103
+ORIGINAL  :Please press and #9f2f34 hold# #9f2f34 the# #9f2f34 K10# #9f2f34 button# and then press the OK button.
+[END]
+TRANSLATED:Please press and #9f2f34 hold# #9f2f34 the# #9f2f34 K10# #9f2f34 button# and then press the OK button.
+[END]
+
+ADDRESS   :0x6eb4c
+LEN_BYTES :102
+ORIGINAL  :Please press and #3df3ff hold# #3df3ff the# #3df3ff K9# #3df3ff button# and then press the OK button.
+[END]
+TRANSLATED:Please press and #3df3ff hold# #3df3ff the# #3df3ff K9# #3df3ff button# and then press the OK button.
+[END]
+
+ADDRESS   :0x6ebb4
+LEN_BYTES :91
+ORIGINAL  :按 #9f2f34 OK# 重置遥控器设置以及所有模型设置,按 #1b806d HOME+OK# 退出.
+[END]
+TRANSLATED:按 #9f2f34 OK# 重置遥控器设置以及所有模型设置,按 #1b806d HOME+OK# 退出.
+[END]
+
+ADDRESS   :0x6ec10
+LEN_BYTES :64
+ORIGINAL  :按 #9f2f34 OK# 重置模型设置,按 #1b806d HOME+OK# 退出.
+[END]
+TRANSLATED:按 #9f2f34 OK# 重置模型设置,按 #1b806d HOME+OK# 退出.
 [END]
 
 ADDRESS   :0x6ec54
@@ -6869,32 +7001,32 @@ ORIGINAL  :Bringen Sie den Trigger in die mittlere Position und drücken Sie OK
 TRANSLATED:Bringen Sie den Trigger in die mittlere Position und drücken Sie OK
 [END]
 
-ADDRESS   :0x6ed04
-LEN_BYTES :33
-ORIGINAL  :drückt und drücken Sie dann OK
+ADDRESS   :0x6ece0
+LEN_BYTES :69
+ORIGINAL  :Halten Sie die Taste #9f2f34 K10# gedrückt und drücken Sie dann OK
 [END]
-TRANSLATED:drückt und drücken Sie dann OK
-[END]
-
-ADDRESS   :0x6ed64
-LEN_BYTES :22
-ORIGINAL  :d press the OK button
-[END]
-TRANSLATED:d press the OK button
+TRANSLATED:Halten Sie die Taste #9f2f34 K10# gedrückt und drücken Sie dann OK
 [END]
 
-ADDRESS   :0x6edb4
-LEN_BYTES :24
-ORIGINAL  :and press the OK button
+ADDRESS   :0x6ed28
+LEN_BYTES :82
+ORIGINAL  :Please move the handwheel to the #9f7b34 center position# and press the OK button
 [END]
-TRANSLATED:and press the OK button
+TRANSLATED:Please move the handwheel to the #9f7b34 center position# and press the OK button
 [END]
 
-ADDRESS   :0x6ee04
-LEN_BYTES :24
-ORIGINAL  :and press the OK button
+ADDRESS   :0x6ed7c
+LEN_BYTES :80
+ORIGINAL  :Please move the trigger to the #9f7b34 center position# and press the OK button
 [END]
-TRANSLATED:and press the OK button
+TRANSLATED:Please move the trigger to the #9f7b34 center position# and press the OK button
+[END]
+
+ADDRESS   :0x6edd0
+LEN_BYTES :76
+ORIGINAL  :Please move the handwheel to the #9f2f34 far right# and press the OK button
+[END]
+TRANSLATED:Please move the handwheel to the #9f2f34 far right# and press the OK button
 [END]
 
 ADDRESS   :0x6ee20
@@ -6902,35 +7034,35 @@ LEN_BYTES :76
 ORIGINAL  :Maintenez les touches K9 et K10 enfoncées simultanément et appuyez sur OK.[END]
 TRANSLATED:Maintenez les touches K9 et K10 enfoncées simultanément et appuyez sur OK.[END]
 
-ADDRESS   :0x6eed4
-LEN_BYTES :11
-ORIGINAL  :um Beenden.[END]
-TRANSLATED:um Beenden.[END]
+ADDRESS   :0x6ee70
+LEN_BYTES :111
+ORIGINAL  :Drücken Sie #9f2f34 OK#, um alle Einstellungen zurückzusetzen, und drücken Sie #1b806d HOME+OK# zum Beenden.[END]
+TRANSLATED:Drücken Sie #9f2f34 OK#, um alle Einstellungen zurückzusetzen, und drücken Sie #1b806d HOME+OK# zum Beenden.[END]
 
-ADDRESS   :0x6ef2c
-LEN_BYTES :11
-ORIGINAL  :um Beenden.[END]
-TRANSLATED:um Beenden.[END]
+ADDRESS   :0x6eee0
+LEN_BYTES :87
+ORIGINAL  :#9f2f34 OK#, um die Einstellungen zurückzusetzen, danach #1b806d HOME+OK# zum Beenden.[END]
+TRANSLATED:#9f2f34 OK#, um die Einstellungen zurückzusetzen, danach #1b806d HOME+OK# zum Beenden.[END]
 
-ADDRESS   :0x6ef98
-LEN_BYTES :14
-ORIGINAL  : pour quitter.[END]
-TRANSLATED: pour quitter.[END]
+ADDRESS   :0x6ef38
+LEN_BYTES :110
+ORIGINAL  :Appuyez sur #9f2f34 OK# pour réinitialiser tous les paramètres et appuyez sur #1b806d HOME+OK# pour quitter.[END]
+TRANSLATED:Appuyez sur #9f2f34 OK# pour réinitialiser tous les paramètres et appuyez sur #1b806d HOME+OK# pour quitter.[END]
 
-ADDRESS   :0x6eff0
-LEN_BYTES :12
-ORIGINAL  :our quitter.[END]
-TRANSLATED:our quitter.[END]
+ADDRESS   :0x6efa8
+LEN_BYTES :84
+ORIGINAL  :#9f2f34 OK# pour réinitialiser les paramètres, puis #1b806d HOME+OK# pour quitter.[END]
+TRANSLATED:#9f2f34 OK# pour réinitialiser les paramètres, puis #1b806d HOME+OK# pour quitter.[END]
 
-ADDRESS   :0x6f04c
-LEN_BYTES :6
-ORIGINAL  : exit.[END]
-TRANSLATED: exit.[END]
+ADDRESS   :0x6f000
+LEN_BYTES :82
+ORIGINAL  :Press #9f2f34 OK# to reset the model Settings, and press #1b806d HOME+OK# to exit.[END]
+TRANSLATED:Press #9f2f34 OK# to reset the model Settings, and press #1b806d HOME+OK# to exit.[END]
 
-ADDRESS   :0x6f0c0
-LEN_BYTES :6
-ORIGINAL  : exit.[END]
-TRANSLATED: exit.[END]
+ADDRESS   :0x6f054
+LEN_BYTES :114
+ORIGINAL  :Press #9f2f34 OK# to reset the remote control Settings and all model Settings, and press #1b806d HOME+OK# to exit.[END]
+TRANSLATED:Press #9f2f34 OK# to reset the remote control Settings and all model Settings, and press #1b806d HOME+OK# to exit.[END]
 
 ADDRESS   :0x6f0c8
 LEN_BYTES :70
@@ -6959,10 +7091,10 @@ LEN_BYTES :75
 ORIGINAL  :Halten Sie die Tasten K9 und K10 gleichzeitig gedrückt und drücken Sie OK[END]
 TRANSLATED:Halten Sie die Tasten K9 und K10 gleichzeitig gedrückt und drücken Sie OK[END]
 
-ADDRESS   :0x6f21c
-LEN_BYTES :40
-ORIGINAL  : the same time, then press the OK button[END]
-TRANSLATED: the same time, then press the OK button[END]
+ADDRESS   :0x6f1b4
+LEN_BYTES :144
+ORIGINAL  :Please #9f2f34 hold# #9f2f34 down# #9f2f34 the# #9f2f34 K9# #9f2f34 and# #9f2f34 K10# #9f2f34 button# at the same time, then press the OK button[END]
+TRANSLATED:Please #9f2f34 hold# #9f2f34 down# #9f2f34 the# #9f2f34 K9# #9f2f34 and# #9f2f34 K10# #9f2f34 button# at the same time, then press the OK button[END]
 
 ADDRESS   :0x6f248
 LEN_BYTES :75

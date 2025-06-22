@@ -1,6 +1,6 @@
 import unicodedata
 
-STOP_STRING = "{}[]()<>$|#@&^´`'\"ɰȱ𵅰"
+STOP_STRING = "{}[]()<>$|@&^´`'\"ɰȱ"
 
 def extract_utf8_strings(binary_file, output_file, min_length=4):
     def is_dumpable_string(byte_data, not_chars=''):
