@@ -306,6 +306,11 @@ LEN_BYTES :14
 ORIGINAL  :Spannung Alarm[END]
 TRANSLATED:Spannung Alm[END]
 
+ADDRESS   :0x130b0
+LEN_BYTES :17
+ORIGINAL  :Aktuelle Spannung[END]
+TRANSLATED:Spannung Akt.[END]
+
 ADDRESS   :0x1e2d4
 LEN_BYTES :20
 ORIGINAL  :Spannung Kalibrieren[END]

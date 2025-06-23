@@ -22,8 +22,8 @@ Reference table voltage -> shown percentage
 Type | 0% | 100%
 -----|----|-----
 4AA | 4.0 | 6.0
-2S | 6.0 | 8.4
-3S | 9.0 | 12.6
+2SLP | 6.0 | 8.4
+3SLP | 9.0 | 12.6
 4NiMh | 4.0 | 5.6
 
 <details>

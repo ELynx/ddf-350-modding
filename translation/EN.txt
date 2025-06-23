@@ -208,6 +208,11 @@ Idle 5 min
 Idle 10 min
 Idle 20 min[END]
 
+ADDRESS   :0x13108
+LEN_BYTES :15
+ORIGINAL  :Current Voltage[END]
+TRANSLATED:Voltage Curr.[END]
+
 ADDRESS   :0x1e318
 LEN_BYTES :18
 ORIGINAL  :Voltage Calibrator[END]
