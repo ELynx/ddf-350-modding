@@ -18,6 +18,14 @@ Transmitter battery display option for four NiMH cells:
 * Range: 0% at 4.0 volts to 100% at 5.6 volts.
 * Lower possible transmitter voltage alarm setting down to 4.1 volts.
 
+Reference table voltage -> shown percentage
+Type | 0% | 100%
+-----|----|-----
+4AA | 4.0 | 6.0
+2S | 6.0 | 8.4
+3S | 9.0 | 12.6
+4NiMh | 4.0 | 5.6
+
 <details>
 <summary>Previous Versions</summary>
 
