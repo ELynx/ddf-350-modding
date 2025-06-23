@@ -1,137 +1,229 @@
 ADDRESS   :0x698
 LEN_BYTES :6
 ORIGINAL  :xTFI[END]
+TRANSLATED:xTFI[END]
+
 ADDRESS   :0x6dc
 LEN_BYTES :4
 ORIGINAL  :zD2[END]
+TRANSLATED:zD2[END]
+
 ADDRESS   :0x868
 LEN_BYTES :4
 ORIGINAL  :!0K[END]
+TRANSLATED:!0K[END]
+
 ADDRESS   :0xee8
 LEN_BYTES :6
 ORIGINAL  :𵅰F[END]
+TRANSLATED:𵅰F[END]
+
 ADDRESS   :0xfd8
 LEN_BYTES :6
 ORIGINAL  :%d.%dV[END]
+TRANSLATED:%d.%dV[END]
+
 ADDRESS   :0x1014
 LEN_BYTES :6
 ORIGINAL  ::Ip:H[END]
+TRANSLATED::Ip:H[END]
+
 ADDRESS   :0x1464
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x153c
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x16b4
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x178c
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x1c8c
 LEN_BYTES :4
 ORIGINAL  :cтH[END]
+TRANSLATED:cтH[END]
+
 ADDRESS   :0x1f8c
 LEN_BYTES :12
 ORIGINAL  :#24d8a8 #[END]
+TRANSLATED:#24d8a8 #[END]
+
 ADDRESS   :0x20c8
 LEN_BYTES :6
 ORIGINAL  :!IpH[END]
+TRANSLATED:!IpH[END]
+
 ADDRESS   :0x248c
 LEN_BYTES :10
 ORIGINAL  :2:ID1 %X
 [END]
+TRANSLATED:2:ID1 %X
+[END]
+
 ADDRESS   :0x2498
 LEN_BYTES :10
 ORIGINAL  :2:ID2 %X
 [END]
+TRANSLATED:2:ID2 %X
+[END]
+
 ADDRESS   :0x24a4
 LEN_BYTES :10
 ORIGINAL  :2:ID3 %X
 [END]
+TRANSLATED:2:ID3 %X
+[END]
+
 ADDRESS   :0x24b0
 LEN_BYTES :13
 ORIGINAL  :2:Secret %X
 [END]
+TRANSLATED:2:Secret %X
+[END]
+
 ADDRESS   :0x24c0
 LEN_BYTES :20
 ORIGINAL  :2:Rolling_code:%X 
 [END]
+TRANSLATED:2:Rolling_code:%X 
+[END]
+
 ADDRESS   :0x24d8
 LEN_BYTES :34
 ORIGINAL  :2:Hardware_version_code ADDR: %s
 [END]
+TRANSLATED:2:Hardware_version_code ADDR: %s
+[END]
+
 ADDRESS   :0x24fc
 LEN_BYTES :15
 ORIGINAL  :Check Error !
 [END]
+TRANSLATED:Check Error !
+[END]
+
 ADDRESS   :0x250c
 LEN_BYTES :12
 ORIGINAL  :Check OK .
 [END]
+TRANSLATED:Check OK .
+[END]
+
 ADDRESS   :0x2698
 LEN_BYTES :4
 ORIGINAL  :EѐH[END]
+TRANSLATED:EѐH[END]
+
 ADDRESS   :0x2790
 LEN_BYTES :4
 ORIGINAL  :ĲVH[END]
+TRANSLATED:ĲVH[END]
+
 ADDRESS   :0x2850
 LEN_BYTES :6
 ORIGINAL  :0Hx1H[END]
+TRANSLATED:0Hx1H[END]
+
 ADDRESS   :0x2bf4
 LEN_BYTES :12
 ORIGINAL  :HdHHdpG#gE[END]
+TRANSLATED:HdHHdpG#gE[END]
+
 ADDRESS   :0x2cd0
 LEN_BYTES :4
 ORIGINAL  : pjH[END]
+TRANSLATED: pjH[END]
+
 ADDRESS   :0x2d28
 LEN_BYTES :4
 ORIGINAL  : pXH[END]
+TRANSLATED: pXH[END]
+
 ADDRESS   :0x2eb0
 LEN_BYTES :4
 ORIGINAL  : p2H[END]
+TRANSLATED: p2H[END]
+
 ADDRESS   :0x3b74
 LEN_BYTES :4
 ORIGINAL  :5I4H[END]
+TRANSLATED:5I4H[END]
+
 ADDRESS   :0x3b80
 LEN_BYTES :4
 ORIGINAL  :L!1H[END]
+TRANSLATED:L!1H[END]
+
 ADDRESS   :0x3bac
 LEN_BYTES :9
 ORIGINAL  :陀螺仪[END]
+TRANSLATED:陀螺仪[END]
+
 ADDRESS   :0x3bb8
 LEN_BYTES :9
 ORIGINAL  :Gyromodus[END]
+TRANSLATED:Gyromodus[END]
+
 ADDRESS   :0x3bc4
 LEN_BYTES :10
 ORIGINAL  :gyromètre[END]
+TRANSLATED:gyromètre[END]
+
 ADDRESS   :0x3bd0
 LEN_BYTES :12
 ORIGINAL  :ジャイロ[END]
+TRANSLATED:ジャイロ[END]
+
 ADDRESS   :0x3be0
 LEN_BYTES :4
 ORIGINAL  :Gyro[END]
+TRANSLATED:Gyro[END]
+
 ADDRESS   :0x3bf4
 LEN_BYTES :6
 ORIGINAL  :相位[END]
+TRANSLATED:相位[END]
+
 ADDRESS   :0x3bfc
 LEN_BYTES :5
 ORIGINAL  :Phase[END]
+TRANSLATED:Phase[END]
+
 ADDRESS   :0x3c04
 LEN_BYTES :12
 ORIGINAL  :フェーズ[END]
+TRANSLATED:フェーズ[END]
+
 ADDRESS   :0x3c18
 LEN_BYTES :12
 ORIGINAL  :感度通道[END]
+TRANSLATED:感度通道[END]
+
 ADDRESS   :0x3c28
 LEN_BYTES :6
 ORIGINAL  :Sen CH[END]
+TRANSLATED:Sen CH[END]
+
 ADDRESS   :0x3c30
 LEN_BYTES :21
 ORIGINAL  :感度チャンネル[END]
+TRANSLATED:感度チャンネル[END]
+
 ADDRESS   :0x3f54
 LEN_BYTES :4
 ORIGINAL  :MIaH[END]
+TRANSLATED:MIaH[END]
+
 ADDRESS   :0x4048
 LEN_BYTES :41
 ORIGINAL  :NULL
@@ -144,188 +236,326 @@ CH7
 CH8
 CH9
 CH10[END]
+TRANSLATED:NULL
+CH2
+CH3
+CH4
+CH5
+CH6
+CH7
+CH8
+CH9
+CH10[END]
+
 ADDRESS   :0x4094
 LEN_BYTES :9
 ORIGINAL  :灵敏度[END]
+TRANSLATED:灵敏度[END]
+
 ADDRESS   :0x40a4
 LEN_BYTES :6
 ORIGINAL  :感度[END]
+TRANSLATED:感度[END]
+
 ADDRESS   :0x40b8
 LEN_BYTES :7
 ORIGINAL  :%d.%d%s[END]
+TRANSLATED:%d.%d%s[END]
+
 ADDRESS   :0x40c8
 LEN_BYTES :15
 ORIGINAL  :手轮介入比[END]
+TRANSLATED:手轮介入比[END]
+
 ADDRESS   :0x42fc
 LEN_BYTES :9
 ORIGINAL  :缓回中[END]
+TRANSLATED:缓回中[END]
+
 ADDRESS   :0x44c8
 LEN_BYTES :4
 ORIGINAL  :V1.1[END]
+TRANSLATED:V1.1[END]
+
 ADDRESS   :0x44d8
 LEN_BYTES :10
 ORIGINAL  :ID1:%04X
 [END]
+TRANSLATED:ID1:%04X
+[END]
+
 ADDRESS   :0x44e4
 LEN_BYTES :10
 ORIGINAL  :ID2:%04X
 [END]
+TRANSLATED:ID2:%04X
+[END]
+
 ADDRESS   :0x44f0
 LEN_BYTES :10
 ORIGINAL  :ID3:%04X
 [END]
+TRANSLATED:ID3:%04X
+[END]
+
 ADDRESS   :0x44fc
 LEN_BYTES :11
 ORIGINAL  :CODE:%04X
 [END]
+TRANSLATED:CODE:%04X
+[END]
+
 ADDRESS   :0x4508
 LEN_BYTES :18
 ORIGINAL  :u32RollCode:%04X
 [END]
+TRANSLATED:u32RollCode:%04X
+[END]
+
 ADDRESS   :0x4d90
 LEN_BYTES :4
 ORIGINAL  :転H[END]
+TRANSLATED:転H[END]
+
 ADDRESS   :0x4e50
 LEN_BYTES :6
 ORIGINAL  :uIpuH[END]
+TRANSLATED:uIpuH[END]
+
 ADDRESS   :0x4f18
 LEN_BYTES :4
 ORIGINAL  :CIp[END]
+TRANSLATED:CIp[END]
+
 ADDRESS   :0x4f6c
 LEN_BYTES :6
 ORIGINAL  :.Ip.H[END]
+TRANSLATED:.Ip.H[END]
+
 ADDRESS   :0x540c
 LEN_BYTES :6
 ORIGINAL  :ќ[END]
+TRANSLATED:ќ[END]
+
 ADDRESS   :0x544c
 LEN_BYTES :6
 ORIGINAL  :ј=[END]
+TRANSLATED:ј=[END]
+
 ADDRESS   :0x5cc0
 LEN_BYTES :6
 ORIGINAL  :xIpvH[END]
+TRANSLATED:xIpvH[END]
+
 ADDRESS   :0x5ce4
 LEN_BYTES :6
 ORIGINAL  :oIpmH[END]
+TRANSLATED:oIpmH[END]
+
 ADDRESS   :0x5d08
 LEN_BYTES :6
 ORIGINAL  :fIpfH[END]
+TRANSLATED:fIpfH[END]
+
 ADDRESS   :0x5d14
 LEN_BYTES :4
 ORIGINAL  :deH[END]
+TRANSLATED:deH[END]
+
 ADDRESS   :0x6c00
 LEN_BYTES :7
 ORIGINAL  :提示:[END]
+TRANSLATED:提示:[END]
+
 ADDRESS   :0x6c10
 LEN_BYTES :10
 ORIGINAL  :Hinweis...[END]
+TRANSLATED:Hinweis...[END]
+
 ADDRESS   :0x6c1c
 LEN_BYTES :11
 ORIGINAL  :Remarque...[END]
+TRANSLATED:Remarque...[END]
+
 ADDRESS   :0x6c28
 LEN_BYTES :9
 ORIGINAL  :通知...[END]
+TRANSLATED:通知...[END]
+
 ADDRESS   :0x6c34
 LEN_BYTES :7
 ORIGINAL  :Hint...[END]
+TRANSLATED:Hint...[END]
+
 ADDRESS   :0x6c3c
 LEN_BYTES :7
 ORIGINAL  :警告![END]
+TRANSLATED:警告![END]
+
 ADDRESS   :0x6c44
 LEN_BYTES :8
 ORIGINAL  :Warnung![END]
+TRANSLATED:Warnung![END]
+
 ADDRESS   :0x6c50
 LEN_BYTES :7
 ORIGINAL  :Alarme![END]
+TRANSLATED:Alarme![END]
+
 ADDRESS   :0x6c58
 LEN_BYTES :8
 ORIGINAL  :Warning![END]
+TRANSLATED:Warning![END]
+
 ADDRESS   :0x6c68
 LEN_BYTES :14
 ORIGINAL  :复制成功.
 [END]
+TRANSLATED:复制成功.
+[END]
+
 ADDRESS   :0x6c7c
 LEN_BYTES :11
 ORIGINAL  :Model %d
 %s[END]
+TRANSLATED:Model %d
+%s[END]
+
 ADDRESS   :0x6c88
 LEN_BYTES :15
 ORIGINAL  :Kopie erfolgr. [END]
+TRANSLATED:Kopie erfolgr. [END]
+
 ADDRESS   :0x6c98
 LEN_BYTES :12
 ORIGINAL  :Modell %d
 %s[END]
+TRANSLATED:Modell %d
+%s[END]
+
 ADDRESS   :0x6ca8
 LEN_BYTES :16
 ORIGINAL  :Copie réussie. [END]
+TRANSLATED:Copie réussie. [END]
+
 ADDRESS   :0x6cbc
 LEN_BYTES :13
 ORIGINAL  :Modèle %d
 %s[END]
+TRANSLATED:Modèle %d
+%s[END]
+
 ADDRESS   :0x6ccc
 LEN_BYTES :15
 ORIGINAL  :コピー完了[END]
+TRANSLATED:コピー完了[END]
+
 ADDRESS   :0x6cdc
 LEN_BYTES :15
 ORIGINAL  :モデル %d
 %s[END]
+TRANSLATED:モデル %d
+%s[END]
+
 ADDRESS   :0x6cec
 LEN_BYTES :14
 ORIGINAL  :Copy success. [END]
+TRANSLATED:Copy success. [END]
+
 ADDRESS   :0x6cfc
 LEN_BYTES :14
 ORIGINAL  :粘贴成功.
 [END]
+TRANSLATED:粘贴成功.
+[END]
+
 ADDRESS   :0x6d1c
 LEN_BYTES :13
 ORIGINAL  :Model %d 
  %s[END]
+TRANSLATED:Model %d 
+ %s[END]
+
 ADDRESS   :0x6d2c
 LEN_BYTES :14
 ORIGINAL  :Einf. Erfolgr.[END]
+TRANSLATED:Einf. Erfolgr.[END]
+
 ADDRESS   :0x6d48
 LEN_BYTES :15
 ORIGINAL  : Modell %d 
  %s[END]
+TRANSLATED: Modell %d 
+ %s[END]
+
 ADDRESS   :0x6d58
 LEN_BYTES :18
 ORIGINAL  :Insérer. se fait.[END]
+TRANSLATED:Insérer. se fait.[END]
+
 ADDRESS   :0x6d7c
 LEN_BYTES :13
 ORIGINAL  :dèle %d 
  %s[END]
+TRANSLATED:dèle %d 
+ %s[END]
+
 ADDRESS   :0x6d8c
 LEN_BYTES :18
 ORIGINAL  :ペースト完了[END]
+TRANSLATED:ペースト完了[END]
+
 ADDRESS   :0x6db0
 LEN_BYTES :17
 ORIGINAL  :モデル %d 
  %s[END]
+TRANSLATED:モデル %d 
+ %s[END]
+
 ADDRESS   :0x6dc4
 LEN_BYTES :19
 ORIGINAL  :Paste successfully.[END]
+TRANSLATED:Paste successfully.[END]
+
 ADDRESS   :0x6dd8
 LEN_BYTES :15
 ORIGINAL  :粘贴失败!
 
 [END]
+TRANSLATED:粘贴失败!
+
+[END]
+
 ADDRESS   :0x6de8
 LEN_BYTES :14
 ORIGINAL  :Einf. Fehler ![END]
+TRANSLATED:Einf. Fehler ![END]
+
 ADDRESS   :0x6df8
 LEN_BYTES :20
 ORIGINAL  :Défaut de collage ![END]
+TRANSLATED:Défaut de collage ![END]
+
 ADDRESS   :0x6e10
 LEN_BYTES :16
 ORIGINAL  :コピー失敗![END]
+TRANSLATED:コピー失敗![END]
+
 ADDRESS   :0x6e24
 LEN_BYTES :15
 ORIGINAL  :Paste failure ![END]
+TRANSLATED:Paste failure ![END]
+
 ADDRESS   :0x6e80
 LEN_BYTES :4
 ORIGINAL  :IIHH[END]
+TRANSLATED:IIHH[END]
+
 ADDRESS   :0x6efc
 LEN_BYTES :4
 ORIGINAL  :Z!+H[END]
+TRANSLATED:Z!+H[END]
+
 ADDRESS   :0x70f8
 LEN_BYTES :29
 ORIGINAL  :%s
@@ -338,87 +568,153 @@ ORIGINAL  :%s
 %s
 %s
 %s[END]
+TRANSLATED:%s
+%s
+%s
+%s
+%s
+%s
+%s
+%s
+%s
+%s[END]
+
 ADDRESS   :0x711c
 LEN_BYTES :5
 ORIGINAL  :Exit
 [END]
+TRANSLATED:Exit
+[END]
+
 ADDRESS   :0x7304
 LEN_BYTES :13
 ORIGINAL  :PPM IN MODE
 [END]
+TRANSLATED:PPM IN MODE
+[END]
+
 ADDRESS   :0x7414
 LEN_BYTES :14
 ORIGINAL  :PPM OUT MODE
 [END]
+TRANSLATED:PPM OUT MODE
+[END]
+
 ADDRESS   :0x7430
 LEN_BYTES :4
 ORIGINAL  :pG%H[END]
+TRANSLATED:pG%H[END]
+
 ADDRESS   :0x7620
 LEN_BYTES :6
 ORIGINAL  : 0 p.H[END]
+TRANSLATED: 0 p.H[END]
+
 ADDRESS   :0x779c
 LEN_BYTES :4
 ORIGINAL  : pH[END]
+TRANSLATED: pH[END]
+
 ADDRESS   :0x7c20
 LEN_BYTES :12
 ORIGINAL  :舵量浏览[END]
+TRANSLATED:舵量浏览[END]
+
 ADDRESS   :0x7c30
 LEN_BYTES :13
 ORIGINAL  :Kanal Anzeige[END]
+TRANSLATED:Kanal Anzeige[END]
+
 ADDRESS   :0x7c40
 LEN_BYTES :19
 ORIGINAL  :Indicateur de canal[END]
+TRANSLATED:Indicateur de canal[END]
+
 ADDRESS   :0x7c54
 LEN_BYTES :21
 ORIGINAL  :チャンネル表示[END]
+TRANSLATED:チャンネル表示[END]
+
 ADDRESS   :0x7c6c
 LEN_BYTES :14
 ORIGINAL  :Rudder reading[END]
+TRANSLATED:Rudder reading[END]
+
 ADDRESS   :0x7ca8
 LEN_BYTES :6
 ORIGINAL  :通道[END]
+TRANSLATED:通道[END]
+
 ADDRESS   :0x7cb0
 LEN_BYTES :4
 ORIGINAL  :%s%d[END]
+TRANSLATED:%s%d[END]
+
 ADDRESS   :0x7cb8
 LEN_BYTES :6
 ORIGINAL  :Kanal [END]
+TRANSLATED:Kanal [END]
+
 ADDRESS   :0x7d88
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x80fc
 LEN_BYTES :4
 ORIGINAL  :pIbH[END]
+TRANSLATED:pIbH[END]
+
 ADDRESS   :0x81bc
 LEN_BYTES :12
 ORIGINAL  :模型设置[END]
+TRANSLATED:模型设置[END]
+
 ADDRESS   :0x81cc
 LEN_BYTES :20
 ORIGINAL  :Modell Einstellungen[END]
+TRANSLATED:Modell Einstellungen[END]
+
 ADDRESS   :0x81e4
 LEN_BYTES :19
 ORIGINAL  :Réglage du modèle[END]
+TRANSLATED:Réglage du modèle[END]
+
 ADDRESS   :0x81f8
 LEN_BYTES :27
 ORIGINAL  :モデルセッティング[END]
+TRANSLATED:モデルセッティング[END]
+
 ADDRESS   :0x8214
 LEN_BYTES :14
 ORIGINAL  :Model Settings[END]
+TRANSLATED:Model Settings[END]
+
 ADDRESS   :0x8228
 LEN_BYTES :12
 ORIGINAL  :模型选择[END]
+TRANSLATED:模型选择[END]
+
 ADDRESS   :0x8238
 LEN_BYTES :14
 ORIGINAL  :Modell Auswahl[END]
+TRANSLATED:Modell Auswahl[END]
+
 ADDRESS   :0x8248
 LEN_BYTES :21
 ORIGINAL  :Sélection du modèle[END]
+TRANSLATED:Sélection du modèle[END]
+
 ADDRESS   :0x8260
 LEN_BYTES :21
 ORIGINAL  :モデルセレクト[END]
+TRANSLATED:モデルセレクト[END]
+
 ADDRESS   :0x8278
 LEN_BYTES :12
 ORIGINAL  :Model Select[END]
+TRANSLATED:Model Select[END]
+
 ADDRESS   :0x8294
 LEN_BYTES :29
 ORIGINAL  :%s
@@ -431,99 +727,172 @@ ORIGINAL  :%s
 %s
 %s
 %s[END]
+TRANSLATED:%s
+%s
+%s
+%s
+%s
+%s
+%s
+%s
+%s
+%s[END]
+
 ADDRESS   :0x86d4
 LEN_BYTES :15
 ORIGINAL  :模型重命名[END]
+TRANSLATED:模型重命名[END]
+
 ADDRESS   :0x86e4
 LEN_BYTES :15
 ORIGINAL  :Modell umbennen[END]
+TRANSLATED:Modell umbennen[END]
+
 ADDRESS   :0x86f4
 LEN_BYTES :19
 ORIGINAL  :Renommer le modèle[END]
+TRANSLATED:Renommer le modèle[END]
+
 ADDRESS   :0x8708
 LEN_BYTES :18
 ORIGINAL  :モデルネーム[END]
+TRANSLATED:モデルネーム[END]
+
 ADDRESS   :0x871c
 LEN_BYTES :14
 ORIGINAL  :Model renaming[END]
+TRANSLATED:Model renaming[END]
+
 ADDRESS   :0x8738
 LEN_BYTES :12
 ORIGINAL  :模型复制[END]
+TRANSLATED:模型复制[END]
+
 ADDRESS   :0x8748
 LEN_BYTES :15
 ORIGINAL  :Modell kopieren[END]
+TRANSLATED:Modell kopieren[END]
+
 ADDRESS   :0x8758
 LEN_BYTES :13
 ORIGINAL  :Modèle Copie[END]
+TRANSLATED:Modèle Copie[END]
+
 ADDRESS   :0x8768
 LEN_BYTES :18
 ORIGINAL  :モデルコピー[END]
+TRANSLATED:モデルコピー[END]
+
 ADDRESS   :0x877c
 LEN_BYTES :10
 ORIGINAL  :Model Copy[END]
+TRANSLATED:Model Copy[END]
+
 ADDRESS   :0x8790
 LEN_BYTES :12
 ORIGINAL  :模型粘贴[END]
+TRANSLATED:模型粘贴[END]
+
 ADDRESS   :0x87a0
 LEN_BYTES :16
 ORIGINAL  :Modell einfügen[END]
+TRANSLATED:Modell einfügen[END]
+
 ADDRESS   :0x87b4
 LEN_BYTES :19
 ORIGINAL  :Insérer un modèle[END]
+TRANSLATED:Insérer un modèle[END]
+
 ADDRESS   :0x87c8
 LEN_BYTES :21
 ORIGINAL  :モデルペースト[END]
+TRANSLATED:モデルペースト[END]
+
 ADDRESS   :0x87e0
 LEN_BYTES :11
 ORIGINAL  :Model Paste[END]
+TRANSLATED:Model Paste[END]
+
 ADDRESS   :0x8890
 LEN_BYTES :12
 ORIGINAL  :模型重置[END]
+TRANSLATED:模型重置[END]
+
 ADDRESS   :0x88a0
 LEN_BYTES :21
 ORIGINAL  :Modell zurücksetzten[END]
+TRANSLATED:Modell zurücksetzten[END]
+
 ADDRESS   :0x88b8
 LEN_BYTES :25
 ORIGINAL  :Réinitialiser le modèle[END]
+TRANSLATED:Réinitialiser le modèle[END]
+
 ADDRESS   :0x88d4
 LEN_BYTES :21
 ORIGINAL  :モデルリセット[END]
+TRANSLATED:モデルリセット[END]
+
 ADDRESS   :0x88ec
 LEN_BYTES :11
 ORIGINAL  :Model Reset[END]
+TRANSLATED:Model Reset[END]
+
 ADDRESS   :0x8bf0
 LEN_BYTES :4
 ORIGINAL  :dIqH[END]
+TRANSLATED:dIqH[END]
+
 ADDRESS   :0x8bfc
 LEN_BYTES :4
 ORIGINAL  :P!nH[END]
+TRANSLATED:P!nH[END]
+
 ADDRESS   :0x8d10
 LEN_BYTES :12
 ORIGINAL  :定速巡航[END]
+TRANSLATED:定速巡航[END]
+
 ADDRESS   :0x8d20
 LEN_BYTES :12
 ORIGINAL  :Speed Regler[END]
+TRANSLATED:Speed Regler[END]
+
 ADDRESS   :0x8d30
 LEN_BYTES :17
 ORIGINAL  :Contr. De vitesse[END]
+TRANSLATED:Contr. De vitesse[END]
+
 ADDRESS   :0x8d44
 LEN_BYTES :30
 ORIGINAL  :クルーズコントロール[END]
+TRANSLATED:クルーズコントロール[END]
+
 ADDRESS   :0x8d64
 LEN_BYTES :14
 ORIGINAL  :Cruise control[END]
+TRANSLATED:Cruise control[END]
+
 ADDRESS   :0x8d88
 LEN_BYTES :12
 ORIGINAL  :巡航按键[END]
+TRANSLATED:巡航按键[END]
+
 ADDRESS   :0x8d98
 LEN_BYTES :4
 ORIGINAL  :Sart[END]
+TRANSLATED:Sart[END]
+
 ADDRESS   :0x8da0
 LEN_BYTES :5
 ORIGINAL  :Start[END]
+TRANSLATED:Start[END]
+
 ADDRESS   :0x8da8
 LEN_BYTES :12
 ORIGINAL  :スタート[END]
+TRANSLATED:スタート[END]
+
 ADDRESS   :0x8dbc
 LEN_BYTES :24
 ORIGINAL  :NULL
@@ -532,230 +901,389 @@ K-4
 K-8
 K-9
 K10[END]
+TRANSLATED:NULL
+K-3
+K-4
+K-8
+K-9
+K10[END]
+
 ADDRESS   :0x91e4
 LEN_BYTES :12
 ORIGINAL  :巡航旋钮[END]
+TRANSLATED:巡航旋钮[END]
+
 ADDRESS   :0x91f4
 LEN_BYTES :7
 ORIGINAL  :Setting[END]
+TRANSLATED:Setting[END]
+
 ADDRESS   :0x91fc
 LEN_BYTES :18
 ORIGINAL  :セッティング[END]
+TRANSLATED:セッティング[END]
+
 ADDRESS   :0x9218
 LEN_BYTES :14
 ORIGINAL  :NULL
 VR-5
 VR-6[END]
+TRANSLATED:NULL
+VR-5
+VR-6[END]
+
 ADDRESS   :0x923c
 LEN_BYTES :12
 ORIGINAL  :巡航模式[END]
+TRANSLATED:巡航模式[END]
+
 ADDRESS   :0x924c
 LEN_BYTES :4
 ORIGINAL  :Mode[END]
+TRANSLATED:Mode[END]
+
 ADDRESS   :0x9254
 LEN_BYTES :9
 ORIGINAL  :モード[END]
+TRANSLATED:モード[END]
+
 ADDRESS   :0x9264
 LEN_BYTES :17
 ORIGINAL  :模式 1
 模式 2[END]
+TRANSLATED:模式 1
+模式 2[END]
+
 ADDRESS   :0x9278
 LEN_BYTES :13
 ORIGINAL  :mode 1
 mode 2[END]
+TRANSLATED:mode 1
+mode 2[END]
+
 ADDRESS   :0x9288
 LEN_BYTES :21
 ORIGINAL  :モード1
 モード2[END]
+TRANSLATED:モード1
+モード2[END]
+
 ADDRESS   :0x92a4
 LEN_BYTES :20
 ORIGINAL  :模式2
 巡航速度[END]
+TRANSLATED:模式2
+巡航速度[END]
+
 ADDRESS   :0x92bc
 LEN_BYTES :6
 ORIGINAL  :Mode 2[END]
+TRANSLATED:Mode 2[END]
+
 ADDRESS   :0x92c4
 LEN_BYTES :24
 ORIGINAL  :モード２スピード[END]
+TRANSLATED:モード２スピード[END]
+
 ADDRESS   :0x92e0
 LEN_BYTES :13
 ORIGINAL  :Mode 2 
 speed[END]
+TRANSLATED:Mode 2 
+speed[END]
+
 ADDRESS   :0x96b4
 LEN_BYTES :7
 ORIGINAL  :通道2[END]
+TRANSLATED:通道2[END]
+
 ADDRESS   :0x96bc
 LEN_BYTES :7
 ORIGINAL  :Kanal 2[END]
+TRANSLATED:Kanal 2[END]
+
 ADDRESS   :0x96d4
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x96e0
 LEN_BYTES :7
 ORIGINAL  :状态:[END]
+TRANSLATED:状态:[END]
+
 ADDRESS   :0x96e8
 LEN_BYTES :7
 ORIGINAL  :Status:[END]
+TRANSLATED:Status:[END]
+
 ADDRESS   :0x96f0
 LEN_BYTES :15
 ORIGINAL  :ステータス[END]
+TRANSLATED:ステータス[END]
+
 ADDRESS   :0x9780
 LEN_BYTES :4
 ORIGINAL  :QIp[END]
+TRANSLATED:QIp[END]
+
 ADDRESS   :0x979c
 LEN_BYTES :6
 ORIGINAL  :MHxMH[END]
+TRANSLATED:MHxMH[END]
+
 ADDRESS   :0x97d0
 LEN_BYTES :4
 ORIGINAL  :=Ip[END]
+TRANSLATED:=Ip[END]
+
 ADDRESS   :0x98e0
 LEN_BYTES :15
 ORIGINAL  :paste error !
 [END]
+TRANSLATED:paste error !
+[END]
+
 ADDRESS   :0x9974
 LEN_BYTES :6
 ORIGINAL  :7IpF[END]
+TRANSLATED:7IpF[END]
+
 ADDRESS   :0x99ac
 LEN_BYTES :6
 ORIGINAL  :,IpF[END]
+TRANSLATED:,IpF[END]
+
 ADDRESS   :0x9a90
 LEN_BYTES :6
 ORIGINAL  :AKU_NH[END]
+TRANSLATED:AKU_NH[END]
+
 ADDRESS   :0x9c08
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x9cf4
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0xa1b0
 LEN_BYTES :12
 ORIGINAL  :通道相位[END]
+TRANSLATED:通道相位[END]
+
 ADDRESS   :0xa1c0
 LEN_BYTES :12
 ORIGINAL  :Kanal Status[END]
+TRANSLATED:Kanal Status[END]
+
 ADDRESS   :0xa1d0
 LEN_BYTES :19
 ORIGINAL  :Phase de la chaîne[END]
+TRANSLATED:Phase de la chaîne[END]
+
 ADDRESS   :0xa1e4
 LEN_BYTES :30
 ORIGINAL  :チャンネルステータス[END]
+TRANSLATED:チャンネルステータス[END]
+
 ADDRESS   :0xa204
 LEN_BYTES :13
 ORIGINAL  :Channel Phase[END]
+TRANSLATED:Channel Phase[END]
+
 ADDRESS   :0xa218
 LEN_BYTES :6
 ORIGINAL  :通道[END]
+TRANSLATED:通道[END]
+
 ADDRESS   :0xa220
 LEN_BYTES :4
 ORIGINAL  :%s%d[END]
+TRANSLATED:%s%d[END]
+
 ADDRESS   :0xa228
 LEN_BYTES :6
 ORIGINAL  :Kanal [END]
+TRANSLATED:Kanal [END]
+
 ADDRESS   :0xa234
 LEN_BYTES :6
 ORIGINAL  :正相[END]
+TRANSLATED:正相[END]
+
 ADDRESS   :0xa240
 LEN_BYTES :12
 ORIGINAL  :ノーマル[END]
+TRANSLATED:ノーマル[END]
+
 ADDRESS   :0xa390
 LEN_BYTES :6
 ORIGINAL  :反相[END]
+TRANSLATED:反相[END]
+
 ADDRESS   :0xa39c
 LEN_BYTES :12
 ORIGINAL  :リバース[END]
+TRANSLATED:リバース[END]
+
 ADDRESS   :0xa6a8
 LEN_BYTES :4
 ORIGINAL  :fIuH[END]
+TRANSLATED:fIuH[END]
+
 ADDRESS   :0xa6c8
 LEN_BYTES :4
 ORIGINAL  :n!mH[END]
+TRANSLATED:n!mH[END]
+
 ADDRESS   :0xa7cc
 LEN_BYTES :12
 ORIGINAL  :教练模式[END]
+TRANSLATED:教练模式[END]
+
 ADDRESS   :0xa7dc
 LEN_BYTES :16
 ORIGINAL  :Trainings Modell[END]
+TRANSLATED:Trainings Modell[END]
+
 ADDRESS   :0xa7fc
 LEN_BYTES :11
 ORIGINAL  :traînement[END]
+TRANSLATED:traînement[END]
+
 ADDRESS   :0xa808
 LEN_BYTES :27
 ORIGINAL  :トレーニングモード[END]
+TRANSLATED:トレーニングモード[END]
+
 ADDRESS   :0xa824
 LEN_BYTES :14
 ORIGINAL  :Coaching model[END]
+TRANSLATED:Coaching model[END]
+
 ADDRESS   :0xa848
 LEN_BYTES :12
 ORIGINAL  :输入模式[END]
+TRANSLATED:输入模式[END]
+
 ADDRESS   :0xa858
 LEN_BYTES :7
 ORIGINAL  :Eingabe[END]
+TRANSLATED:Eingabe[END]
+
 ADDRESS   :0xa860
 LEN_BYTES :7
 ORIGINAL  :Entrée[END]
+TRANSLATED:Entrée[END]
+
 ADDRESS   :0xa868
 LEN_BYTES :15
 ORIGINAL  :インプット[END]
+TRANSLATED:インプット[END]
+
 ADDRESS   :0xa878
 LEN_BYTES :5
 ORIGINAL  :Input[END]
+TRANSLATED:Input[END]
+
 ADDRESS   :0xa884
 LEN_BYTES :13
 ORIGINAL  :输出模式 [END]
+TRANSLATED:输出模式 [END]
+
 ADDRESS   :0xa894
 LEN_BYTES :7
 ORIGINAL  :Ausgabe[END]
+TRANSLATED:Ausgabe[END]
+
 ADDRESS   :0xa89c
 LEN_BYTES :6
 ORIGINAL  :Sortie[END]
+TRANSLATED:Sortie[END]
+
 ADDRESS   :0xa8a4
 LEN_BYTES :18
 ORIGINAL  :アウトプット[END]
+TRANSLATED:アウトプット[END]
+
 ADDRESS   :0xa8b8
 LEN_BYTES :6
 ORIGINAL  :Output[END]
+TRANSLATED:Output[END]
+
 ADDRESS   :0xacd4
 LEN_BYTES :10
 ORIGINAL  :计时器 [END]
+TRANSLATED:计时器 [END]
+
 ADDRESS   :0xace0
 LEN_BYTES :5
 ORIGINAL  :Timer[END]
+TRANSLATED:Timer[END]
+
 ADDRESS   :0xace8
 LEN_BYTES :9
 ORIGINAL  :Minuterie[END]
+TRANSLATED:Minuterie[END]
+
 ADDRESS   :0xacf4
 LEN_BYTES :12
 ORIGINAL  :タイマー[END]
+TRANSLATED:タイマー[END]
+
 ADDRESS   :0xad08
 LEN_BYTES :12
 ORIGINAL  :扳机启动[END]
+TRANSLATED:扳机启动[END]
+
 ADDRESS   :0xad18
 LEN_BYTES :20
 ORIGINAL  :Gashebel Einstellung[END]
+TRANSLATED:Gashebel Einstellung[END]
+
 ADDRESS   :0xad30
 LEN_BYTES :26
 ORIGINAL  :Réglage du levier des gaz[END]
+TRANSLATED:Réglage du levier des gaz[END]
+
 ADDRESS   :0xad4c
 LEN_BYTES :36
 ORIGINAL  :スロットルトリガーの調整[END]
+TRANSLATED:スロットルトリガーの調整[END]
+
 ADDRESS   :0xad74
 LEN_BYTES :15
 ORIGINAL  :Trigger priming[END]
+TRANSLATED:Trigger priming[END]
+
 ADDRESS   :0xad94
 LEN_BYTES :13
 ORIGINAL  :启动 按键[END]
+TRANSLATED:启动 按键[END]
+
 ADDRESS   :0xada4
 LEN_BYTES :10
 ORIGINAL  :Startknopf[END]
+TRANSLATED:Startknopf[END]
+
 ADDRESS   :0xadb0
 LEN_BYTES :20
 ORIGINAL  :Bouton de démarrage[END]
+TRANSLATED:Bouton de démarrage[END]
+
 ADDRESS   :0xadc8
 LEN_BYTES :21
 ORIGINAL  :スタートボダン[END]
+TRANSLATED:スタートボダン[END]
+
 ADDRESS   :0xade0
 LEN_BYTES :12
 ORIGINAL  :Start button[END]
+TRANSLATED:Start button[END]
+
 ADDRESS   :0xadf8
 LEN_BYTES :23
 ORIGINAL  :无
@@ -764,6 +1292,13 @@ K-4
 K-8
 K-9
 K10[END]
+TRANSLATED:无
+K-3
+K-4
+K-8
+K-9
+K10[END]
+
 ADDRESS   :0xae10
 LEN_BYTES :23
 ORIGINAL  :無
@@ -772,6 +1307,13 @@ K-4
 K-8
 K-9
 K10[END]
+TRANSLATED:無
+K-3
+K-4
+K-8
+K-9
+K10[END]
+
 ADDRESS   :0xae28
 LEN_BYTES :24
 ORIGINAL  :NULL
@@ -780,398 +1322,673 @@ K-4
 K-8
 K-9
 K10[END]
+TRANSLATED:NULL
+K-3
+K-4
+K-8
+K-9
+K10[END]
+
 ADDRESS   :0xb138
 LEN_BYTES :6
 ORIGINAL  :fHhxH[END]
+TRANSLATED:fHhxH[END]
+
 ADDRESS   :0xb22c
 LEN_BYTES :20
 ORIGINAL  :停止/复位 按键[END]
+TRANSLATED:停止/复位 按键[END]
+
 ADDRESS   :0xb244
 LEN_BYTES :24
 ORIGINAL  :Stop/Zurücksetzen Knopf[END]
+TRANSLATED:Stop/Zurücksetzen Knopf[END]
+
 ADDRESS   :0xb260
 LEN_BYTES :17
 ORIGINAL  :Bouton Stop/Reset[END]
+TRANSLATED:Bouton Stop/Reset[END]
+
 ADDRESS   :0xb274
 LEN_BYTES :34
 ORIGINAL  :ストップ/リセットボタン[END]
+TRANSLATED:ストップ/リセットボタン[END]
+
 ADDRESS   :0xb298
 LEN_BYTES :17
 ORIGINAL  :Stop/Reset button[END]
+TRANSLATED:Stop/Reset button[END]
+
 ADDRESS   :0xb2dc
 LEN_BYTES :10
 ORIGINAL  :LED 模式[END]
+TRANSLATED:LED 模式[END]
+
 ADDRESS   :0xb2e8
 LEN_BYTES :9
 ORIGINAL  :LED Modus[END]
+TRANSLATED:LED Modus[END]
+
 ADDRESS   :0xb2f4
 LEN_BYTES :15
 ORIGINAL  :Modèle de Lamp[END]
+TRANSLATED:Modèle de Lamp[END]
+
 ADDRESS   :0xb304
 LEN_BYTES :12
 ORIGINAL  :LEDモード[END]
+TRANSLATED:LEDモード[END]
+
 ADDRESS   :0xb314
 LEN_BYTES :8
 ORIGINAL  :LED Mode[END]
+TRANSLATED:LED Mode[END]
+
 ADDRESS   :0xb324
 LEN_BYTES :32
 ORIGINAL  :   关闭 
    常亮 
    动态 [END]
+TRANSLATED:   关闭 
+   常亮 
+   动态 [END]
+
 ADDRESS   :0xb348
 LEN_BYTES :29
 ORIGINAL  :Schließen
 Helligkeit
 Dynamik[END]
+TRANSLATED:Schließen
+Helligkeit
+Dynamik[END]
+
 ADDRESS   :0xb368
 LEN_BYTES :25
 ORIGINAL  :Fermer
 Lumineux
 Dynamique[END]
+TRANSLATED:Fermer
+Lumineux
+Dynamique[END]
+
 ADDRESS   :0xb384
 LEN_BYTES :32
 ORIGINAL  :オフ
 点灯
 ダイナミック[END]
+TRANSLATED:オフ
+点灯
+ダイナミック[END]
+
 ADDRESS   :0xb3a8
 LEN_BYTES :20
 ORIGINAL  :Close
 Bright
 Dynamic[END]
+TRANSLATED:Close
+Bright
+Dynamic[END]
+
 ADDRESS   :0xb7d4
 LEN_BYTES :12
 ORIGINAL  :转向曲线[END]
+TRANSLATED:转向曲线[END]
+
 ADDRESS   :0xb7e4
 LEN_BYTES :9
 ORIGINAL  :Lenkkurve[END]
+TRANSLATED:Lenkkurve[END]
+
 ADDRESS   :0xb7f0
 LEN_BYTES :19
 ORIGINAL  :Courbe de direction[END]
+TRANSLATED:Courbe de direction[END]
+
 ADDRESS   :0xb804
 LEN_BYTES :27
 ORIGINAL  :ステアリングカーブ[END]
+TRANSLATED:ステアリングカーブ[END]
+
 ADDRESS   :0xb820
 LEN_BYTES :14
 ORIGINAL  :Steering Curve[END]
+TRANSLATED:Steering Curve[END]
+
 ADDRESS   :0xba78
 LEN_BYTES :4
 ORIGINAL  :5!HC[END]
+TRANSLATED:5!HC[END]
+
 ADDRESS   :0xbc48
 LEN_BYTES :6
 ORIGINAL  :预设[END]
+TRANSLATED:预设[END]
+
 ADDRESS   :0xbc50
 LEN_BYTES :4
 ORIGINAL  :%s%d[END]
+TRANSLATED:%s%d[END]
+
 ADDRESS   :0xbc58
 LEN_BYTES :9
 ORIGINAL  :Standard-[END]
+TRANSLATED:Standard-[END]
+
 ADDRESS   :0xbc64
 LEN_BYTES :6
 ORIGINAL  :conçu[END]
+TRANSLATED:conçu[END]
+
 ADDRESS   :0xbc6c
 LEN_BYTES :15
 ORIGINAL  :初期設定値[END]
+TRANSLATED:初期設定値[END]
+
 ADDRESS   :0xbc7c
 LEN_BYTES :7
 ORIGINAL  :Presets[END]
+TRANSLATED:Presets[END]
+
 ADDRESS   :0xbca0
 LEN_BYTES :5
 ORIGINAL  :Punkt[END]
+TRANSLATED:Punkt[END]
+
 ADDRESS   :0xbca8
 LEN_BYTES :5
 ORIGINAL  :Point[END]
+TRANSLATED:Point[END]
+
 ADDRESS   :0xbcb0
 LEN_BYTES :12
 ORIGINAL  :ポイント[END]
+TRANSLATED:ポイント[END]
+
 ADDRESS   :0xbec0
 LEN_BYTES :6
 ORIGINAL  := [END]
+TRANSLATED:= [END]
+
 ADDRESS   :0xc708
 LEN_BYTES :8
 ORIGINAL  :C bS Hb[END]
+TRANSLATED:C bS Hb[END]
+
 ADDRESS   :0xcd4c
 LEN_BYTES :4
 ORIGINAL  :RIQH[END]
+TRANSLATED:RIQH[END]
+
 ADDRESS   :0xcde8
 LEN_BYTES :12
 ORIGINAL  :通道行程[END]
+TRANSLATED:通道行程[END]
+
 ADDRESS   :0xcdf8
 LEN_BYTES :9
 ORIGINAL  :Endpunkte[END]
+TRANSLATED:Endpunkte[END]
+
 ADDRESS   :0xce04
 LEN_BYTES :9
 ORIGINAL  :Point FIN[END]
+TRANSLATED:Point FIN[END]
+
 ADDRESS   :0xce10
 LEN_BYTES :21
 ORIGINAL  :エンドポイント[END]
+TRANSLATED:エンドポイント[END]
+
 ADDRESS   :0xce28
 LEN_BYTES :9
 ORIGINAL  :END Point[END]
+TRANSLATED:END Point[END]
+
 ADDRESS   :0xce44
 LEN_BYTES :9
 ORIGINAL  :转向舵[END]
+TRANSLATED:转向舵[END]
+
 ADDRESS   :0xce50
 LEN_BYTES :7
 ORIGINAL  :Lenkung[END]
+TRANSLATED:Lenkung[END]
+
 ADDRESS   :0xce58
 LEN_BYTES :9
 ORIGINAL  :Direction[END]
+TRANSLATED:Direction[END]
+
 ADDRESS   :0xce64
 LEN_BYTES :18
 ORIGINAL  :ステアリング[END]
+TRANSLATED:ステアリング[END]
+
 ADDRESS   :0xce78
 LEN_BYTES :8
 ORIGINAL  :Steering[END]
+TRANSLATED:Steering[END]
+
 ADDRESS   :0xce8c
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0xd2b8
 LEN_BYTES :5
 ORIGINAL  :Links[END]
+TRANSLATED:Links[END]
+
 ADDRESS   :0xd2c0
 LEN_BYTES :7
 ORIGINAL  :Gauche [END]
+TRANSLATED:Gauche [END]
+
 ADDRESS   :0xd2c8
 LEN_BYTES :4
 ORIGINAL  :Left[END]
+TRANSLATED:Left[END]
+
 ADDRESS   :0xd2ec
 LEN_BYTES :6
 ORIGINAL  :Rechts[END]
+TRANSLATED:Rechts[END]
+
 ADDRESS   :0xd2f4
 LEN_BYTES :6
 ORIGINAL  :Droite[END]
+TRANSLATED:Droite[END]
+
 ADDRESS   :0xd2fc
 LEN_BYTES :5
 ORIGINAL  :Right[END]
+TRANSLATED:Right[END]
+
 ADDRESS   :0xd30c
 LEN_BYTES :6
 ORIGINAL  :油门[END]
+TRANSLATED:油门[END]
+
 ADDRESS   :0xd318
 LEN_BYTES :14
 ORIGINAL  :Accélérateur[END]
+TRANSLATED:Accélérateur[END]
+
 ADDRESS   :0xd328
 LEN_BYTES :15
 ORIGINAL  :スロットル[END]
+TRANSLATED:スロットル[END]
+
 ADDRESS   :0xd5dc
 LEN_BYTES :6
 ORIGINAL  :nHxnH[END]
+TRANSLATED:nHxnH[END]
+
 ADDRESS   :0xd630
 LEN_BYTES :6
 ORIGINAL  :XHhYH[END]
+TRANSLATED:XHhYH[END]
+
 ADDRESS   :0xd640
 LEN_BYTES :4
 ORIGINAL  :IIVH[END]
+TRANSLATED:IIVH[END]
+
 ADDRESS   :0xd734
 LEN_BYTES :8
 ORIGINAL  :Throttle[END]
+TRANSLATED:Throttle[END]
+
 ADDRESS   :0xd774
 LEN_BYTES :7
 ORIGINAL  :Zurück[END]
+TRANSLATED:Zurück[END]
+
 ADDRESS   :0xd77c
 LEN_BYTES :5
 ORIGINAL  :Avant[END]
+TRANSLATED:Avant[END]
+
 ADDRESS   :0xd784
 LEN_BYTES :6
 ORIGINAL  :後進[END]
+TRANSLATED:後進[END]
+
 ADDRESS   :0xd78c
 LEN_BYTES :4
 ORIGINAL  :Back[END]
+TRANSLATED:Back[END]
+
 ADDRESS   :0xd7a4
 LEN_BYTES :9
 ORIGINAL  :Vorwärts[END]
+TRANSLATED:Vorwärts[END]
+
 ADDRESS   :0xd7b0
 LEN_BYTES :8
 ORIGINAL  :Arrière[END]
+TRANSLATED:Arrière[END]
+
 ADDRESS   :0xd7bc
 LEN_BYTES :6
 ORIGINAL  :前進[END]
+TRANSLATED:前進[END]
+
 ADDRESS   :0xd7c4
 LEN_BYTES :5
 ORIGINAL  :Front[END]
+TRANSLATED:Front[END]
+
 ADDRESS   :0xdb64
 LEN_BYTES :6
 ORIGINAL  :BHxBH[END]
+TRANSLATED:BHxBH[END]
+
 ADDRESS   :0xdbb8
 LEN_BYTES :6
 ORIGINAL  :,Hh-H[END]
+TRANSLATED:,Hh-H[END]
+
 ADDRESS   :0xdbf0
 LEN_BYTES :7
 ORIGINAL  :旋钮5[END]
+TRANSLATED:旋钮5[END]
+
 ADDRESS   :0xdbfc
 LEN_BYTES :11
 ORIGINAL  :Drehknopf 5[END]
+TRANSLATED:Drehknopf 5[END]
+
 ADDRESS   :0xdc08
 LEN_BYTES :16
 ORIGINAL  :Bouton rotatif 5[END]
+TRANSLATED:Bouton rotatif 5[END]
+
 ADDRESS   :0xdc1c
 LEN_BYTES :22
 ORIGINAL  :ロータリーノブ5[END]
+TRANSLATED:ロータリーノブ5[END]
+
 ADDRESS   :0xdc34
 LEN_BYTES :13
 ORIGINAL  :Rotary Knob 5[END]
+TRANSLATED:Rotary Knob 5[END]
+
 ADDRESS   :0xdc60
 LEN_BYTES :6
 ORIGINAL  :最小[END]
+TRANSLATED:最小[END]
+
 ADDRESS   :0xdf5c
 LEN_BYTES :6
 ORIGINAL  :gHxhH[END]
+TRANSLATED:gHxhH[END]
+
 ADDRESS   :0xdfb0
 LEN_BYTES :6
 ORIGINAL  :PHhSH[END]
+TRANSLATED:PHhSH[END]
+
 ADDRESS   :0xdfc0
 LEN_BYTES :4
 ORIGINAL  :RIPH[END]
+TRANSLATED:RIPH[END]
+
 ADDRESS   :0xe088
 LEN_BYTES :6
 ORIGINAL  :最大[END]
+TRANSLATED:最大[END]
+
 ADDRESS   :0xe09c
 LEN_BYTES :7
 ORIGINAL  :旋钮6[END]
+TRANSLATED:旋钮6[END]
+
 ADDRESS   :0xe0a4
 LEN_BYTES :11
 ORIGINAL  :Drehknopf 6[END]
+TRANSLATED:Drehknopf 6[END]
+
 ADDRESS   :0xe0b0
 LEN_BYTES :16
 ORIGINAL  :Bouton rotatif 6[END]
+TRANSLATED:Bouton rotatif 6[END]
+
 ADDRESS   :0xe0c4
 LEN_BYTES :22
 ORIGINAL  :ロータリーノブ6[END]
+TRANSLATED:ロータリーノブ6[END]
+
 ADDRESS   :0xe0dc
 LEN_BYTES :13
 ORIGINAL  :Rotary Knob 6[END]
+TRANSLATED:Rotary Knob 6[END]
+
 ADDRESS   :0xe194
 LEN_BYTES :6
 ORIGINAL  :GHxIH[END]
+TRANSLATED:GHxIH[END]
+
 ADDRESS   :0xe1e8
 LEN_BYTES :6
 ORIGINAL  :1Hh4H[END]
+TRANSLATED:1Hh4H[END]
+
 ADDRESS   :0xe1f8
 LEN_BYTES :4
 ORIGINAL  :3I1H[END]
+TRANSLATED:3I1H[END]
+
 ADDRESS   :0xe5f4
 LEN_BYTES :4
 ORIGINAL  :d!uH[END]
+TRANSLATED:d!uH[END]
+
 ADDRESS   :0xe6b4
 LEN_BYTES :6
 ORIGINAL  :EHhZH[END]
+TRANSLATED:EHhZH[END]
+
 ADDRESS   :0xe6f8
 LEN_BYTES :12
 ORIGINAL  :声音设置[END]
+TRANSLATED:声音设置[END]
+
 ADDRESS   :0xe708
 LEN_BYTES :16
 ORIGINAL  :Toneinstellungen[END]
+TRANSLATED:Toneinstellungen[END]
+
 ADDRESS   :0xe71c
 LEN_BYTES :17
 ORIGINAL  :Réglages sonores[END]
+TRANSLATED:Réglages sonores[END]
+
 ADDRESS   :0xe730
 LEN_BYTES :30
 ORIGINAL  :サウンドセッティング[END]
+TRANSLATED:サウンドセッティング[END]
+
 ADDRESS   :0xe750
 LEN_BYTES :14
 ORIGINAL  :Sound Settings[END]
+TRANSLATED:Sound Settings[END]
+
 ADDRESS   :0xe764
 LEN_BYTES :15
 ORIGINAL  :开关机声音[END]
+TRANSLATED:开关机声音[END]
+
 ADDRESS   :0xe774
 LEN_BYTES :15
 ORIGINAL  :Startton An/Aus[END]
+TRANSLATED:Startton An/Aus[END]
+
 ADDRESS   :0xe784
 LEN_BYTES :24
 ORIGINAL  :Son de démarrage On/Off[END]
+TRANSLATED:Son de démarrage On/Off[END]
+
 ADDRESS   :0xe7a0
 LEN_BYTES :9
 ORIGINAL  :始動音[END]
+TRANSLATED:始動音[END]
+
 ADDRESS   :0xe7ac
 LEN_BYTES :18
 ORIGINAL  :Power_on/off sound[END]
+TRANSLATED:Power_on/off sound[END]
+
 ADDRESS   :0xe7d0
 LEN_BYTES :13
 ORIGINAL  :声音类型 [END]
+TRANSLATED:声音类型 [END]
+
 ADDRESS   :0xe7e0
 LEN_BYTES :9
 ORIGINAL  :Singalton[END]
+TRANSLATED:Singalton[END]
+
 ADDRESS   :0xe7ec
 LEN_BYTES :17
 ORIGINAL  :Type de tonalité[END]
+TRANSLATED:Type de tonalité[END]
+
 ADDRESS   :0xe800
 LEN_BYTES :21
 ORIGINAL  :サウンドタイプ[END]
+TRANSLATED:サウンドタイプ[END]
+
 ADDRESS   :0xe818
 LEN_BYTES :9
 ORIGINAL  :Tone Type[END]
+TRANSLATED:Tone Type[END]
+
 ADDRESS   :0xebf0
 LEN_BYTES :28
 ORIGINAL  :  静音 
 仅报警 
 全部 [END]
+TRANSLATED:  静音 
+仅报警 
+全部 [END]
+
 ADDRESS   :0xec14
 LEN_BYTES :20
 ORIGINAL  :Stumm
 Nur Alarm
 Alle[END]
+TRANSLATED:Stumm
+Nur Alarm
+Alle[END]
+
 ADDRESS   :0xec2c
 LEN_BYTES :17
 ORIGINAL  :Muet 
 Alarme
 Tous[END]
+TRANSLATED:Muet 
+Alarme
+Tous[END]
+
 ADDRESS   :0xec40
 LEN_BYTES :35
 ORIGINAL  :消音
 アラームのみ
 すべて[END]
+TRANSLATED:消音
+アラームのみ
+すべて[END]
+
 ADDRESS   :0xec64
 LEN_BYTES :18
 ORIGINAL  :Mute 
 ALM Only
 All[END]
+TRANSLATED:Mute 
+ALM Only
+All[END]
+
 ADDRESS   :0xeca4
 LEN_BYTES :10
 ORIGINAL  :背光灯 [END]
+TRANSLATED:背光灯 [END]
+
 ADDRESS   :0xecb0
 LEN_BYTES :22
 ORIGINAL  :Hintergrundbeleuchtung[END]
+TRANSLATED:Hintergrundbeleuchtung[END]
+
 ADDRESS   :0xecc8
 LEN_BYTES :17
 ORIGINAL  :Rétro-éclairage[END]
+TRANSLATED:Rétro-éclairage[END]
+
 ADDRESS   :0xecdc
 LEN_BYTES :24
 ORIGINAL  :バックライト設定[END]
+TRANSLATED:バックライト設定[END]
+
 ADDRESS   :0xecf8
 LEN_BYTES :9
 ORIGINAL  :Backlight[END]
+TRANSLATED:Backlight[END]
+
 ADDRESS   :0xed08
 LEN_BYTES :13
 ORIGINAL  :背光亮度 [END]
+TRANSLATED:背光亮度 [END]
+
 ADDRESS   :0xed18
 LEN_BYTES :10
 ORIGINAL  :Helligkeit[END]
+TRANSLATED:Helligkeit[END]
+
 ADDRESS   :0xed24
 LEN_BYTES :14
 ORIGINAL  :La luminosité[END]
+TRANSLATED:La luminosité[END]
+
 ADDRESS   :0xed34
 LEN_BYTES :27
 ORIGINAL  :バックライト明るさ[END]
+TRANSLATED:バックライト明るさ[END]
+
 ADDRESS   :0xed50
 LEN_BYTES :10
 ORIGINAL  :Brightness[END]
+TRANSLATED:Brightness[END]
+
 ADDRESS   :0xed7c
 LEN_BYTES :6
 ORIGINAL  :pHhnH[END]
+TRANSLATED:pHhnH[END]
+
 ADDRESS   :0xed88
 LEN_BYTES :4
 ORIGINAL  :d!lH[END]
+TRANSLATED:d!lH[END]
+
 ADDRESS   :0xef48
 LEN_BYTES :13
 ORIGINAL  :自动熄灭 [END]
+TRANSLATED:自动熄灭 [END]
+
 ADDRESS   :0xef58
 LEN_BYTES :8
 ORIGINAL  :Auto Off[END]
+TRANSLATED:Auto Off[END]
+
 ADDRESS   :0xef64
 LEN_BYTES :11
 ORIGINAL  :Arrêt auto[END]
+TRANSLATED:Arrêt auto[END]
+
 ADDRESS   :0xef70
 LEN_BYTES :15
 ORIGINAL  :オートオフ[END]
+TRANSLATED:オートオフ[END]
+
 ADDRESS   :0xef8c
 LEN_BYTES :47
 ORIGINAL  :  关闭 
@@ -1179,6 +1996,12 @@ ORIGINAL  :  关闭
 3分钟 
 10分钟 
 30分钟 [END]
+TRANSLATED:  关闭 
+1分钟 
+3分钟 
+10分钟 
+30分钟 [END]
+
 ADDRESS   :0xefbc
 LEN_BYTES :40
 ORIGINAL  :Schließen
@@ -1186,6 +2009,12 @@ ORIGINAL  :Schließen
 3 min 
 10 min 
 30 min [END]
+TRANSLATED:Schließen
+1 min 
+3 min 
+10 min 
+30 min [END]
+
 ADDRESS   :0xefe8
 LEN_BYTES :37
 ORIGINAL  :Fermer 
@@ -1193,6 +2022,12 @@ ORIGINAL  :Fermer
 3 min 
 10 min 
 30 min [END]
+TRANSLATED:Fermer 
+1 min 
+3 min 
+10 min 
+30 min [END]
+
 ADDRESS   :0xf010
 LEN_BYTES :32
 ORIGINAL  :オフ
@@ -1200,6 +2035,12 @@ ORIGINAL  :オフ
 3 分
 10 分
 30 分[END]
+TRANSLATED:オフ
+1 分
+3 分
+10 分
+30 分[END]
+
 ADDRESS   :0xf034
 LEN_BYTES :36
 ORIGINAL  :Close 
@@ -1207,84 +2048,142 @@ ORIGINAL  :Close
 3 min 
 10 min 
 30 min [END]
+TRANSLATED:Close 
+1 min 
+3 min 
+10 min 
+30 min [END]
+
 ADDRESS   :0xf478
 LEN_BYTES :19
 ORIGINAL  :油门/刹车曲线[END]
+TRANSLATED:油门/刹车曲线[END]
+
 ADDRESS   :0xf48c
 LEN_BYTES :15
 ORIGINAL  :Gas/Brems Kurve[END]
+TRANSLATED:Gas/Brems Kurve[END]
+
 ADDRESS   :0xf4a8
 LEN_BYTES :12
 ORIGINAL  :élér/frein[END]
+TRANSLATED:élér/frein[END]
+
 ADDRESS   :0xf4b8
 LEN_BYTES :37
 ORIGINAL  :スロットル/ブレーキカーブ[END]
+TRANSLATED:スロットル/ブレーキカーブ[END]
+
 ADDRESS   :0xf4e0
 LEN_BYTES :20
 ORIGINAL  :Throttle/Brake Curve[END]
+TRANSLATED:Throttle/Brake Curve[END]
+
 ADDRESS   :0xf76c
 LEN_BYTES :4
 ORIGINAL  :5!HC[END]
+TRANSLATED:5!HC[END]
+
 ADDRESS   :0xf910
 LEN_BYTES :6
 ORIGINAL  :预设[END]
+TRANSLATED:预设[END]
+
 ADDRESS   :0xf918
 LEN_BYTES :4
 ORIGINAL  :%s%d[END]
+TRANSLATED:%s%d[END]
+
 ADDRESS   :0xf920
 LEN_BYTES :9
 ORIGINAL  :Standard-[END]
+TRANSLATED:Standard-[END]
+
 ADDRESS   :0xf92c
 LEN_BYTES :6
 ORIGINAL  :conçu[END]
+TRANSLATED:conçu[END]
+
 ADDRESS   :0xf934
 LEN_BYTES :15
 ORIGINAL  :初期設定値[END]
+TRANSLATED:初期設定値[END]
+
 ADDRESS   :0xf944
 LEN_BYTES :7
 ORIGINAL  :Presets[END]
+TRANSLATED:Presets[END]
+
 ADDRESS   :0xf968
 LEN_BYTES :5
 ORIGINAL  :Punkt[END]
+TRANSLATED:Punkt[END]
+
 ADDRESS   :0xf970
 LEN_BYTES :5
 ORIGINAL  :Point[END]
+TRANSLATED:Point[END]
+
 ADDRESS   :0xf978
 LEN_BYTES :12
 ORIGINAL  :ポイント[END]
+TRANSLATED:ポイント[END]
+
 ADDRESS   :0xfb88
 LEN_BYTES :6
 ORIGINAL  :iPL[END]
+TRANSLATED:iPL[END]
+
 ADDRESS   :0xff4c
 LEN_BYTES :6
 ORIGINAL  :?Hx;H[END]
+TRANSLATED:?Hx;H[END]
+
 ADDRESS   :0x10368
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x10614
 LEN_BYTES :8
 ORIGINAL  :C bS Hb[END]
+TRANSLATED:C bS Hb[END]
+
 ADDRESS   :0x10bf8
 LEN_BYTES :6
 ORIGINAL  :YHhhH[END]
+TRANSLATED:YHhhH[END]
+
 ADDRESS   :0x10cd8
 LEN_BYTES :12
 ORIGINAL  :Double ratio[END]
+TRANSLATED:Double ratio[END]
+
 ADDRESS   :0x10ce8
 LEN_BYTES :9
 ORIGINAL  :双比率[END]
+TRANSLATED:双比率[END]
+
 ADDRESS   :0x10cf4
 LEN_BYTES :44
 ORIGINAL  :D/R  ステアリングデュアルレート[END]
+TRANSLATED:D/R  ステアリングデュアルレート[END]
+
 ADDRESS   :0x10d2c
 LEN_BYTES :18
 ORIGINAL  :转向比率切换[END]
+TRANSLATED:转向比率切换[END]
+
 ADDRESS   :0x10d40
 LEN_BYTES :22
 ORIGINAL  :ステアリング D/R[END]
+TRANSLATED:ステアリング D/R[END]
+
 ADDRESS   :0x10d58
 LEN_BYTES :6
 ORIGINAL  :ST D/R[END]
+TRANSLATED:ST D/R[END]
+
 ADDRESS   :0x10d64
 LEN_BYTES :40
 ORIGINAL  :NULL
@@ -1296,63 +2195,111 @@ K-10
 SW-7
 VR-5
 VR-6[END]
+TRANSLATED:NULL
+K-3
+K-4
+K-8
+K-9
+K-10
+SW-7
+VR-5
+VR-6[END]
+
 ADDRESS   :0x10db8
 LEN_BYTES :18
 ORIGINAL  :油门比率切换[END]
+TRANSLATED:油门比率切换[END]
+
 ADDRESS   :0x111bc
 LEN_BYTES :19
 ORIGINAL  :スロットル D/R[END]
+TRANSLATED:スロットル D/R[END]
+
 ADDRESS   :0x111d0
 LEN_BYTES :6
 ORIGINAL  :TH D/R[END]
+TRANSLATED:TH D/R[END]
+
 ADDRESS   :0x11214
 LEN_BYTES :7
 ORIGINAL  :通道1[END]
+TRANSLATED:通道1[END]
+
 ADDRESS   :0x11228
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x11680
 LEN_BYTES :7
 ORIGINAL  :通道2[END]
+TRANSLATED:通道2[END]
+
 ADDRESS   :0x11c28
 LEN_BYTES :6
 ORIGINAL  :cHxZH[END]
+TRANSLATED:cHxZH[END]
+
 ADDRESS   :0x11c34
 LEN_BYTES :4
 ORIGINAL  :aIXH[END]
+TRANSLATED:aIXH[END]
+
 ADDRESS   :0x11c8c
 LEN_BYTES :4
 ORIGINAL  :+IBH[END]
+TRANSLATED:+IBH[END]
+
 ADDRESS   :0x11ce0
 LEN_BYTES :15
 ORIGINAL  :陀螺仪混控[END]
+TRANSLATED:陀螺仪混控[END]
+
 ADDRESS   :0x11cf0
 LEN_BYTES :9
 ORIGINAL  :Gyromodus[END]
+TRANSLATED:Gyromodus[END]
+
 ADDRESS   :0x11cfc
 LEN_BYTES :15
 ORIGINAL  :Mode gyromètre[END]
+TRANSLATED:Mode gyromètre[END]
+
 ADDRESS   :0x11d0c
 LEN_BYTES :24
 ORIGINAL  :ジャイロミックス[END]
+TRANSLATED:ジャイロミックス[END]
+
 ADDRESS   :0x11d28
 LEN_BYTES :8
 ORIGINAL  :Gyro MIX[END]
+TRANSLATED:Gyro MIX[END]
+
 ADDRESS   :0x11d44
 LEN_BYTES :12
 ORIGINAL  :使能开关[END]
+TRANSLATED:使能开关[END]
+
 ADDRESS   :0x11d54
 LEN_BYTES :11
 ORIGINAL  :Einschalten[END]
+TRANSLATED:Einschalten[END]
+
 ADDRESS   :0x11d60
 LEN_BYTES :14
 ORIGINAL  :Mise en marche[END]
+TRANSLATED:Mise en marche[END]
+
 ADDRESS   :0x11d70
 LEN_BYTES :27
 ORIGINAL  :キーを有効にする。[END]
+TRANSLATED:キーを有効にする。[END]
+
 ADDRESS   :0x11d8c
 LEN_BYTES :10
 ORIGINAL  :Enable Key[END]
+TRANSLATED:Enable Key[END]
+
 ADDRESS   :0x11d9c
 LEN_BYTES :24
 ORIGINAL  :NULL
@@ -1361,430 +2308,724 @@ K-4
 K-8
 K-9
 K10[END]
+TRANSLATED:NULL
+K-3
+K-4
+K-8
+K-9
+K10[END]
+
 ADDRESS   :0x121d4
 LEN_BYTES :12
 ORIGINAL  :调整旋钮[END]
+TRANSLATED:调整旋钮[END]
+
 ADDRESS   :0x121e4
 LEN_BYTES :13
 ORIGINAL  :Einstellknopf[END]
+TRANSLATED:Einstellknopf[END]
+
 ADDRESS   :0x121f4
 LEN_BYTES :19
 ORIGINAL  :Bouton de calibrage[END]
+TRANSLATED:Bouton de calibrage[END]
+
 ADDRESS   :0x12208
 LEN_BYTES :12
 ORIGINAL  :ノブ調整[END]
+TRANSLATED:ノブ調整[END]
+
 ADDRESS   :0x12218
 LEN_BYTES :14
 ORIGINAL  :Adjusting Knob[END]
+TRANSLATED:Adjusting Knob[END]
+
 ADDRESS   :0x12234
 LEN_BYTES :14
 ORIGINAL  :NULL
 VR-5
 VR-6[END]
+TRANSLATED:NULL
+VR-5
+VR-6[END]
+
 ADDRESS   :0x12258
 LEN_BYTES :9
 ORIGINAL  :当前值[END]
+TRANSLATED:当前值[END]
+
 ADDRESS   :0x12264
 LEN_BYTES :14
 ORIGINAL  :Aktueller Wert[END]
+TRANSLATED:Aktueller Wert[END]
+
 ADDRESS   :0x12274
 LEN_BYTES :15
 ORIGINAL  :Valeur actuelle[END]
+TRANSLATED:Valeur actuelle[END]
+
 ADDRESS   :0x12284
 LEN_BYTES :12
 ORIGINAL  :カレント[END]
+TRANSLATED:カレント[END]
+
 ADDRESS   :0x12294
 LEN_BYTES :13
 ORIGINAL  :Current Value[END]
+TRANSLATED:Current Value[END]
+
 ADDRESS   :0x122b0
 LEN_BYTES :5
 ORIGINAL  :%d.%d[END]
+TRANSLATED:%d.%d[END]
+
 ADDRESS   :0x122c4
 LEN_BYTES :7
 ORIGINAL  :通道8[END]
+TRANSLATED:通道8[END]
+
 ADDRESS   :0x122cc
 LEN_BYTES :7
 ORIGINAL  :Kanal 8[END]
+TRANSLATED:Kanal 8[END]
+
 ADDRESS   :0x12384
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x12558
 LEN_BYTES :4
 ORIGINAL  :OєH[END]
+TRANSLATED:OєH[END]
+
 ADDRESS   :0x127c0
 LEN_BYTES :4
 ORIGINAL  :%d%s[END]
+TRANSLATED:%d%s[END]
+
 ADDRESS   :0x129a8
 LEN_BYTES :6
 ORIGINAL  :5IpF[END]
+TRANSLATED:5IpF[END]
+
 ADDRESS   :0x12a84
 LEN_BYTES :6
 ORIGINAL  :%d.%dV[END]
+TRANSLATED:%d.%dV[END]
+
 ADDRESS   :0x12b28
 LEN_BYTES :6
 ORIGINAL  :,IpF[END]
+TRANSLATED:,IpF[END]
+
 ADDRESS   :0x12be8
 LEN_BYTES :5
 ORIGINAL  :%d.%d[END]
+TRANSLATED:%d.%d[END]
+
 ADDRESS   :0x12f0c
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x13080
 LEN_BYTES :20
 ORIGINAL  :当前电压        [END]
+TRANSLATED:当前电压        [END]
+
 ADDRESS   :0x13098
 LEN_BYTES :17
 ORIGINAL  :%s      %d.%02d V[END]
+TRANSLATED:%s      %d.%02d V[END]
+
 ADDRESS   :0x130b0
 LEN_BYTES :17
 ORIGINAL  :Aktuelle Spannung[END]
+TRANSLATED:Aktuelle Spannung[END]
+
 ADDRESS   :0x130c4
 LEN_BYTES :12
 ORIGINAL  :%s %d.%02d V[END]
+TRANSLATED:%s %d.%02d V[END]
+
 ADDRESS   :0x130d4
 LEN_BYTES :16
 ORIGINAL  :Tension actuelle[END]
+TRANSLATED:Tension actuelle[END]
+
 ADDRESS   :0x130e8
 LEN_BYTES :13
 ORIGINAL  :%s  %d.%02d V[END]
+TRANSLATED:%s  %d.%02d V[END]
+
 ADDRESS   :0x130f8
 LEN_BYTES :12
 ORIGINAL  :電圧表示[END]
+TRANSLATED:電圧表示[END]
+
 ADDRESS   :0x13108
 LEN_BYTES :15
 ORIGINAL  :Current Voltage[END]
+TRANSLATED:Current Voltage[END]
+
 ADDRESS   :0x13158
 LEN_BYTES :6
 ORIGINAL  :#Ip#H[END]
+TRANSLATED:#Ip#H[END]
+
 ADDRESS   :0x13200
 LEN_BYTES :5
 ORIGINAL  :%d.%d[END]
+TRANSLATED:%d.%d[END]
+
 ADDRESS   :0x13218
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x136b0
 LEN_BYTES :12
 ORIGINAL  :辅助微调[END]
+TRANSLATED:辅助微调[END]
+
 ADDRESS   :0x136c0
 LEN_BYTES :17
 ORIGINAL  :Feineinstellungen[END]
+TRANSLATED:Feineinstellungen[END]
+
 ADDRESS   :0x136d4
 LEN_BYTES :12
 ORIGINAL  :Trim neutre [END]
+TRANSLATED:Trim neutre [END]
+
 ADDRESS   :0x136e4
 LEN_BYTES :15
 ORIGINAL  :サブトリム[END]
+TRANSLATED:サブトリム[END]
+
 ADDRESS   :0x136f4
 LEN_BYTES :8
 ORIGINAL  :SUB Trim[END]
+TRANSLATED:SUB Trim[END]
+
 ADDRESS   :0x1372c
 LEN_BYTES :6
 ORIGINAL  :通道[END]
+TRANSLATED:通道[END]
+
 ADDRESS   :0x13734
 LEN_BYTES :4
 ORIGINAL  :%s%d[END]
+TRANSLATED:%s%d[END]
+
 ADDRESS   :0x1373c
 LEN_BYTES :6
 ORIGINAL  :Kanal [END]
+TRANSLATED:Kanal [END]
+
 ADDRESS   :0x13930
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x13c04
 LEN_BYTES :6
 ORIGINAL  :eHhuH[END]
+TRANSLATED:eHhuH[END]
+
 ADDRESS   :0x13c14
 LEN_BYTES :4
 ORIGINAL  :sIrH[END]
+TRANSLATED:sIrH[END]
+
 ADDRESS   :0x13c2c
 LEN_BYTES :4
 ORIGINAL  :FInH[END]
+TRANSLATED:FInH[END]
+
 ADDRESS   :0x13c54
 LEN_BYTES :6
 ORIGINAL  :bHhcH[END]
+TRANSLATED:bHhcH[END]
+
 ADDRESS   :0x13c60
 LEN_BYTES :4
 ORIGINAL  :_!aH[END]
+TRANSLATED:_!aH[END]
+
 ADDRESS   :0x13d50
 LEN_BYTES :7
 ORIGINAL  :校准 [END]
+TRANSLATED:校准 [END]
+
 ADDRESS   :0x13d58
 LEN_BYTES :12
 ORIGINAL  :Kalibrierung[END]
+TRANSLATED:Kalibrierung[END]
+
 ADDRESS   :0x13d68
 LEN_BYTES :9
 ORIGINAL  :Calibrage[END]
+TRANSLATED:Calibrage[END]
+
 ADDRESS   :0x13d74
 LEN_BYTES :27
 ORIGINAL  :キャリブレーション[END]
+TRANSLATED:キャリブレーション[END]
+
 ADDRESS   :0x13d90
 LEN_BYTES :11
 ORIGINAL  :Calibration[END]
+TRANSLATED:Calibration[END]
+
 ADDRESS   :0x13da0
 LEN_BYTES :10
 ORIGINAL  :转向轮 [END]
+TRANSLATED:转向轮 [END]
+
 ADDRESS   :0x13dac
 LEN_BYTES :7
 ORIGINAL  :Lenkung[END]
+TRANSLATED:Lenkung[END]
+
 ADDRESS   :0x13db4
 LEN_BYTES :9
 ORIGINAL  :Direction[END]
+TRANSLATED:Direction[END]
+
 ADDRESS   :0x13dc0
 LEN_BYTES :18
 ORIGINAL  :ステアリング[END]
+TRANSLATED:ステアリング[END]
+
 ADDRESS   :0x13dd4
 LEN_BYTES :8
 ORIGINAL  :Steering[END]
+TRANSLATED:Steering[END]
+
 ADDRESS   :0x13dec
 LEN_BYTES :7
 ORIGINAL  :开始 [END]
+TRANSLATED:开始 [END]
+
 ADDRESS   :0x13df4
 LEN_BYTES :5
 ORIGINAL  :Start[END]
+TRANSLATED:Start[END]
+
 ADDRESS   :0x13dfc
 LEN_BYTES :10
 ORIGINAL  :Démarrage[END]
+TRANSLATED:Démarrage[END]
+
 ADDRESS   :0x13e08
 LEN_BYTES :12
 ORIGINAL  :スタート[END]
+TRANSLATED:スタート[END]
+
 ADDRESS   :0x140c8
 LEN_BYTES :4
 ORIGINAL  :_!lH[END]
+TRANSLATED:_!lH[END]
+
 ADDRESS   :0x141fc
 LEN_BYTES :7
 ORIGINAL  :扳机 [END]
+TRANSLATED:扳机 [END]
+
 ADDRESS   :0x1420c
 LEN_BYTES :14
 ORIGINAL  :Accélération[END]
+TRANSLATED:Accélération[END]
+
 ADDRESS   :0x1421c
 LEN_BYTES :15
 ORIGINAL  :スロットル[END]
+TRANSLATED:スロットル[END]
+
 ADDRESS   :0x1422c
 LEN_BYTES :7
 ORIGINAL  :Trottle[END]
+TRANSLATED:Trottle[END]
+
 ADDRESS   :0x14250
 LEN_BYTES :7
 ORIGINAL  :按键 [END]
+TRANSLATED:按键 [END]
+
 ADDRESS   :0x14258
 LEN_BYTES :6
 ORIGINAL  :Tasten[END]
+TRANSLATED:Tasten[END]
+
 ADDRESS   :0x14260
 LEN_BYTES :7
 ORIGINAL  :Boutons[END]
+TRANSLATED:Boutons[END]
+
 ADDRESS   :0x14268
 LEN_BYTES :9
 ORIGINAL  :ボタン[END]
+TRANSLATED:ボタン[END]
+
 ADDRESS   :0x14274
 LEN_BYTES :7
 ORIGINAL  :Buttons[END]
+TRANSLATED:Buttons[END]
+
 ADDRESS   :0x142a4
 LEN_BYTES :4
 ORIGINAL  :mI\H[END]
+TRANSLATED:mI\H[END]
+
 ADDRESS   :0x142b0
 LEN_BYTES :4
 ORIGINAL  :kIYH[END]
+TRANSLATED:kIYH[END]
+
 ADDRESS   :0x142f8
 LEN_BYTES :4
 ORIGINAL  :lIkH[END]
+TRANSLATED:lIkH[END]
+
 ADDRESS   :0x14304
 LEN_BYTES :4
 ORIGINAL  :jIhH[END]
+TRANSLATED:jIhH[END]
+
 ADDRESS   :0x143cc
 LEN_BYTES :4
 ORIGINAL  :WI6H[END]
+TRANSLATED:WI6H[END]
+
 ADDRESS   :0x143e0
 LEN_BYTES :54
 ORIGINAL  :官网: www.dumborc.com
 
 硬件: V1.0.0
 软件: V1.1.9[END]
+TRANSLATED:官网: www.dumborc.com
+
+硬件: V1.0.0
+软件: V1.1.9[END]
+
 ADDRESS   :0x1441c
 LEN_BYTES :60
 ORIGINAL  :Über uns:
 www.dumborc.com
 Hardware: V1.0.0
 Software: V1.1.9[END]
+TRANSLATED:Über uns:
+www.dumborc.com
+Hardware: V1.0.0
+Software: V1.1.9[END]
+
 ADDRESS   :0x14464
 LEN_BYTES :59
 ORIGINAL  :About Us:
 www.dumborc.com
 Hardware: V1.0.0
 Software: V1.1.9[END]
+TRANSLATED:About Us:
+www.dumborc.com
+Hardware: V1.0.0
+Software: V1.1.9[END]
+
 ADDRESS   :0x144b8
 LEN_BYTES :19
 ORIGINAL  :恢复出厂设置 [END]
+TRANSLATED:恢复出厂设置 [END]
+
 ADDRESS   :0x144cc
 LEN_BYTES :36
 ORIGINAL  :Zurücksetzen auf Werkseinstellungen[END]
+TRANSLATED:Zurücksetzen auf Werkseinstellungen[END]
+
 ADDRESS   :0x14508
 LEN_BYTES :5
 ORIGINAL  :usine[END]
+TRANSLATED:usine[END]
+
 ADDRESS   :0x14510
 LEN_BYTES :9
 ORIGINAL  :初期化[END]
+TRANSLATED:初期化[END]
+
 ADDRESS   :0x1451c
 LEN_BYTES :13
 ORIGINAL  :Factory Reset[END]
+TRANSLATED:Factory Reset[END]
+
 ADDRESS   :0x14938
 LEN_BYTES :12
 ORIGINAL  :坦克混控[END]
+TRANSLATED:坦克混控[END]
+
 ADDRESS   :0x14948
 LEN_BYTES :11
 ORIGINAL  :Panzermodus[END]
+TRANSLATED:Panzermodus[END]
+
 ADDRESS   :0x14954
 LEN_BYTES :23
 ORIGINAL  :Mélange de réservoirs[END]
+TRANSLATED:Mélange de réservoirs[END]
+
 ADDRESS   :0x1496c
 LEN_BYTES :21
 ORIGINAL  :タンクミックス[END]
+TRANSLATED:タンクミックス[END]
+
 ADDRESS   :0x14984
 LEN_BYTES :8
 ORIGINAL  :Tank MIX[END]
+TRANSLATED:Tank MIX[END]
+
 ADDRESS   :0x14e00
 LEN_BYTES :12
 ORIGINAL  :前进比率[END]
+TRANSLATED:前进比率[END]
+
 ADDRESS   :0x14e10
 LEN_BYTES :12
 ORIGINAL  :Antriebsrate[END]
+TRANSLATED:Antriebsrate[END]
+
 ADDRESS   :0x14e20
 LEN_BYTES :13
 ORIGINAL  :Taux de front[END]
+TRANSLATED:Taux de front[END]
+
 ADDRESS   :0x14e30
 LEN_BYTES :18
 ORIGINAL  :前進スピード[END]
+TRANSLATED:前進スピード[END]
+
 ADDRESS   :0x14e44
 LEN_BYTES :11
 ORIGINAL  :Front Ratio[END]
+TRANSLATED:Front Ratio[END]
+
 ADDRESS   :0x14e50
 LEN_BYTES :12
 ORIGINAL  :后退比率[END]
+TRANSLATED:后退比率[END]
+
 ADDRESS   :0x14e60
 LEN_BYTES :9
 ORIGINAL  :Bremsrate[END]
+TRANSLATED:Bremsrate[END]
+
 ADDRESS   :0x14e6c
 LEN_BYTES :15
 ORIGINAL  :Taux de rupture[END]
+TRANSLATED:Taux de rupture[END]
+
 ADDRESS   :0x14e7c
 LEN_BYTES :18
 ORIGINAL  :後進スピード[END]
+TRANSLATED:後進スピード[END]
+
 ADDRESS   :0x14e90
 LEN_BYTES :11
 ORIGINAL  :Break Ratio[END]
+TRANSLATED:Break Ratio[END]
+
 ADDRESS   :0x14e9c
 LEN_BYTES :12
 ORIGINAL  :左转比率[END]
+TRANSLATED:左转比率[END]
+
 ADDRESS   :0x14eac
 LEN_BYTES :12
 ORIGINAL  :Linke Stufe [END]
+TRANSLATED:Linke Stufe [END]
+
 ADDRESS   :0x14ebc
 LEN_BYTES :14
 ORIGINAL  :Taux de gauche[END]
+TRANSLATED:Taux de gauche[END]
+
 ADDRESS   :0x14ecc
 LEN_BYTES :19
 ORIGINAL  :左折ス
 ピード[END]
+TRANSLATED:左折ス
+ピード[END]
+
 ADDRESS   :0x14ee0
 LEN_BYTES :10
 ORIGINAL  :Left Ratio[END]
+TRANSLATED:Left Ratio[END]
+
 ADDRESS   :0x14eec
 LEN_BYTES :12
 ORIGINAL  :右转比率[END]
+TRANSLATED:右转比率[END]
+
 ADDRESS   :0x14efc
 LEN_BYTES :12
 ORIGINAL  :Rechte Stufe[END]
+TRANSLATED:Rechte Stufe[END]
+
 ADDRESS   :0x14f0c
 LEN_BYTES :13
 ORIGINAL  :Taux de droit[END]
+TRANSLATED:Taux de droit[END]
+
 ADDRESS   :0x14f1c
 LEN_BYTES :19
 ORIGINAL  :右折ス
 ピード[END]
+TRANSLATED:右折ス
+ピード[END]
+
 ADDRESS   :0x14f30
 LEN_BYTES :11
 ORIGINAL  :Right Ratio[END]
+TRANSLATED:Right Ratio[END]
+
 ADDRESS   :0x150d8
 LEN_BYTES :6
 ORIGINAL  :通道[END]
+TRANSLATED:通道[END]
+
 ADDRESS   :0x150e0
 LEN_BYTES :4
 ORIGINAL  :%s%d[END]
+TRANSLATED:%s%d[END]
+
 ADDRESS   :0x150e8
 LEN_BYTES :6
 ORIGINAL  :Kanal [END]
+TRANSLATED:Kanal [END]
+
 ADDRESS   :0x150fc
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x15280
 LEN_BYTES :4
 ORIGINAL  :1Ip[END]
+TRANSLATED:1Ip[END]
+
 ADDRESS   :0x156c4
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x15758
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x15ce0
 LEN_BYTES :12
 ORIGINAL  :辅助通道[END]
+TRANSLATED:辅助通道[END]
+
 ADDRESS   :0x15cf0
 LEN_BYTES :9
 ORIGINAL  :AUX Kanal[END]
+TRANSLATED:AUX Kanal[END]
+
 ADDRESS   :0x15cfc
 LEN_BYTES :18
 ORIGINAL  :Canal auxiliaires [END]
+TRANSLATED:Canal auxiliaires [END]
+
 ADDRESS   :0x15d10
 LEN_BYTES :18
 ORIGINAL  :AUXチャンネル[END]
+TRANSLATED:AUXチャンネル[END]
+
 ADDRESS   :0x15d24
 LEN_BYTES :11
 ORIGINAL  :AUX Channel[END]
+TRANSLATED:AUX Channel[END]
+
 ADDRESS   :0x15d50
 LEN_BYTES :4
 ORIGINAL  :K-10[END]
+TRANSLATED:K-10[END]
+
 ADDRESS   :0x16030
 LEN_BYTES :4
 ORIGINAL  :XnZH[END]
+TRANSLATED:XnZH[END]
+
 ADDRESS   :0x161a0
 LEN_BYTES :4
 ORIGINAL  :%c%d[END]
+TRANSLATED:%c%d[END]
+
 ADDRESS   :0x1680c
 LEN_BYTES :4
 ORIGINAL  :+0I[END]
+TRANSLATED:+0I[END]
+
 ADDRESS   :0x17130
 LEN_BYTES :4
 ORIGINAL  :oInH[END]
+TRANSLATED:oInH[END]
+
 ADDRESS   :0x1713c
 LEN_BYTES :4
 ORIGINAL  :P!kH[END]
+TRANSLATED:P!kH[END]
+
 ADDRESS   :0x17248
 LEN_BYTES :12
 ORIGINAL  :绞盘混控[END]
+TRANSLATED:绞盘混控[END]
+
 ADDRESS   :0x17258
 LEN_BYTES :11
 ORIGINAL  :Windenmodus[END]
+TRANSLATED:Windenmodus[END]
+
 ADDRESS   :0x17264
 LEN_BYTES :10
 ORIGINAL  :Treuil MIX[END]
+TRANSLATED:Treuil MIX[END]
+
 ADDRESS   :0x17270
 LEN_BYTES :24
 ORIGINAL  :ウインチミックス[END]
+TRANSLATED:ウインチミックス[END]
+
 ADDRESS   :0x1728c
 LEN_BYTES :9
 ORIGINAL  :Winch MIX[END]
+TRANSLATED:Winch MIX[END]
+
 ADDRESS   :0x172a4
 LEN_BYTES :12
 ORIGINAL  :上升按键[END]
+TRANSLATED:上升按键[END]
+
 ADDRESS   :0x172b4
 LEN_BYTES :9
 ORIGINAL  :Aufwärts[END]
+TRANSLATED:Aufwärts[END]
+
 ADDRESS   :0x172c0
 LEN_BYTES :12
 ORIGINAL  :Vers le haut[END]
+TRANSLATED:Vers le haut[END]
+
 ADDRESS   :0x172d0
 LEN_BYTES :15
 ORIGINAL  :出しボタン[END]
+TRANSLATED:出しボタン[END]
+
 ADDRESS   :0x172e0
 LEN_BYTES :8
 ORIGINAL  :Rise key[END]
+TRANSLATED:Rise key[END]
+
 ADDRESS   :0x172f4
 LEN_BYTES :19
 ORIGINAL  :K-3
@@ -1792,126 +3033,217 @@ K-4
 K-8
 K-9
 K10[END]
+TRANSLATED:K-3
+K-4
+K-8
+K-9
+K10[END]
+
 ADDRESS   :0x1771c
 LEN_BYTES :12
 ORIGINAL  :下降按键[END]
+TRANSLATED:下降按键[END]
+
 ADDRESS   :0x1772c
 LEN_BYTES :8
 ORIGINAL  :Abwärts[END]
+TRANSLATED:Abwärts[END]
+
 ADDRESS   :0x17738
 LEN_BYTES :11
 ORIGINAL  :Vers le bas[END]
+TRANSLATED:Vers le bas[END]
+
 ADDRESS   :0x17744
 LEN_BYTES :15
 ORIGINAL  :巻きボタン[END]
+TRANSLATED:巻きボタン[END]
+
 ADDRESS   :0x17754
 LEN_BYTES :8
 ORIGINAL  :Drop key[END]
+TRANSLATED:Drop key[END]
+
 ADDRESS   :0x17794
 LEN_BYTES :8
 ORIGINAL  :通道 3[END]
+TRANSLATED:通道 3[END]
+
 ADDRESS   :0x177a0
 LEN_BYTES :7
 ORIGINAL  :Kanal 3[END]
+TRANSLATED:Kanal 3[END]
+
 ADDRESS   :0x177b4
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x177bc
 LEN_BYTES :12
 ORIGINAL  :上升比率[END]
+TRANSLATED:上升比率[END]
+
 ADDRESS   :0x177cc
 LEN_BYTES :15
 ORIGINAL  :Steigerungsrate[END]
+TRANSLATED:Steigerungsrate[END]
+
 ADDRESS   :0x177e4
 LEN_BYTES :11
 ORIGINAL  :ugmentation[END]
+TRANSLATED:ugmentation[END]
+
 ADDRESS   :0x177f0
 LEN_BYTES :18
 ORIGINAL  :出しスピード[END]
+TRANSLATED:出しスピード[END]
+
 ADDRESS   :0x17804
 LEN_BYTES :12
 ORIGINAL  :Rising ratio[END]
+TRANSLATED:Rising ratio[END]
+
 ADDRESS   :0x17b14
 LEN_BYTES :6
 ORIGINAL  :停止[END]
+TRANSLATED:停止[END]
+
 ADDRESS   :0x17b1c
 LEN_BYTES :4
 ORIGINAL  :Stop[END]
+TRANSLATED:Stop[END]
+
 ADDRESS   :0x17b24
 LEN_BYTES :12
 ORIGINAL  :ストップ[END]
+TRANSLATED:ストップ[END]
+
 ADDRESS   :0x17b3c
 LEN_BYTES :12
 ORIGINAL  :下降比率[END]
+TRANSLATED:下降比率[END]
+
 ADDRESS   :0x17b4c
 LEN_BYTES :18
 ORIGINAL  :巻きスピード[END]
+TRANSLATED:巻きスピード[END]
+
 ADDRESS   :0x17b60
 LEN_BYTES :13
 ORIGINAL  :Decline ratio[END]
+TRANSLATED:Decline ratio[END]
+
 ADDRESS   :0x18578
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x18a8c
 LEN_BYTES :12
 ORIGINAL  :按键类型[END]
+TRANSLATED:按键类型[END]
+
 ADDRESS   :0x18a9c
 LEN_BYTES :14
 ORIGINAL  :Schlüssel Typ[END]
+TRANSLATED:Schlüssel Typ[END]
+
 ADDRESS   :0x18aac
 LEN_BYTES :12
 ORIGINAL  :Type de clé[END]
+TRANSLATED:Type de clé[END]
+
 ADDRESS   :0x18abc
 LEN_BYTES :18
 ORIGINAL  :ボタンタイプ[END]
+TRANSLATED:ボタンタイプ[END]
+
 ADDRESS   :0x18ad0
 LEN_BYTES :8
 ORIGINAL  :Key Type[END]
+TRANSLATED:Key Type[END]
+
 ADDRESS   :0x18af8
 LEN_BYTES :4
 ORIGINAL  :K-10[END]
+TRANSLATED:K-10[END]
+
 ADDRESS   :0x18b08
 LEN_BYTES :27
 ORIGINAL  :自锁
 点动
 三段
 四段[END]
+TRANSLATED:自锁
+点动
+三段
+四段[END]
+
 ADDRESS   :0x18b24
 LEN_BYTES :52
 ORIGINAL  :Selbstverriegelnd
 Momenttaster
 Dreistufen
 Vierstufen[END]
+TRANSLATED:Selbstverriegelnd
+Momenttaster
+Dreistufen
+Vierstufen[END]
+
 ADDRESS   :0x18b5c
 LEN_BYTES :60
 ORIGINAL  :Auto-verrouillage
 Instantané
 Trois vitesses
 Quatre vitesses[END]
+TRANSLATED:Auto-verrouillage
+Instantané
+Trois vitesses
+Quatre vitesses[END]
+
 ADDRESS   :0x18b9c
 LEN_BYTES :63
 ORIGINAL  :じこほじ
 しゅんかんどうさ
 さんだん
 よんだん[END]
+TRANSLATED:じこほじ
+しゅんかんどうさ
+さんだん
+よんだん[END]
+
 ADDRESS   :0x18bdc
 LEN_BYTES :45
 ORIGINAL  :Self-locking
 Momentary
 Three-speed
 Four-speed[END]
+TRANSLATED:Self-locking
+Momentary
+Three-speed
+Four-speed[END]
+
 ADDRESS   :0x19050
 LEN_BYTES :12
 ORIGINAL  :转向混控[END]
+TRANSLATED:转向混控[END]
+
 ADDRESS   :0x19070
 LEN_BYTES :12
 ORIGINAL  :正相使能[END]
+TRANSLATED:正相使能[END]
+
 ADDRESS   :0x19080
 LEN_BYTES :9
 ORIGINAL  :同位相[END]
+TRANSLATED:同位相[END]
+
 ADDRESS   :0x1908c
 LEN_BYTES :7
 ORIGINAL  :NOR KEY[END]
+TRANSLATED:NOR KEY[END]
+
 ADDRESS   :0x1909c
 LEN_BYTES :24
 ORIGINAL  :NULL
@@ -1920,86 +3252,147 @@ K-4
 K-8
 K-9
 K10[END]
+TRANSLATED:NULL
+K-3
+K-4
+K-8
+K-9
+K10[END]
+
 ADDRESS   :0x190c4
 LEN_BYTES :12
 ORIGINAL  :反相使能[END]
+TRANSLATED:反相使能[END]
+
 ADDRESS   :0x194cc
 LEN_BYTES :9
 ORIGINAL  :逆位相[END]
+TRANSLATED:逆位相[END]
+
 ADDRESS   :0x194d8
 LEN_BYTES :7
 ORIGINAL  :REV KEY[END]
+TRANSLATED:REV KEY[END]
+
 ADDRESS   :0x19508
 LEN_BYTES :7
 ORIGINAL  :通道1[END]
+TRANSLATED:通道1[END]
+
 ADDRESS   :0x19510
 LEN_BYTES :7
 ORIGINAL  :Kanal 1[END]
+TRANSLATED:Kanal 1[END]
+
 ADDRESS   :0x1952c
 LEN_BYTES :7
 ORIGINAL  :通道4[END]
+TRANSLATED:通道4[END]
+
 ADDRESS   :0x19534
 LEN_BYTES :7
 ORIGINAL  :Kanal 4[END]
+TRANSLATED:Kanal 4[END]
+
 ADDRESS   :0x19974
 LEN_BYTES :12
 ORIGINAL  :左转比率[END]
+TRANSLATED:左转比率[END]
+
 ADDRESS   :0x19984
 LEN_BYTES :12
 ORIGINAL  :Linke Stufe [END]
+TRANSLATED:Linke Stufe [END]
+
 ADDRESS   :0x19994
 LEN_BYTES :14
 ORIGINAL  :Taux de gauche[END]
+TRANSLATED:Taux de gauche[END]
+
 ADDRESS   :0x199a4
 LEN_BYTES :19
 ORIGINAL  :左折ス
 ピード[END]
+TRANSLATED:左折ス
+ピード[END]
+
 ADDRESS   :0x199b8
 LEN_BYTES :10
 ORIGINAL  :Left Ratio[END]
+TRANSLATED:Left Ratio[END]
+
 ADDRESS   :0x19a30
 LEN_BYTES :12
 ORIGINAL  :右转比率[END]
+TRANSLATED:右转比率[END]
+
 ADDRESS   :0x19a40
 LEN_BYTES :12
 ORIGINAL  :Rechte Stufe[END]
+TRANSLATED:Rechte Stufe[END]
+
 ADDRESS   :0x19a50
 LEN_BYTES :13
 ORIGINAL  :Taux de droit[END]
+TRANSLATED:Taux de droit[END]
+
 ADDRESS   :0x19a60
 LEN_BYTES :19
 ORIGINAL  :右折ス
 ピード[END]
+TRANSLATED:右折ス
+ピード[END]
+
 ADDRESS   :0x19a74
 LEN_BYTES :11
 ORIGINAL  :Right Ratio[END]
+TRANSLATED:Right Ratio[END]
+
 ADDRESS   :0x19e84
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x1a228
 LEN_BYTES :9
 ORIGINAL  :重映射[END]
+TRANSLATED:重映射[END]
+
 ADDRESS   :0x1a234
 LEN_BYTES :14
 ORIGINAL  :Überschreiben[END]
+TRANSLATED:Überschreiben[END]
+
 ADDRESS   :0x1a244
 LEN_BYTES :9
 ORIGINAL  :Remappage[END]
+TRANSLATED:Remappage[END]
+
 ADDRESS   :0x1a250
 LEN_BYTES :27
 ORIGINAL  :チャンネル配置設定[END]
+TRANSLATED:チャンネル配置設定[END]
+
 ADDRESS   :0x1a26c
 LEN_BYTES :9
 ORIGINAL  :Remapping[END]
+TRANSLATED:Remapping[END]
+
 ADDRESS   :0x1a280
 LEN_BYTES :6
 ORIGINAL  :通道[END]
+TRANSLATED:通道[END]
+
 ADDRESS   :0x1a288
 LEN_BYTES :4
 ORIGINAL  :%s%d[END]
+TRANSLATED:%s%d[END]
+
 ADDRESS   :0x1a290
 LEN_BYTES :6
 ORIGINAL  :Kanal [END]
+TRANSLATED:Kanal [END]
+
 ADDRESS   :0x1a2a4
 LEN_BYTES :40
 ORIGINAL  :NULL
@@ -2011,33 +3404,61 @@ SW-7
 K-8
 K-9
 K-10[END]
+TRANSLATED:NULL
+K-3
+K-4
+VR-5
+VR-6
+SW-7
+K-8
+K-9
+K-10[END]
+
 ADDRESS   :0x1a2dc
 LEN_BYTES :4
 ORIGINAL  :1[END]
+TRANSLATED:1[END]
+
 ADDRESS   :0x1a6fc
 LEN_BYTES :12
 ORIGINAL  :程序混控[END]
+TRANSLATED:程序混控[END]
+
 ADDRESS   :0x1a710
 LEN_BYTES :12
 ORIGINAL  :Programm MIX[END]
+TRANSLATED:Programm MIX[END]
+
 ADDRESS   :0x1a720
 LEN_BYTES :13
 ORIGINAL  :Programme MIX[END]
+TRANSLATED:Programme MIX[END]
+
 ADDRESS   :0x1a730
 LEN_BYTES :27
 ORIGINAL  :プログラムミックス[END]
+TRANSLATED:プログラムミックス[END]
+
 ADDRESS   :0x1a74c
 LEN_BYTES :11
 ORIGINAL  :Program MIX[END]
+TRANSLATED:Program MIX[END]
+
 ADDRESS   :0x1a764
 LEN_BYTES :12
 ORIGINAL  :使能开关[END]
+TRANSLATED:使能开关[END]
+
 ADDRESS   :0x1a774
 LEN_BYTES :6
 ORIGINAL  :EN KEY[END]
+TRANSLATED:EN KEY[END]
+
 ADDRESS   :0x1a77c
 LEN_BYTES :18
 ORIGINAL  :有効化ボタン[END]
+TRANSLATED:有効化ボタン[END]
+
 ADDRESS   :0x1a798
 LEN_BYTES :24
 ORIGINAL  :NULL
@@ -2046,6 +3467,13 @@ K-4
 K-8
 K-9
 K10[END]
+TRANSLATED:NULL
+K-3
+K-4
+K-8
+K-9
+K10[END]
+
 ADDRESS   :0x1ac00
 LEN_BYTES :44
 ORIGINAL  :8FCH1
@@ -2058,54 +3486,97 @@ CH7
 CH8
 CH9
 CH10[END]
+TRANSLATED:8FCH1
+CH2
+CH3
+CH4
+CH5
+CH6
+CH7
+CH8
+CH9
+CH10[END]
+
 ADDRESS   :0x1b040
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x1b068
 LEN_BYTES :6
 ORIGINAL  :8F[END]
+TRANSLATED:8F[END]
+
 ADDRESS   :0x1b080
 LEN_BYTES :6
 ORIGINAL  :反相[END]
+TRANSLATED:反相[END]
+
 ADDRESS   :0x1b3c4
 LEN_BYTES :12
 ORIGINAL  :リバース[END]
+TRANSLATED:リバース[END]
+
 ADDRESS   :0x1b400
 LEN_BYTES :6
 ORIGINAL  :正相[END]
+TRANSLATED:正相[END]
+
 ADDRESS   :0x1b40c
 LEN_BYTES :12
 ORIGINAL  :ノーマル[END]
+TRANSLATED:ノーマル[END]
+
 ADDRESS   :0x1b858
 LEN_BYTES :6
 ORIGINAL  :AKU_DH[END]
+TRANSLATED:AKU_DH[END]
+
 ADDRESS   :0x1b9a4
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x1be94
 LEN_BYTES :12
 ORIGINAL  :程序混控[END]
+TRANSLATED:程序混控[END]
+
 ADDRESS   :0x1bea8
 LEN_BYTES :12
 ORIGINAL  :Programm MIX[END]
+TRANSLATED:Programm MIX[END]
+
 ADDRESS   :0x1beb8
 LEN_BYTES :13
 ORIGINAL  :Programme MIX[END]
+TRANSLATED:Programme MIX[END]
+
 ADDRESS   :0x1bec8
 LEN_BYTES :27
 ORIGINAL  :プログラムミックス[END]
+TRANSLATED:プログラムミックス[END]
+
 ADDRESS   :0x1bee4
 LEN_BYTES :11
 ORIGINAL  :Program MIX[END]
+TRANSLATED:Program MIX[END]
+
 ADDRESS   :0x1befc
 LEN_BYTES :12
 ORIGINAL  :使能开关[END]
+TRANSLATED:使能开关[END]
+
 ADDRESS   :0x1bf0c
 LEN_BYTES :6
 ORIGINAL  :EN KEY[END]
+TRANSLATED:EN KEY[END]
+
 ADDRESS   :0x1bf14
 LEN_BYTES :18
 ORIGINAL  :有効化ボタン[END]
+TRANSLATED:有効化ボタン[END]
+
 ADDRESS   :0x1bf30
 LEN_BYTES :24
 ORIGINAL  :NULL
@@ -2114,6 +3585,13 @@ K-4
 K-8
 K-9
 K10[END]
+TRANSLATED:NULL
+K-3
+K-4
+K-8
+K-9
+K10[END]
+
 ADDRESS   :0x1c398
 LEN_BYTES :44
 ORIGINAL  :8FCH1
@@ -2126,522 +3604,899 @@ CH7
 CH8
 CH9
 CH10[END]
+TRANSLATED:8FCH1
+CH2
+CH3
+CH4
+CH5
+CH6
+CH7
+CH8
+CH9
+CH10[END]
+
 ADDRESS   :0x1c7d8
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x1c800
 LEN_BYTES :6
 ORIGINAL  :8F[END]
+TRANSLATED:8F[END]
+
 ADDRESS   :0x1c818
 LEN_BYTES :6
 ORIGINAL  :反相[END]
+TRANSLATED:反相[END]
+
 ADDRESS   :0x1cb5c
 LEN_BYTES :12
 ORIGINAL  :リバース[END]
+TRANSLATED:リバース[END]
+
 ADDRESS   :0x1cb98
 LEN_BYTES :6
 ORIGINAL  :正相[END]
+TRANSLATED:正相[END]
+
 ADDRESS   :0x1cba4
 LEN_BYTES :12
 ORIGINAL  :ノーマル[END]
+TRANSLATED:ノーマル[END]
+
 ADDRESS   :0x1cea0
 LEN_BYTES :6
 ORIGINAL  :AKU_DH[END]
+TRANSLATED:AKU_DH[END]
+
 ADDRESS   :0x1cfec
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x1d100
 LEN_BYTES :4
 ORIGINAL  :ֲ[END]
+TRANSLATED:ֲ[END]
+
 ADDRESS   :0x1d54c
 LEN_BYTES :6
 ORIGINAL  :lHhH[END]
+TRANSLATED:lHhH[END]
+
 ADDRESS   :0x1d6cc
 LEN_BYTES :7
 ORIGINAL  :电源 [END]
+TRANSLATED:电源 [END]
+
 ADDRESS   :0x1d6d4
 LEN_BYTES :5
 ORIGINAL  :Strom[END]
+TRANSLATED:Strom[END]
+
 ADDRESS   :0x1d6dc
 LEN_BYTES :9
 ORIGINAL  :Puissance[END]
+TRANSLATED:Puissance[END]
+
 ADDRESS   :0x1d6e8
 LEN_BYTES :12
 ORIGINAL  :電源設定[END]
+TRANSLATED:電源設定[END]
+
 ADDRESS   :0x1d6f8
 LEN_BYTES :5
 ORIGINAL  :Power[END]
+TRANSLATED:Power[END]
+
 ADDRESS   :0x1d704
 LEN_BYTES :13
 ORIGINAL  :闲置报警 [END]
+TRANSLATED:闲置报警 [END]
+
 ADDRESS   :0x1d714
 LEN_BYTES :14
 ORIGINAL  :Leerlauf Alarm[END]
+TRANSLATED:Leerlauf Alarm[END]
+
 ADDRESS   :0x1d724
 LEN_BYTES :17
 ORIGINAL  :Alarme au ralenti[END]
+TRANSLATED:Alarme au ralenti[END]
+
 ADDRESS   :0x1d738
 LEN_BYTES :9
 ORIGINAL  :警告音[END]
+TRANSLATED:警告音[END]
+
 ADDRESS   :0x1d744
 LEN_BYTES :10
 ORIGINAL  :Idle Alarm[END]
+TRANSLATED:Idle Alarm[END]
+
 ADDRESS   :0x1d758
 LEN_BYTES :39
 ORIGINAL  :  关闭 
 15分钟 
 30分钟 
 60分钟 [END]
+TRANSLATED:  关闭 
+15分钟 
+30分钟 
+60分钟 [END]
+
 ADDRESS   :0x1d780
 LEN_BYTES :34
 ORIGINAL  :Schließen 
 15 min 
 30 min 
 60 min[END]
+TRANSLATED:Schließen 
+15 min 
+30 min 
+60 min[END]
+
 ADDRESS   :0x1d7a4
 LEN_BYTES :30
 ORIGINAL  :Fermer 
 15 min 
 30 min 
 60 min[END]
+TRANSLATED:Fermer 
+15 min 
+30 min 
+60 min[END]
+
 ADDRESS   :0x1d7c4
 LEN_BYTES :27
 ORIGINAL  :オフ
 15 分
 30 分
 60 分[END]
+TRANSLATED:オフ
+15 分
+30 分
+60 分[END]
+
 ADDRESS   :0x1d7e0
 LEN_BYTES :29
 ORIGINAL  :Close 
 15 min 
 30 min 
 60 min[END]
+TRANSLATED:Close 
+15 min 
+30 min 
+60 min[END]
+
 ADDRESS   :0x1d92c
 LEN_BYTES :4
 ORIGINAL  :H[END]
+TRANSLATED:H[END]
+
 ADDRESS   :0x1dbd4
 LEN_BYTES :13
 ORIGINAL  :自动关机 [END]
+TRANSLATED:自动关机 [END]
+
 ADDRESS   :0x1dbe4
 LEN_BYTES :8
 ORIGINAL  :Auto Off[END]
+TRANSLATED:Auto Off[END]
+
 ADDRESS   :0x1dbf8
 LEN_BYTES :11
 ORIGINAL  :Arrêt auto[END]
+TRANSLATED:Arrêt auto[END]
+
 ADDRESS   :0x1dc04
 LEN_BYTES :24
 ORIGINAL  :オートパワーオフ[END]
+TRANSLATED:オートパワーオフ[END]
+
 ADDRESS   :0x1dc2c
 LEN_BYTES :56
 ORIGINAL  :  关闭 
 闲置5分钟 
 闲置10分钟 
 闲置20分钟 [END]
+TRANSLATED:  关闭 
+闲置5分钟 
+闲置10分钟 
+闲置20分钟 [END]
+
 ADDRESS   :0x1dc68
 LEN_BYTES :54
 ORIGINAL  :Schließen 
 Leerlauf 5 m 
 Leerlauf 10 m 
 Leerlauf 20 m[END]
+TRANSLATED:Schließen 
+Leerlauf 5 m 
+Leerlauf 10 m 
+Leerlauf 20 m[END]
+
 ADDRESS   :0x1dca0
 LEN_BYTES :44
 ORIGINAL  :Fermer 
 Idle 5 min 
 Idle 10 min 
 Idle 20 min[END]
+TRANSLATED:Fermer 
+Idle 5 min 
+Idle 10 min 
+Idle 20 min[END]
+
 ADDRESS   :0x1dcd0
 LEN_BYTES :26
 ORIGINAL  :オフ
 5 分
 10 分
 20 分[END]
+TRANSLATED:オフ
+5 分
+10 分
+20 分[END]
+
 ADDRESS   :0x1dcec
 LEN_BYTES :43
 ORIGINAL  :Close 
 Idle 5 min 
 Idle 10 min 
 Idle 20 min[END]
+TRANSLATED:Close 
+Idle 5 min 
+Idle 10 min 
+Idle 20 min[END]
+
 ADDRESS   :0x1dd30
 LEN_BYTES :13
 ORIGINAL  :电池类型 [END]
+TRANSLATED:电池类型 [END]
+
 ADDRESS   :0x1dd40
 LEN_BYTES :12
 ORIGINAL  :Batterie Typ[END]
+TRANSLATED:Batterie Typ[END]
+
 ADDRESS   :0x1dd50
 LEN_BYTES :16
 ORIGINAL  :Type de batterie[END]
+TRANSLATED:Type de batterie[END]
+
 ADDRESS   :0x1dd64
 LEN_BYTES :24
 ORIGINAL  :バッテリータイプ[END]
+TRANSLATED:バッテリータイプ[END]
+
 ADDRESS   :0x1dd80
 LEN_BYTES :12
 ORIGINAL  :Battery Type[END]
+TRANSLATED:Battery Type[END]
+
 ADDRESS   :0x1dd94
-LEN_BYTES :19
-ORIGINAL  :   AA 
-   2S 
-   3S[END]
+LEN_BYTES :18
+ORIGINAL  :   4AA
+2S
+3S
+4NiMh[END]
+TRANSLATED:   4AA
+2S
+3S
+4NiMh[END]
+
 ADDRESS   :0x1ddb0
 LEN_BYTES :13
 ORIGINAL  :电压报警 [END]
+TRANSLATED:电压报警 [END]
+
 ADDRESS   :0x1ddc0
 LEN_BYTES :14
 ORIGINAL  :Spannung Alarm[END]
+TRANSLATED:Spannung Alarm[END]
+
 ADDRESS   :0x1e1b0
 LEN_BYTES :17
 ORIGINAL  :Alarme de tension[END]
+TRANSLATED:Alarme de tension[END]
+
 ADDRESS   :0x1e1c8
 LEN_BYTES :21
 ORIGINAL  :低電圧アラーム[END]
+TRANSLATED:低電圧アラーム[END]
+
 ADDRESS   :0x1e1e0
 LEN_BYTES :13
 ORIGINAL  :Voltage alarm[END]
+TRANSLATED:Voltage alarm[END]
+
 ADDRESS   :0x1e204
 LEN_BYTES :6
 ORIGINAL  :%d.%dV[END]
+TRANSLATED:%d.%dV[END]
+
 ADDRESS   :0x1e22c
 LEN_BYTES :20
 ORIGINAL  :当前电压        [END]
+TRANSLATED:当前电压        [END]
+
 ADDRESS   :0x1e244
 LEN_BYTES :17
 ORIGINAL  :%s      %d.%02d V[END]
+TRANSLATED:%s      %d.%02d V[END]
+
 ADDRESS   :0x1e258
 LEN_BYTES :17
 ORIGINAL  :Aktuelle Spannung[END]
+TRANSLATED:Aktuelle Spannung[END]
+
 ADDRESS   :0x1e26c
 LEN_BYTES :12
 ORIGINAL  :%s %d.%02d V[END]
+TRANSLATED:%s %d.%02d V[END]
+
 ADDRESS   :0x1e27c
 LEN_BYTES :16
 ORIGINAL  :Tension actuelle[END]
+TRANSLATED:Tension actuelle[END]
+
 ADDRESS   :0x1e290
 LEN_BYTES :13
 ORIGINAL  :%s  %d.%02d V[END]
+TRANSLATED:%s  %d.%02d V[END]
+
 ADDRESS   :0x1e2a0
 LEN_BYTES :12
 ORIGINAL  :電圧表示[END]
+TRANSLATED:電圧表示[END]
+
 ADDRESS   :0x1e2b0
 LEN_BYTES :15
 ORIGINAL  :Current Voltage[END]
+TRANSLATED:Current Voltage[END]
+
 ADDRESS   :0x1e2c4
 LEN_BYTES :13
 ORIGINAL  :电压校准 [END]
+TRANSLATED:电压校准 [END]
+
 ADDRESS   :0x1e2d4
 LEN_BYTES :20
 ORIGINAL  :Spannung Kalibrieren[END]
+TRANSLATED:Spannung Kalibrieren[END]
+
 ADDRESS   :0x1e2ec
 LEN_BYTES :25
 ORIGINAL  :Étalonnage de la tension[END]
+TRANSLATED:Étalonnage de la tension[END]
+
 ADDRESS   :0x1e308
 LEN_BYTES :12
 ORIGINAL  :電圧校正[END]
+TRANSLATED:電圧校正[END]
+
 ADDRESS   :0x1e318
 LEN_BYTES :18
 ORIGINAL  :Voltage Calibrator[END]
+TRANSLATED:Voltage Calibrator[END]
+
 ADDRESS   :0x1e440
 LEN_BYTES :6
 ORIGINAL  :Yh[END]
+TRANSLATED:Yh[END]
+
 ADDRESS   :0x1e5c0
 LEN_BYTES :6
 ORIGINAL  :DIpDH[END]
+TRANSLATED:DIpDH[END]
+
 ADDRESS   :0x1e814
 LEN_BYTES :6
 ORIGINAL  :IIpIH[END]
+TRANSLATED:IIpIH[END]
+
 ADDRESS   :0x1e834
 LEN_BYTES :6
 ORIGINAL  :CIpAH[END]
+TRANSLATED:CIpAH[END]
+
 ADDRESS   :0x1f208
 LEN_BYTES :18
 ORIGINAL  :设置陀螺舵量[END]
+TRANSLATED:设置陀螺舵量[END]
+
 ADDRESS   :0x1f21c
 LEN_BYTES :10
 ORIGINAL  :Set GY EPA[END]
+TRANSLATED:Set GY EPA[END]
+
 ADDRESS   :0x1f228
 LEN_BYTES :18
 ORIGINAL  :ジャイロ設定[END]
+TRANSLATED:ジャイロ設定[END]
+
 ADDRESS   :0x1f244
 LEN_BYTES :18
 ORIGINAL  :设置失控保护[END]
+TRANSLATED:设置失控保护[END]
+
 ADDRESS   :0x1f258
 LEN_BYTES :6
 ORIGINAL  :Set FS[END]
+TRANSLATED:Set FS[END]
+
 ADDRESS   :0x1f260
 LEN_BYTES :27
 ORIGINAL  :フェイルセーフ設定[END]
+TRANSLATED:フェイルセーフ設定[END]
+
 ADDRESS   :0x1f27c
 LEN_BYTES :40
 ORIGINAL  :仅P系列接收机支持本界面调参[END]
+TRANSLATED:仅P系列接收机支持本界面调参[END]
+
 ADDRESS   :0x1f2a8
 LEN_BYTES :4
 ORIGINAL  :%s ![END]
+TRANSLATED:%s ![END]
+
 ADDRESS   :0x1f2b0
 LEN_BYTES :46
 ORIGINAL  :Only P series receivers support this interface[END]
+TRANSLATED:Only P series receivers support this interface[END]
+
 ADDRESS   :0x1f2e4
 LEN_BYTES :6
 ORIGINAL  :=Hx
 [END]
+TRANSLATED:=Hx
+[END]
+
 ADDRESS   :0x1f820
 LEN_BYTES :7
 ORIGINAL  :%d.%d%s[END]
+TRANSLATED:%d.%d%s[END]
+
 ADDRESS   :0x1f9f4
 LEN_BYTES :7
 ORIGINAL  :%d.%d%s[END]
+TRANSLATED:%d.%d%s[END]
+
 ADDRESS   :0x1fd54
 LEN_BYTES :4
 ORIGINAL  :tIYH[END]
+TRANSLATED:tIYH[END]
+
 ADDRESS   :0x1fdec
 LEN_BYTES :4
 ORIGINAL  :_!OH[END]
+TRANSLATED:_!OH[END]
+
 ADDRESS   :0x1fe30
 LEN_BYTES :9
 ORIGINAL  :接收机[END]
+TRANSLATED:接收机[END]
+
 ADDRESS   :0x1fe3c
 LEN_BYTES :8
 ORIGINAL  :Receiver[END]
+TRANSLATED:Receiver[END]
+
 ADDRESS   :0x1fe48
 LEN_BYTES :9
 ORIGINAL  :Réglages[END]
+TRANSLATED:Réglages[END]
+
 ADDRESS   :0x1fe54
 LEN_BYTES :9
 ORIGINAL  :受信機[END]
+TRANSLATED:受信機[END]
+
 ADDRESS   :0x1fe60
 LEN_BYTES :12
 ORIGINAL  :通讯协议[END]
+TRANSLATED:通讯协议[END]
+
 ADDRESS   :0x1fe70
 LEN_BYTES :11
 ORIGINAL  :RF abkommen[END]
+TRANSLATED:RF abkommen[END]
+
 ADDRESS   :0x1fe7c
 LEN_BYTES :16
 ORIGINAL  :Protocoles de RF[END]
+TRANSLATED:Protocoles de RF[END]
+
 ADDRESS   :0x1fe90
 LEN_BYTES :30
 ORIGINAL  :無線周波数プロトコル[END]
+TRANSLATED:無線周波数プロトコル[END]
+
 ADDRESS   :0x1feb0
 LEN_BYTES :11
 ORIGINAL  :RF protocol[END]
+TRANSLATED:RF protocol[END]
+
 ADDRESS   :0x1fec4
 LEN_BYTES :13
 ORIGINAL  :标准
 快速[END]
+TRANSLATED:标准
+快速[END]
+
 ADDRESS   :0x1fed4
 LEN_BYTES :14
 ORIGINAL  :Normal
 Schnell[END]
+TRANSLATED:Normal
+Schnell[END]
+
 ADDRESS   :0x1fee4
 LEN_BYTES :13
 ORIGINAL  :Norme
 Rapides[END]
+TRANSLATED:Norme
+Rapides[END]
+
 ADDRESS   :0x1fef4
 LEN_BYTES :26
 ORIGINAL  :ノーマル
 ファ-スト[END]
+TRANSLATED:ノーマル
+ファ-スト[END]
+
 ADDRESS   :0x1ff10
 LEN_BYTES :11
 ORIGINAL  :Normal
 Fast[END]
+TRANSLATED:Normal
+Fast[END]
+
 ADDRESS   :0x1ff70
 LEN_BYTES :6
 ORIGINAL  :THhTH[END]
+TRANSLATED:THhTH[END]
+
 ADDRESS   :0x1ff7c
 LEN_BYTES :4
 ORIGINAL  :_!RH[END]
+TRANSLATED:_!RH[END]
+
 ADDRESS   :0x200d4
 LEN_BYTES :6
 ORIGINAL  :对码[END]
+TRANSLATED:对码[END]
+
 ADDRESS   :0x200dc
 LEN_BYTES :6
 ORIGINAL  :Binde![END]
+TRANSLATED:Binde![END]
+
 ADDRESS   :0x200e4
 LEN_BYTES :7
 ORIGINAL  :Reliure[END]
+TRANSLATED:Reliure[END]
+
 ADDRESS   :0x200ec
 LEN_BYTES :12
 ORIGINAL  :バインド[END]
+TRANSLATED:バインド[END]
+
 ADDRESS   :0x200fc
 LEN_BYTES :7
 ORIGINAL  :Binding[END]
+TRANSLATED:Binding[END]
+
 ADDRESS   :0x2010c
 LEN_BYTES :40
 ORIGINAL  :仅P系列接收机支持本界面调参[END]
+TRANSLATED:仅P系列接收机支持本界面调参[END]
+
 ADDRESS   :0x20138
 LEN_BYTES :4
 ORIGINAL  :%s ![END]
+TRANSLATED:%s ![END]
+
 ADDRESS   :0x20140
 LEN_BYTES :46
 ORIGINAL  :Only P series receivers support this interface[END]
+TRANSLATED:Only P series receivers support this interface[END]
+
 ADDRESS   :0x202f0
 LEN_BYTES :4
 ORIGINAL  :jIh[END]
+TRANSLATED:jIh[END]
+
 ADDRESS   :0x202fc
 LEN_BYTES :6
 ORIGINAL  :ABF-[END]
+TRANSLATED:ABF-[END]
+
 ADDRESS   :0x204b4
 LEN_BYTES :36
 ORIGINAL  :%s 信号强度 
       #000000 %d%s#[END]
+TRANSLATED:%s 信号强度 
+      #000000 %d%s#[END]
+
 ADDRESS   :0x204dc
 LEN_BYTES :36
 ORIGINAL  :%s 受信感度 
       #000000 %d%s#[END]
+TRANSLATED:%s 受信感度 
+      #000000 %d%s#[END]
+
 ADDRESS   :0x20504
 LEN_BYTES :28
 ORIGINAL  :%s RSSI 
       #000000 %d%s#[END]
+TRANSLATED:%s RSSI 
+      #000000 %d%s#[END]
+
 ADDRESS   :0x20524
 LEN_BYTES :34
 ORIGINAL  :%s 信号强度 
       #000000 无[END]
+TRANSLATED:%s 信号强度 
+      #000000 无[END]
+
 ADDRESS   :0x20548
 LEN_BYTES :34
 ORIGINAL  :%s 受信感度 
       #000000 無[END]
+TRANSLATED:%s 受信感度 
+      #000000 無[END]
+
 ADDRESS   :0x2056c
 LEN_BYTES :28
 ORIGINAL  :%s RSSI 
       #000000 NULL#[END]
+TRANSLATED:%s RSSI 
+      #000000 NULL#[END]
+
 ADDRESS   :0x21304
 LEN_BYTES :8
 ORIGINAL  : x%IpH[END]
+TRANSLATED: x%IpH[END]
+
 ADDRESS   :0x21524
 LEN_BYTES :37
 ORIGINAL  :%s 回传电压
       #000000 %d.%dV#[END]
+TRANSLATED:%s 回传电压
+      #000000 %d.%dV#[END]
+
 ADDRESS   :0x2154c
 LEN_BYTES :32
 ORIGINAL  :%s EXT Vol 
       #000000 %d.%dV[END]
+TRANSLATED:%s EXT Vol 
+      #000000 %d.%dV[END]
+
 ADDRESS   :0x21570
 LEN_BYTES :32
 ORIGINAL  :%s EXT Ten 
       #000000 %d.%dV[END]
+TRANSLATED:%s EXT Ten 
+      #000000 %d.%dV[END]
+
 ADDRESS   :0x21594
 LEN_BYTES :35
 ORIGINAL  :%s EXT 電圧 
       #000000 %d.%dV[END]
+TRANSLATED:%s EXT 電圧 
+      #000000 %d.%dV[END]
+
 ADDRESS   :0x215bc
 LEN_BYTES :35
 ORIGINAL  :%s 回传电压
        #000000 无#[END]
+TRANSLATED:%s 回传电压
+       #000000 无#[END]
+
 ADDRESS   :0x215e0
 LEN_BYTES :31
 ORIGINAL  :%s EXT Vol 
       #000000 NULL#[END]
+TRANSLATED:%s EXT Vol 
+      #000000 NULL#[END]
+
 ADDRESS   :0x21600
 LEN_BYTES :31
 ORIGINAL  :%s EXT Ten 
       #000000 NULL#[END]
+TRANSLATED:%s EXT Ten 
+      #000000 NULL#[END]
+
 ADDRESS   :0x21620
 LEN_BYTES :33
 ORIGINAL  :%s EXT 電圧 
       #000000 無#[END]
+TRANSLATED:%s EXT 電圧 
+      #000000 無#[END]
+
 ADDRESS   :0x218b0
 LEN_BYTES :22
 ORIGINAL  :~Ip~Ip~Ipd ~Ip~Ip[END]
+TRANSLATED:~Ip~Ip~Ipd ~Ip~Ip[END]
+
 ADDRESS   :0x21924
 LEN_BYTES :16
 ORIGINAL  :tIp tIp sIp[END]
+TRANSLATED:tIp tIp sIp[END]
+
 ADDRESS   :0x21b8c
 LEN_BYTES :6
 ORIGINAL  :Z Ip[END]
+TRANSLATED:Z Ip[END]
+
 ADDRESS   :0x21c54
 LEN_BYTES :6
 ORIGINAL  :xHhuH[END]
+TRANSLATED:xHhuH[END]
+
 ADDRESS   :0x21e44
 LEN_BYTES :12
 ORIGINAL  :舵机速度[END]
+TRANSLATED:舵机速度[END]
+
 ADDRESS   :0x21e54
 LEN_BYTES :12
 ORIGINAL  :Rudder Speed[END]
+TRANSLATED:Rudder Speed[END]
+
 ADDRESS   :0x21e64
 LEN_BYTES :15
 ORIGINAL  :サーボ速度[END]
+TRANSLATED:サーボ速度[END]
+
 ADDRESS   :0x21e7c
 LEN_BYTES :21
 ORIGINAL  :67HZ
 250HZ
 50HZ
 300HZ[END]
+TRANSLATED:67HZ
+250HZ
+50HZ
+300HZ[END]
+
 ADDRESS   :0x21f78
 LEN_BYTES :4
 ORIGINAL  :A5H[END]
+TRANSLATED:A5H[END]
+
 ADDRESS   :0x22614
 LEN_BYTES :4
 ORIGINAL  :pGF[END]
+TRANSLATED:pGF[END]
+
 ADDRESS   :0x23210
 LEN_BYTES :6
 ORIGINAL  :6Ip6H[END]
+TRANSLATED:6Ip6H[END]
+
 ADDRESS   :0x23238
 LEN_BYTES :4
 ORIGINAL  :.I/H[END]
+TRANSLATED:.I/H[END]
+
 ADDRESS   :0x23724
 LEN_BYTES :18
 ORIGINAL  :舵机摆动控制[END]
+TRANSLATED:舵机摆动控制[END]
+
 ADDRESS   :0x23738
 LEN_BYTES :24
 ORIGINAL  :Servoarm-Schwenkregelung[END]
+TRANSLATED:Servoarm-Schwenkregelung[END]
+
 ADDRESS   :0x23754
 LEN_BYTES :33
 ORIGINAL  :Contrôle de balancement du servo[END]
+TRANSLATED:Contrôle de balancement du servo[END]
+
 ADDRESS   :0x23778
 LEN_BYTES :27
 ORIGINAL  :サーボスイング制御[END]
+TRANSLATED:サーボスイング制御[END]
+
 ADDRESS   :0x23794
 LEN_BYTES :19
 ORIGINAL  :Servo Swing Control[END]
+TRANSLATED:Servo Swing Control[END]
+
 ADDRESS   :0x237b8
 LEN_BYTES :6
 ORIGINAL  :模式[END]
+TRANSLATED:模式[END]
+
 ADDRESS   :0x237c0
 LEN_BYTES :5
 ORIGINAL  :Modus[END]
+TRANSLATED:Modus[END]
+
 ADDRESS   :0x237c8
 LEN_BYTES :4
 ORIGINAL  :Mode[END]
+TRANSLATED:Mode[END]
+
 ADDRESS   :0x237d0
 LEN_BYTES :12
 ORIGINAL  :モード‌[END]
+TRANSLATED:モード‌[END]
+
 ADDRESS   :0x237e4
 LEN_BYTES :15
 ORIGINAL  :模式1
 模式2[END]
+TRANSLATED:模式1
+模式2[END]
+
 ADDRESS   :0x237f4
 LEN_BYTES :21
 ORIGINAL  :Modus‌ 1
 Modus‌ 2[END]
+TRANSLATED:Modus‌ 1
+Modus‌ 2[END]
+
 ADDRESS   :0x2380c
 LEN_BYTES :19
 ORIGINAL  :Mode‌ 1
 Mode‌ 2[END]
+TRANSLATED:Mode‌ 1
+Mode‌ 2[END]
+
 ADDRESS   :0x23820
 LEN_BYTES :21
 ORIGINAL  :モード1
 モード2[END]
+TRANSLATED:モード1
+モード2[END]
+
 ADDRESS   :0x23a14
 LEN_BYTES :6
 ORIGINAL  :x 
 #F[END]
+TRANSLATED:x 
+#F[END]
+
 ADDRESS   :0x23b10
 LEN_BYTES :4
 ORIGINAL  :jIzH[END]
+TRANSLATED:jIzH[END]
+
 ADDRESS   :0x23b68
 LEN_BYTES :4
 ORIGINAL  :/IdH[END]
+TRANSLATED:/IdH[END]
+
 ADDRESS   :0x23c40
 LEN_BYTES :12
 ORIGINAL  :速度切换[END]
+TRANSLATED:速度切换[END]
+
 ADDRESS   :0x23c50
 LEN_BYTES :13
 ORIGINAL  :Umschalttaste[END]
+TRANSLATED:Umschalttaste[END]
+
 ADDRESS   :0x23c60
 LEN_BYTES :21
 ORIGINAL  :Bouton de commutation[END]
+TRANSLATED:Bouton de commutation[END]
+
 ADDRESS   :0x23c78
 LEN_BYTES :21
 ORIGINAL  :切り替えボタン[END]
+TRANSLATED:切り替えボタン[END]
+
 ADDRESS   :0x23c90
 LEN_BYTES :6
 ORIGINAL  :Switch[END]
+TRANSLATED:Switch[END]
+
 ADDRESS   :0x23c9c
 LEN_BYTES :24
 ORIGINAL  :NULL
@@ -2650,929 +4505,1556 @@ K-4
 K-8
 K-9
 K10[END]
+TRANSLATED:NULL
+K-3
+K-4
+K-8
+K-9
+K10[END]
+
 ADDRESS   :0x23cc4
 LEN_BYTES :12
 ORIGINAL  :速度设置[END]
+TRANSLATED:速度设置[END]
+
 ADDRESS   :0x23cd4
 LEN_BYTES :15
 ORIGINAL  :Geschwindigkeit[END]
+TRANSLATED:Geschwindigkeit[END]
+
 ADDRESS   :0x23ce4
 LEN_BYTES :7
 ORIGINAL  :Vitesse[END]
+TRANSLATED:Vitesse[END]
+
 ADDRESS   :0x23cec
 LEN_BYTES :6
 ORIGINAL  :速度[END]
+TRANSLATED:速度[END]
+
 ADDRESS   :0x23cf4
 LEN_BYTES :5
 ORIGINAL  :Speed[END]
+TRANSLATED:Speed[END]
+
 ADDRESS   :0x23d00
 LEN_BYTES :14
 ORIGINAL  :NULL
 VR-5
 VR-6[END]
+TRANSLATED:NULL
+VR-5
+VR-6[END]
+
 ADDRESS   :0x24140
 LEN_BYTES :6
 ORIGINAL  :%d.%dS[END]
+TRANSLATED:%d.%dS[END]
+
 ADDRESS   :0x24154
 LEN_BYTES :6
 ORIGINAL  :͔h[END]
+TRANSLATED:͔h[END]
+
 ADDRESS   :0x24164
 LEN_BYTES :8
 ORIGINAL  :通道10[END]
+TRANSLATED:通道10[END]
+
 ADDRESS   :0x24170
 LEN_BYTES :8
 ORIGINAL  :Kanal 10[END]
+TRANSLATED:Kanal 10[END]
+
 ADDRESS   :0x2417c
 LEN_BYTES :4
 ORIGINAL  :CH10[END]
+TRANSLATED:CH10[END]
+
 ADDRESS   :0x24190
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x2419c
 LEN_BYTES :7
 ORIGINAL  :状态:[END]
+TRANSLATED:状态:[END]
+
 ADDRESS   :0x241a4
 LEN_BYTES :7
 ORIGINAL  :Status:[END]
+TRANSLATED:Status:[END]
+
 ADDRESS   :0x241ac
 LEN_BYTES :15
 ORIGINAL  :ステータス[END]
+TRANSLATED:ステータス[END]
+
 ADDRESS   :0x24240
 LEN_BYTES :4
 ORIGINAL  :/I.H[END]
+TRANSLATED:/I.H[END]
+
 ADDRESS   :0x2424c
 LEN_BYTES :4
 ORIGINAL  :-I+H[END]
+TRANSLATED:-I+H[END]
+
 ADDRESS   :0x24390
 LEN_BYTES :6
 ORIGINAL  :GKpAH[END]
+TRANSLATED:GKpAH[END]
+
 ADDRESS   :0x24724
 LEN_BYTES :6
 ORIGINAL  :%d.%dS[END]
+TRANSLATED:%d.%dS[END]
+
 ADDRESS   :0x24884
 LEN_BYTES :5
 ORIGINAL  :%3d%s[END]
+TRANSLATED:%3d%s[END]
+
 ADDRESS   :0x248c8
 LEN_BYTES :6
 ORIGINAL  :%d.%dS[END]
+TRANSLATED:%d.%dS[END]
+
 ADDRESS   :0x24e44
 LEN_BYTES :10
 ORIGINAL  :aHpaHp_H[END]
+TRANSLATED:aHpaHp_H[END]
+
 ADDRESS   :0x25aa8
 LEN_BYTES :4
 ORIGINAL  :!F [END]
+TRANSLATED:!F [END]
+
 ADDRESS   :0x25ad4
 LEN_BYTES :4
 ORIGINAL  :!F [END]
+TRANSLATED:!F [END]
+
 ADDRESS   :0x26554
 LEN_BYTES :12
 ORIGINAL  :#24d8a8 #[END]
+TRANSLATED:#24d8a8 #[END]
+
 ADDRESS   :0x26928
 LEN_BYTES :29
 ORIGINAL  :%s 计时器 
  %02d:%02d:%02d[END]
+TRANSLATED:%s 计时器 
+ %02d:%02d:%02d[END]
+
 ADDRESS   :0x26948
 LEN_BYTES :25
 ORIGINAL  :%s Timer 
  %02d:%02d:%02d[END]
+TRANSLATED:%s Timer 
+ %02d:%02d:%02d[END]
+
 ADDRESS   :0x26964
 LEN_BYTES :30
 ORIGINAL  :%s Minuterie..
  %02d:%02d:%02d[END]
+TRANSLATED:%s Minuterie..
+ %02d:%02d:%02d[END]
+
 ADDRESS   :0x26984
 LEN_BYTES :32
 ORIGINAL  :%s タイマー 
  %02d:%02d:%02d[END]
+TRANSLATED:%s タイマー 
+ %02d:%02d:%02d[END]
+
 ADDRESS   :0x269f8
 LEN_BYTES :8
 ORIGINAL  :1Hh1Hh[END]
+TRANSLATED:1Hh1Hh[END]
+
 ADDRESS   :0x27274
 LEN_BYTES :6
 ORIGINAL  : pdH[END]
+TRANSLATED: pdH[END]
+
 ADDRESS   :0x2727c
 LEN_BYTES :6
 ORIGINAL  : pd~H[END]
+TRANSLATED: pd~H[END]
+
 ADDRESS   :0x272ac
 LEN_BYTES :6
 ORIGINAL  : pdwH[END]
+TRANSLATED: pdwH[END]
+
 ADDRESS   :0x272bc
 LEN_BYTES :6
 ORIGINAL  : pdtH[END]
+TRANSLATED: pdtH[END]
+
 ADDRESS   :0x272cc
 LEN_BYTES :6
 ORIGINAL  : pdqH[END]
+TRANSLATED: pdqH[END]
+
 ADDRESS   :0x272f4
 LEN_BYTES :6
 ORIGINAL  : pdjH[END]
+TRANSLATED: pdjH[END]
+
 ADDRESS   :0x272fc
 LEN_BYTES :6
 ORIGINAL  : pdiH[END]
+TRANSLATED: pdiH[END]
+
 ADDRESS   :0x27304
 LEN_BYTES :6
 ORIGINAL  : pdhH[END]
+TRANSLATED: pdhH[END]
+
 ADDRESS   :0x2730c
 LEN_BYTES :6
 ORIGINAL  : pdgH[END]
+TRANSLATED: pdgH[END]
+
 ADDRESS   :0x2731c
 LEN_BYTES :6
 ORIGINAL  : pdeH[END]
+TRANSLATED: pdeH[END]
+
 ADDRESS   :0x2732c
 LEN_BYTES :6
 ORIGINAL  : pdbH[END]
+TRANSLATED: pdbH[END]
+
 ADDRESS   :0x27334
 LEN_BYTES :6
 ORIGINAL  : pdaH[END]
+TRANSLATED: pdaH[END]
+
 ADDRESS   :0x27344
 LEN_BYTES :6
 ORIGINAL  : pd_H[END]
+TRANSLATED: pd_H[END]
+
 ADDRESS   :0x2735c
 LEN_BYTES :6
 ORIGINAL  : pd\H[END]
+TRANSLATED: pd\H[END]
+
 ADDRESS   :0x274ec
 LEN_BYTES :4
 ORIGINAL  :dAH[END]
+TRANSLATED:dAH[END]
+
 ADDRESS   :0x275a4
 LEN_BYTES :4
 ORIGINAL  :d!H[END]
+TRANSLATED:d!H[END]
+
 ADDRESS   :0x275ac
 LEN_BYTES :4
 ORIGINAL  :d H[END]
+TRANSLATED:d H[END]
+
 ADDRESS   :0x276f8
 LEN_BYTES :6
 ORIGINAL  : pd8H[END]
+TRANSLATED: pd8H[END]
+
 ADDRESS   :0x27700
 LEN_BYTES :6
 ORIGINAL  : pd7H[END]
+TRANSLATED: pd7H[END]
+
 ADDRESS   :0x27708
 LEN_BYTES :6
 ORIGINAL  : pd6H[END]
+TRANSLATED: pd6H[END]
+
 ADDRESS   :0x27718
 LEN_BYTES :6
 ORIGINAL  : pd4H[END]
+TRANSLATED: pd4H[END]
+
 ADDRESS   :0x27720
 LEN_BYTES :6
 ORIGINAL  : pd3H[END]
+TRANSLATED: pd3H[END]
+
 ADDRESS   :0x27728
 LEN_BYTES :6
 ORIGINAL  : pd2H[END]
+TRANSLATED: pd2H[END]
+
 ADDRESS   :0x27730
 LEN_BYTES :6
 ORIGINAL  : pd1H[END]
+TRANSLATED: pd1H[END]
+
 ADDRESS   :0x27738
 LEN_BYTES :6
 ORIGINAL  : pd0H[END]
+TRANSLATED: pd0H[END]
+
 ADDRESS   :0x27740
 LEN_BYTES :6
 ORIGINAL  : pd/H[END]
+TRANSLATED: pd/H[END]
+
 ADDRESS   :0x27748
 LEN_BYTES :6
 ORIGINAL  : pd.H[END]
+TRANSLATED: pd.H[END]
+
 ADDRESS   :0x27750
 LEN_BYTES :6
 ORIGINAL  : pd-H[END]
+TRANSLATED: pd-H[END]
+
 ADDRESS   :0x27758
 LEN_BYTES :6
 ORIGINAL  : pd,H[END]
+TRANSLATED: pd,H[END]
+
 ADDRESS   :0x27760
 LEN_BYTES :6
 ORIGINAL  : pd+H[END]
+TRANSLATED: pd+H[END]
+
 ADDRESS   :0x27768
 LEN_BYTES :6
 ORIGINAL  : pd*H[END]
+TRANSLATED: pd*H[END]
+
 ADDRESS   :0x2785c
 LEN_BYTES :6
 ORIGINAL  :A!hx[END]
+TRANSLATED:A!hx[END]
+
 ADDRESS   :0x284e8
 LEN_BYTES :4
 ORIGINAL  :PCbl[END]
+TRANSLATED:PCbl[END]
+
 ADDRESS   :0x28504
 LEN_BYTES :4
 ORIGINAL  :PCbl[END]
+TRANSLATED:PCbl[END]
+
 ADDRESS   :0x28548
 LEN_BYTES :4
 ORIGINAL  :HCal[END]
+TRANSLATED:HCal[END]
+
 ADDRESS   :0x28564
 LEN_BYTES :6
 ORIGINAL  :HHCal[END]
+TRANSLATED:HHCal[END]
+
 ADDRESS   :0x28768
 LEN_BYTES :4
 ORIGINAL  :AhB[END]
+TRANSLATED:AhB[END]
+
 ADDRESS   :0x2a6a0
 LEN_BYTES :4
 ORIGINAL  :!F0F[END]
+TRANSLATED:!F0F[END]
+
 ADDRESS   :0x2a75c
 LEN_BYTES :4
 ORIGINAL  :!F0F[END]
+TRANSLATED:!F0F[END]
+
 ADDRESS   :0x2a814
 LEN_BYTES :4
 ORIGINAL  :!E[END]
+TRANSLATED:!E[END]
+
 ADDRESS   :0x2b410
 LEN_BYTES :4
 ORIGINAL  :ihp[END]
+TRANSLATED:ihp[END]
+
 ADDRESS   :0x2b524
 LEN_BYTES :6
 ORIGINAL  :ihUhh[END]
+TRANSLATED:ihUhh[END]
+
 ADDRESS   :0x2b558
 LEN_BYTES :6
 ORIGINAL  :ihUhh[END]
+TRANSLATED:ihUhh[END]
+
 ADDRESS   :0x2b5e0
 LEN_BYTES :6
 ORIGINAL  :ihUhh[END]
+TRANSLATED:ihUhh[END]
+
 ADDRESS   :0x2d8d8
 LEN_BYTES :4
 ORIGINAL  :0D[END]
+TRANSLATED:0D[END]
+
 ADDRESS   :0x2d8e8
 LEN_BYTES :4
 ORIGINAL  :0D[END]
+TRANSLATED:0D[END]
+
 ADDRESS   :0x2d904
 LEN_BYTES :4
 ORIGINAL  :2D[END]
+TRANSLATED:2D[END]
+
 ADDRESS   :0x2d914
 LEN_BYTES :4
 ORIGINAL  :2D[END]
+TRANSLATED:2D[END]
+
 ADDRESS   :0x2ef7c
 LEN_BYTES :4
 ORIGINAL  :4D[END]
+TRANSLATED:4D[END]
+
 ADDRESS   :0x2ef8c
 LEN_BYTES :4
 ORIGINAL  :6D[END]
+TRANSLATED:6D[END]
+
 ADDRESS   :0x2ef9c
 LEN_BYTES :4
 ORIGINAL  :4D[END]
+TRANSLATED:4D[END]
+
 ADDRESS   :0x2efac
 LEN_BYTES :4
 ORIGINAL  :6D[END]
+TRANSLATED:6D[END]
+
 ADDRESS   :0x2f49c
 LEN_BYTES :4
 ORIGINAL  :6D[END]
+TRANSLATED:6D[END]
+
 ADDRESS   :0x2f4cc
 LEN_BYTES :4
 ORIGINAL  :4D[END]
+TRANSLATED:4D[END]
+
 ADDRESS   :0x2f514
 LEN_BYTES :4
 ORIGINAL  :4D[END]
+TRANSLATED:4D[END]
+
 ADDRESS   :0x313bc
 LEN_BYTES :4
 ORIGINAL  :3Y[END]
+TRANSLATED:3Y[END]
+
 ADDRESS   :0x32e54
 LEN_BYTES :4
 ORIGINAL  :FH[END]
+TRANSLATED:FH[END]
+
 ADDRESS   :0x32fd8
 LEN_BYTES :4
 ORIGINAL  :ID[END]
+TRANSLATED:ID[END]
+
 ADDRESS   :0x33140
 LEN_BYTES :4
 ORIGINAL  : DHD[END]
+TRANSLATED: DHD[END]
+
 ADDRESS   :0x33710
 LEN_BYTES :4
 ORIGINAL  :4FH[END]
+TRANSLATED:4FH[END]
+
 ADDRESS   :0x33aac
 LEN_BYTES :4
 ORIGINAL  :0HD[END]
+TRANSLATED:0HD[END]
+
 ADDRESS   :0x33adc
 LEN_BYTES :4
 ORIGINAL  :8HD[END]
+TRANSLATED:8HD[END]
+
 ADDRESS   :0x34504
 LEN_BYTES :8
 ORIGINAL  :dH!hbH[END]
+TRANSLATED:dH!hbH[END]
+
 ADDRESS   :0x34524
 LEN_BYTES :8
 ORIGINAL  :\H!hZH[END]
+TRANSLATED:\H!hZH[END]
+
 ADDRESS   :0x3453c
 LEN_BYTES :8
 ORIGINAL  :VH!hTH[END]
+TRANSLATED:VH!hTH[END]
+
 ADDRESS   :0x345c8
 LEN_BYTES :4
 ORIGINAL  : !2H[END]
+TRANSLATED: !2H[END]
+
 ADDRESS   :0x348b8
 LEN_BYTES :6
 ORIGINAL  : !hvH[END]
+TRANSLATED: !hvH[END]
+
 ADDRESS   :0x349ac
 LEN_BYTES :8
 ORIGINAL  :;H!h9H[END]
+TRANSLATED:;H!h9H[END]
+
 ADDRESS   :0x34cb8
 LEN_BYTES :10
 ORIGINAL  :hHh!bhab[END]
+TRANSLATED:hHh!bhab[END]
+
 ADDRESS   :0x34d90
 LEN_BYTES :8
 ORIGINAL  :3H!h1H[END]
+TRANSLATED:3H!h1H[END]
+
 ADDRESS   :0x35268
 LEN_BYTES :4
 ORIGINAL  :!FH[END]
+TRANSLATED:!FH[END]
+
 ADDRESS   :0x35440
 LEN_BYTES :4
 ORIGINAL  :ADD[END]
+TRANSLATED:ADD[END]
+
 ADDRESS   :0x36d58
 LEN_BYTES :4
 ORIGINAL  :vB7F[END]
+TRANSLATED:vB7F[END]
+
 ADDRESS   :0x36ff0
 LEN_BYTES :4
 ORIGINAL  :pGF[END]
+TRANSLATED:pGF[END]
+
 ADDRESS   :0x370b0
 LEN_BYTES :4
 ORIGINAL  :8Faj[END]
+TRANSLATED:8Faj[END]
+
 ADDRESS   :0x38144
 LEN_BYTES :9
 ORIGINAL  :Check box[END]
+TRANSLATED:Check box[END]
+
 ADDRESS   :0x398fc
 LEN_BYTES :6
 ORIGINAL  :QapGH[END]
+TRANSLATED:QapGH[END]
+
 ADDRESS   :0x39b44
 LEN_BYTES :4
 ORIGINAL  :II[END]
+TRANSLATED:II[END]
+
 ADDRESS   :0x39f78
 LEN_BYTES :7
 ORIGINAL  :No
 data[END]
+TRANSLATED:No
+data[END]
+
 ADDRESS   :0x3a9dc
 LEN_BYTES :4
 ORIGINAL  :2FQF[END]
+TRANSLATED:2FQF[END]
+
 ADDRESS   :0x3ac10
 LEN_BYTES :6
 ORIGINAL  :+F2FQF[END]
+TRANSLATED:+F2FQF[END]
+
 ADDRESS   :0x3ac80
 LEN_BYTES :4
 ORIGINAL  :2FQF[END]
+TRANSLATED:2FQF[END]
+
 ADDRESS   :0x3b080
 LEN_BYTES :6
 ORIGINAL  :0F.FF[END]
+TRANSLATED:0F.FF[END]
+
 ADDRESS   :0x3ca2c
 LEN_BYTES :4
 ORIGINAL  : ! F[END]
+TRANSLATED: ! F[END]
+
 ADDRESS   :0x3cab0
 LEN_BYTES :26
 ORIGINAL  :Option 1
 Option 2
 Option 3[END]
+TRANSLATED:Option 1
+Option 2
+Option 3[END]
+
 ADDRESS   :0x3cc90
 LEN_BYTES :6
 ORIGINAL  :PjpGF[END]
+TRANSLATED:PjpGF[END]
+
 ADDRESS   :0x3d24c
 LEN_BYTES :8
 ORIGINAL  :pGFHhpG[END]
+TRANSLATED:pGFHhpG[END]
+
 ADDRESS   :0x3d3ec
 LEN_BYTES :6
 ORIGINAL  :myh[END]
+TRANSLATED:myh[END]
+
 ADDRESS   :0x3d718
 LEN_BYTES :6
 ORIGINAL  :BF9F F[END]
+TRANSLATED:BF9F F[END]
+
 ADDRESS   :0x3e5a0
 LEN_BYTES :4
 ORIGINAL  :pGF[END]
+TRANSLATED:pGF[END]
+
 ADDRESS   :0x3e5ec
 LEN_BYTES :4
 ORIGINAL  :pGF[END]
+TRANSLATED:pGF[END]
+
 ADDRESS   :0x3edec
 LEN_BYTES :8
 ORIGINAL  :CF:F1F F[END]
+TRANSLATED:CF:F1F F[END]
+
 ADDRESS   :0x3ee28
 LEN_BYTES :6
 ORIGINAL  ::F1F F[END]
+TRANSLATED::F1F F[END]
+
 ADDRESS   :0x3ee60
 LEN_BYTES :8
 ORIGINAL  :CF:F1F F[END]
+TRANSLATED:CF:F1F F[END]
+
 ADDRESS   :0x3f344
 LEN_BYTES :8
 ORIGINAL  :𵅰F%F[END]
+TRANSLATED:𵅰F%F[END]
+
 ADDRESS   :0x3f358
 LEN_BYTES :4
 ORIGINAL  :pC[END]
+TRANSLATED:pC[END]
+
 ADDRESS   :0x3f7d8
 LEN_BYTES :4
 ORIGINAL  :pGh[END]
+TRANSLATED:pGh[END]
+
 ADDRESS   :0x3f7f8
 LEN_BYTES :4
 ORIGINAL  :pGh[END]
+TRANSLATED:pGh[END]
+
 ADDRESS   :0x3f8b8
 LEN_BYTES :4
 ORIGINAL  :TH[END]
+TRANSLATED:TH[END]
+
 ADDRESS   :0x3f9a4
 LEN_BYTES :4
 ORIGINAL  :pq0h[END]
+TRANSLATED:pq0h[END]
+
 ADDRESS   :0x3fe10
 LEN_BYTES :5
 ORIGINAL  :Enter[END]
+TRANSLATED:Enter[END]
+
 ADDRESS   :0x3fe44
 LEN_BYTES :4
 ORIGINAL  :=P F[END]
+TRANSLATED:=P F[END]
+
 ADDRESS   :0x3ff90
 LEN_BYTES :4
 ORIGINAL  :Text[END]
+TRANSLATED:Text[END]
+
 ADDRESS   :0x405c8
 LEN_BYTES :6
 ORIGINAL  :PjpGF[END]
+TRANSLATED:PjpGF[END]
+
 ADDRESS   :0x40754
 LEN_BYTES :6
 ORIGINAL  :90KF[END]
+TRANSLATED:90KF[END]
+
 ADDRESS   :0x4078c
 LEN_BYTES :6
 ORIGINAL  :90KF[END]
+TRANSLATED:90KF[END]
+
 ADDRESS   :0x40b40
 LEN_BYTES :6
 ORIGINAL  :IBF[END]
+TRANSLATED:IBF[END]
+
 ADDRESS   :0x40bd0
 LEN_BYTES :8
 ORIGINAL  :RIBF[END]
+TRANSLATED:RIBF[END]
+
 ADDRESS   :0x40cfc
 LEN_BYTES :4
 ORIGINAL  :ND[END]
+TRANSLATED:ND[END]
+
 ADDRESS   :0x40d6c
 LEN_BYTES :10
 ORIGINAL  :9wOwL[END]
+TRANSLATED:9wOwL[END]
+
 ADDRESS   :0x40fec
 LEN_BYTES :4
 ORIGINAL  :G8F[END]
+TRANSLATED:G8F[END]
+
 ADDRESS   :0x4139c
 LEN_BYTES :4
 ORIGINAL  :P! F[END]
+TRANSLATED:P! F[END]
+
 ADDRESS   :0x417fc
 LEN_BYTES :4
 ORIGINAL  :!FH[END]
+TRANSLATED:!FH[END]
+
 ADDRESS   :0x41ab0
 LEN_BYTES :4
 ORIGINAL  :Rm[END]
+TRANSLATED:Rm[END]
+
 ADDRESS   :0x41b68
 LEN_BYTES :6
 ORIGINAL  :IRm[END]
+TRANSLATED:IRm[END]
+
 ADDRESS   :0x41c10
 LEN_BYTES :4
 ORIGINAL  :dR[END]
+TRANSLATED:dR[END]
+
 ADDRESS   :0x41cf0
 LEN_BYTES :4
 ORIGINAL  :RI[END]
+TRANSLATED:RI[END]
+
 ADDRESS   :0x41ecc
 LEN_BYTES :4
 ORIGINAL  :1F6H[END]
+TRANSLATED:1F6H[END]
+
 ADDRESS   :0x41f94
 LEN_BYTES :8
 ORIGINAL  :h505[END]
+TRANSLATED:h505[END]
+
 ADDRESS   :0x41fa0
 LEN_BYTES :7
 ORIGINAL  :G
 [END]
+TRANSLATED:G
+[END]
+
 ADDRESS   :0x41fc8
 LEN_BYTES :6
 ORIGINAL  :PkpGF[END]
+TRANSLATED:PkpGF[END]
+
 ADDRESS   :0x42b5c
 LEN_BYTES :4
 ORIGINAL  :%h h[END]
+TRANSLATED:%h h[END]
+
 ADDRESS   :0x435bc
 LEN_BYTES :4
 ORIGINAL  :!F0F[END]
+TRANSLATED:!F0F[END]
+
 ADDRESS   :0x440cc
 LEN_BYTES :4
 ORIGINAL  :8DPD[END]
+TRANSLATED:8DPD[END]
+
 ADDRESS   :0x45640
 LEN_BYTES :4
 ORIGINAL  : a i[END]
+TRANSLATED: a i[END]
+
 ADDRESS   :0x4583c
 LEN_BYTES :4
 ORIGINAL  :pG~[END]
+TRANSLATED:pG~[END]
+
 ADDRESS   :0x46930
 LEN_BYTES :4
 ORIGINAL  :9F0F[END]
+TRANSLATED:9F0F[END]
+
 ADDRESS   :0x46938
 LEN_BYTES :6
 ORIGINAL  :*F!F0F[END]
+TRANSLATED:*F!F0F[END]
+
 ADDRESS   :0x46e84
 LEN_BYTES :4
 ORIGINAL  :e!0F[END]
+TRANSLATED:e!0F[END]
+
 ADDRESS   :0x46ebc
 LEN_BYTES :4
 ORIGINAL  :Q!0F[END]
+TRANSLATED:Q!0F[END]
+
 ADDRESS   :0x46ef0
 LEN_BYTES :4
 ORIGINAL  :jA0F[END]
+TRANSLATED:jA0F[END]
+
 ADDRESS   :0x46f60
 LEN_BYTES :6
 ORIGINAL  :+F!!0F[END]
+TRANSLATED:+F!!0F[END]
+
 ADDRESS   :0x46f98
 LEN_BYTES :6
 ORIGINAL  :+F1!0F[END]
+TRANSLATED:+F1!0F[END]
+
 ADDRESS   :0x46fb4
 LEN_BYTES :4
 ORIGINAL  :20F[END]
+TRANSLATED:20F[END]
+
 ADDRESS   :0x47044
 LEN_BYTES :6
 ORIGINAL  :+FH!0F[END]
+TRANSLATED:+FH!0F[END]
+
 ADDRESS   :0x47060
 LEN_BYTES :4
 ORIGINAL  :i0F[END]
+TRANSLATED:i0F[END]
+
 ADDRESS   :0x4724c
 LEN_BYTES :4
 ORIGINAL  :YA0F[END]
+TRANSLATED:YA0F[END]
+
 ADDRESS   :0x476bc
 LEN_BYTES :4
 ORIGINAL  :AHH[END]
+TRANSLATED:AHH[END]
+
 ADDRESS   :0x47940
 LEN_BYTES :4
 ORIGINAL  :9F F[END]
+TRANSLATED:9F F[END]
+
 ADDRESS   :0x47964
 LEN_BYTES :4
 ORIGINAL  :AF F[END]
+TRANSLATED:AF F[END]
+
 ADDRESS   :0x47ba8
 LEN_BYTES :4
 ORIGINAL  :dH[END]
+TRANSLATED:dH[END]
+
 ADDRESS   :0x47bb8
 LEN_BYTES :4
 ORIGINAL  :mH[END]
+TRANSLATED:mH[END]
+
 ADDRESS   :0x47e1c
 LEN_BYTES :4
 ORIGINAL  :4F0F[END]
+TRANSLATED:4F0F[END]
+
 ADDRESS   :0x484a0
 LEN_BYTES :4
 ORIGINAL  :IF0F[END]
+TRANSLATED:IF0F[END]
+
 ADDRESS   :0x484f0
 LEN_BYTES :4
 ORIGINAL  :IF0F[END]
+TRANSLATED:IF0F[END]
+
 ADDRESS   :0x48858
 LEN_BYTES :4
 ORIGINAL  :B
  [END]
+TRANSLATED:B
+ [END]
+
 ADDRESS   :0x489c8
 LEN_BYTES :4
 ORIGINAL  : nD[END]
+TRANSLATED: nD[END]
+
 ADDRESS   :0x48a18
 LEN_BYTES :4
 ORIGINAL  :LF
 /[END]
+TRANSLATED:LF
+/[END]
+
 ADDRESS   :0x49af8
 LEN_BYTES :4
 ORIGINAL  :Gm[END]
+TRANSLATED:Gm[END]
+
 ADDRESS   :0x49de4
 LEN_BYTES :4
 ORIGINAL  :AF0F[END]
+TRANSLATED:AF0F[END]
+
 ADDRESS   :0x4a040
 LEN_BYTES :4
 ORIGINAL  :QF F[END]
+TRANSLATED:QF F[END]
+
 ADDRESS   :0x4a250
 LEN_BYTES :6
 ORIGINAL  :\9F[END]
+TRANSLATED:\9F[END]
+
 ADDRESS   :0x4a274
 LEN_BYTES :6
 ORIGINAL  :PkpGF[END]
+TRANSLATED:PkpGF[END]
+
 ADDRESS   :0x4ae20
 LEN_BYTES :7
 ORIGINAL  : ,.;:-_[END]
+TRANSLATED: ,.;:-_[END]
+
 ADDRESS   :0x4b11c
 LEN_BYTES :6
 ORIGINAL  :iFh\[END]
+TRANSLATED:iFh\[END]
+
 ADDRESS   :0x4b2c4
 LEN_BYTES :4
 ORIGINAL  :pGx[END]
+TRANSLATED:pGx[END]
+
 ADDRESS   :0x4b300
 LEN_BYTES :6
 ORIGINAL  :3F*F!F[END]
+TRANSLATED:3F*F!F[END]
+
 ADDRESS   :0x4b3f0
 LEN_BYTES :16
 ORIGINAL  :DDF10CH Start!
 [END]
+TRANSLATED:DDF10CH Start!
+[END]
+
 ADDRESS   :0x4b408
 LEN_BYTES :8
 ORIGINAL  :KEY_task[END]
+TRANSLATED:KEY_task[END]
+
 ADDRESS   :0x4b41c
 LEN_BYTES :9
 ORIGINAL  :MENU_task[END]
+TRANSLATED:MENU_task[END]
+
 ADDRESS   :0x4b430
 LEN_BYTES :8
 ORIGINAL  :LED_task[END]
+TRANSLATED:LED_task[END]
+
 ADDRESS   :0x4b444
 LEN_BYTES :13
 ORIGINAL  :RF_START_task[END]
+TRANSLATED:RF_START_task[END]
+
 ADDRESS   :0x4bd30
 LEN_BYTES :5
 ORIGINAL  :%d/%d[END]
+TRANSLATED:%d/%d[END]
+
 ADDRESS   :0x4bf44
 LEN_BYTES :6
 ORIGINAL  :jHhoH[END]
+TRANSLATED:jHhoH[END]
+
 ADDRESS   :0x4bf78
 LEN_BYTES :4
 ORIGINAL  :bIcH[END]
+TRANSLATED:bIcH[END]
+
 ADDRESS   :0x4c004
 LEN_BYTES :4
 ORIGINAL  :;IGH[END]
+TRANSLATED:;IGH[END]
+
 ADDRESS   :0x4c034
 LEN_BYTES :4
 ORIGINAL  :2!;H[END]
+TRANSLATED:2!;H[END]
+
 ADDRESS   :0x4c11c
 LEN_BYTES :5
 ORIGINAL  :%d/%d[END]
+TRANSLATED:%d/%d[END]
+
 ADDRESS   :0x4c24c
 LEN_BYTES :5
 ORIGINAL  :%d/%d[END]
+TRANSLATED:%d/%d[END]
+
 ADDRESS   :0x4c46c
 LEN_BYTES :6
 ORIGINAL  :mHhrH[END]
+TRANSLATED:mHhrH[END]
+
 ADDRESS   :0x4c4a0
 LEN_BYTES :4
 ORIGINAL  :eIfH[END]
+TRANSLATED:eIfH[END]
+
 ADDRESS   :0x4c500
 LEN_BYTES :4
 ORIGINAL  :2!PH[END]
+TRANSLATED:2!PH[END]
+
 ADDRESS   :0x4c550
 LEN_BYTES :4
 ORIGINAL  :6IAH[END]
+TRANSLATED:6IAH[END]
+
 ADDRESS   :0x4c650
 LEN_BYTES :5
 ORIGINAL  :%d/%d[END]
+TRANSLATED:%d/%d[END]
+
 ADDRESS   :0x4c780
 LEN_BYTES :5
 ORIGINAL  :%d/%d[END]
+TRANSLATED:%d/%d[END]
+
 ADDRESS   :0x4c968
 LEN_BYTES :6
 ORIGINAL  :_HhdH[END]
+TRANSLATED:_HhdH[END]
+
 ADDRESS   :0x4c99c
 LEN_BYTES :4
 ORIGINAL  :WIXH[END]
+TRANSLATED:WIXH[END]
+
 ADDRESS   :0x4c9bc
 LEN_BYTES :4
 ORIGINAL  :SIRH[END]
+TRANSLATED:SIRH[END]
+
 ADDRESS   :0x4ca58
 LEN_BYTES :4
 ORIGINAL  :2!0H[END]
+TRANSLATED:2!0H[END]
+
 ADDRESS   :0x4cb14
 LEN_BYTES :5
 ORIGINAL  :%d/%d[END]
+TRANSLATED:%d/%d[END]
+
 ADDRESS   :0x4cc44
 LEN_BYTES :5
 ORIGINAL  :%d/%d[END]
+TRANSLATED:%d/%d[END]
+
 ADDRESS   :0x4ce40
 LEN_BYTES :6
 ORIGINAL  :dHhiH[END]
+TRANSLATED:dHhiH[END]
+
 ADDRESS   :0x4ce94
 LEN_BYTES :4
 ORIGINAL  :XIWH[END]
+TRANSLATED:XIWH[END]
+
 ADDRESS   :0x4cf00
 LEN_BYTES :4
 ORIGINAL  :5IAH[END]
+TRANSLATED:5IAH[END]
+
 ADDRESS   :0x4cf24
 LEN_BYTES :4
 ORIGINAL  :-I8H[END]
+TRANSLATED:-I8H[END]
+
 ADDRESS   :0x4cf30
 LEN_BYTES :4
 ORIGINAL  :2!5H[END]
+TRANSLATED:2!5H[END]
+
 ADDRESS   :0x4d000
 LEN_BYTES :5
 ORIGINAL  :%d/%d[END]
+TRANSLATED:%d/%d[END]
+
 ADDRESS   :0x4d3a0
 LEN_BYTES :4
 ORIGINAL  : H!I[END]
+TRANSLATED: H!I[END]
+
 ADDRESS   :0x4d440
 LEN_BYTES :4
 ORIGINAL  :!FH[END]
+TRANSLATED:!FH[END]
+
 ADDRESS   :0x4d48c
 LEN_BYTES :4
 ORIGINAL  :!FH[END]
+TRANSLATED:!FH[END]
+
 ADDRESS   :0x4d4c0
 LEN_BYTES :4
 ORIGINAL  :!FH[END]
+TRANSLATED:!FH[END]
+
 ADDRESS   :0x4d770
 LEN_BYTES :4
 ORIGINAL  :s!iH[END]
+TRANSLATED:s!iH[END]
+
 ADDRESS   :0x4d848
 LEN_BYTES :6
 ORIGINAL  :3HhVH[END]
+TRANSLATED:3HhVH[END]
+
 ADDRESS   :0x4d8e4
 LEN_BYTES :4
 ORIGINAL  :A!2H[END]
+TRANSLATED:A!2H[END]
+
 ADDRESS   :0x4d920
 LEN_BYTES :25
 ORIGINAL  :#3df3ff # 数据回传[END]
+TRANSLATED:#3df3ff # 数据回传[END]
+
 ADDRESS   :0x4d93c
 LEN_BYTES :23
 ORIGINAL  :#3df3ff # Telemetrie[END]
+TRANSLATED:#3df3ff # Telemetrie[END]
+
 ADDRESS   :0x4d954
 LEN_BYTES :26
 ORIGINAL  :#3df3ff # Télémétrie[END]
+TRANSLATED:#3df3ff # Télémétrie[END]
+
 ADDRESS   :0x4d970
 LEN_BYTES :31
 ORIGINAL  :#3df3ff # テレメトリー[END]
+TRANSLATED:#3df3ff # テレメトリー[END]
+
 ADDRESS   :0x4d990
 LEN_BYTES :22
 ORIGINAL  :#3df3ff # Telemetry[END]
+TRANSLATED:#3df3ff # Telemetry[END]
+
 ADDRESS   :0x4d9b4
 LEN_BYTES :12
 ORIGINAL  :剩余电量[END]
+TRANSLATED:剩余电量[END]
+
 ADDRESS   :0x4d9c4
 LEN_BYTES :8
 ORIGINAL  :Batterie[END]
+TRANSLATED:Batterie[END]
+
 ADDRESS   :0x4d9d0
 LEN_BYTES :12
 ORIGINAL  :電池残量[END]
+TRANSLATED:電池残量[END]
+
 ADDRESS   :0x4d9e0
 LEN_BYTES :7
 ORIGINAL  :Battery[END]
+TRANSLATED:Battery[END]
+
 ADDRESS   :0x4dc68
 LEN_BYTES :4
 ORIGINAL  :s!kH[END]
+TRANSLATED:s!kH[END]
+
 ADDRESS   :0x4dd14
 LEN_BYTES :6
 ORIGINAL  :hHhiH[END]
+TRANSLATED:hHhiH[END]
+
 ADDRESS   :0x4ddc4
 LEN_BYTES :6
 ORIGINAL  :AHhAH[END]
+TRANSLATED:AHhAH[END]
+
 ADDRESS   :0x4de20
 LEN_BYTES :25
 ORIGINAL  :#3df3ff # 通道状态[END]
+TRANSLATED:#3df3ff # 通道状态[END]
+
 ADDRESS   :0x4de3c
 LEN_BYTES :25
 ORIGINAL  :#3df3ff # Kanal Status[END]
+TRANSLATED:#3df3ff # Kanal Status[END]
+
 ADDRESS   :0x4de58
 LEN_BYTES :25
 ORIGINAL  :#3df3ff # Statut du CH[END]
+TRANSLATED:#3df3ff # Statut du CH[END]
+
 ADDRESS   :0x4de74
 LEN_BYTES :43
 ORIGINAL  :#3df3ff # チャンネルステータス[END]
+TRANSLATED:#3df3ff # チャンネルステータス[END]
+
 ADDRESS   :0x4dea0
 LEN_BYTES :21
 ORIGINAL  :#3df3ff # CH State[END]
+TRANSLATED:#3df3ff # CH State[END]
+
 ADDRESS   :0x4e150
 LEN_BYTES :4
 ORIGINAL  :gIqH[END]
+TRANSLATED:gIqH[END]
+
 ADDRESS   :0x4e15c
 LEN_BYTES :4
 ORIGINAL  :eInH[END]
+TRANSLATED:eInH[END]
+
 ADDRESS   :0x4e1f0
 LEN_BYTES :4
 ORIGINAL  :?ILH[END]
+TRANSLATED:?ILH[END]
+
 ADDRESS   :0x4e1fc
 LEN_BYTES :4
 ORIGINAL  :JIIH[END]
+TRANSLATED:JIIH[END]
+
 ADDRESS   :0x4e218
 LEN_BYTES :6
 ORIGINAL  :AHhAH[END]
+TRANSLATED:AHhAH[END]
+
 ADDRESS   :0x4e568
 LEN_BYTES :6
 ORIGINAL  :HhH[END]
+TRANSLATED:HhH[END]
+
 ADDRESS   :0x4e668
 LEN_BYTES :6
 ORIGINAL  :AHhAH[END]
+TRANSLATED:AHhAH[END]
+
 ADDRESS   :0x4e948
 LEN_BYTES :4
 ORIGINAL  :y!yH[END]
+TRANSLATED:y!yH[END]
+
 ADDRESS   :0x4e9d8
 LEN_BYTES :4
 ORIGINAL  :IIWH[END]
+TRANSLATED:IIWH[END]
+
 ADDRESS   :0x4e9e4
 LEN_BYTES :4
 ORIGINAL  :GITH[END]
+TRANSLATED:GITH[END]
+
 ADDRESS   :0x4ea00
 LEN_BYTES :6
 ORIGINAL  :HHhLH[END]
+TRANSLATED:HHhLH[END]
+
 ADDRESS   :0x4ea80
 LEN_BYTES :4
 ORIGINAL  : I1H[END]
+TRANSLATED: I1H[END]
+
 ADDRESS   :0x4eb18
 LEN_BYTES :4
 ORIGINAL  :-100[END]
+TRANSLATED:-100[END]
+
 ADDRESS   :0x4ec6c
 LEN_BYTES :8
 ORIGINAL  :Ʋ
 .ѰH[END]
+TRANSLATED:Ʋ
+.ѰH[END]
+
 ADDRESS   :0x4eec0
 LEN_BYTES :4
 ORIGINAL  :5эH[END]
+TRANSLATED:5эH[END]
+
 ADDRESS   :0x4ef3c
 LEN_BYTES :12
 ORIGINAL  :基础设置[END]
+TRANSLATED:基础设置[END]
+
 ADDRESS   :0x4ef54
 LEN_BYTES :12
 ORIGINAL  :高级设置[END]
+TRANSLATED:高级设置[END]
+
 ADDRESS   :0x4ef68
 LEN_BYTES :15
 ORIGINAL  :遥控器设置[END]
+TRANSLATED:遥控器设置[END]
+
 ADDRESS   :0x4ef7c
 LEN_BYTES :15
 ORIGINAL  :接收机设置[END]
+TRANSLATED:接收机设置[END]
+
 ADDRESS   :0x4ef90
 LEN_BYTES :10
 ORIGINAL  :Hauptmenü[END]
+TRANSLATED:Hauptmenü[END]
+
 ADDRESS   :0x4ef9c
 LEN_BYTES :20
 ORIGINAL  :Modell Einstellungen[END]
+TRANSLATED:Modell Einstellungen[END]
+
 ADDRESS   :0x4efb4
 LEN_BYTES :28
 ORIGINAL  :Fernsteuerungs Einstellungen[END]
+TRANSLATED:Fernsteuerungs Einstellungen[END]
+
 ADDRESS   :0x4efd4
 LEN_BYTES :21
 ORIGINAL  :Receiver installiert.[END]
+TRANSLATED:Receiver installiert.[END]
+
 ADDRESS   :0x4efec
 LEN_BYTES :14
 ORIGINAL  :Menu général[END]
+TRANSLATED:Menu général[END]
+
 ADDRESS   :0x4effc
 LEN_BYTES :15
 ORIGINAL  :Menu du modèle[END]
+TRANSLATED:Menu du modèle[END]
+
 ADDRESS   :0x4f00c
 LEN_BYTES :22
 ORIGINAL  :parametre transmetteur[END]
+TRANSLATED:parametre transmetteur[END]
+
 ADDRESS   :0x4f024
 LEN_BYTES :23
 ORIGINAL  :Réglages du récepteur[END]
+TRANSLATED:Réglages du récepteur[END]
+
 ADDRESS   :0x4f03c
 LEN_BYTES :18
 ORIGINAL  :基本メニュー[END]
+TRANSLATED:基本メニュー[END]
+
 ADDRESS   :0x4f050
 LEN_BYTES :21
 ORIGINAL  :モデルメニュー[END]
+TRANSLATED:モデルメニュー[END]
+
 ADDRESS   :0x4f068
 LEN_BYTES :27
 ORIGINAL  :送信機セッティング[END]
+TRANSLATED:送信機セッティング[END]
+
 ADDRESS   :0x4f084
 LEN_BYTES :15
 ORIGINAL  :受信機設定[END]
+TRANSLATED:受信機設定[END]
+
 ADDRESS   :0x4f094
 LEN_BYTES :12
 ORIGINAL  :General menu[END]
+TRANSLATED:General menu[END]
+
 ADDRESS   :0x4f0a4
 LEN_BYTES :10
 ORIGINAL  :Model menu[END]
+TRANSLATED:Model menu[END]
+
 ADDRESS   :0x4f0b0
 LEN_BYTES :20
 ORIGINAL  :Transmitter Settings[END]
+TRANSLATED:Transmitter Settings[END]
+
 ADDRESS   :0x4f0c8
 LEN_BYTES :16
 ORIGINAL  :Receiver setting[END]
+TRANSLATED:Receiver setting[END]
+
 ADDRESS   :0x4f0dc
 LEN_BYTES :6
 ORIGINAL  :语言[END]
+TRANSLATED:语言[END]
+
 ADDRESS   :0x4f0ec
 LEN_BYTES :6
 ORIGINAL  :言語[END]
+TRANSLATED:言語[END]
+
 ADDRESS   :0x4f3d8
 LEN_BYTES :4
 ORIGINAL  :XIuH[END]
+TRANSLATED:XIuH[END]
+
 ADDRESS   :0x4f554
 LEN_BYTES :12
 ORIGINAL  :基础设置[END]
+TRANSLATED:基础设置[END]
+
 ADDRESS   :0x4f564
 LEN_BYTES :10
 ORIGINAL  :Hauptmenü[END]
+TRANSLATED:Hauptmenü[END]
+
 ADDRESS   :0x4f570
 LEN_BYTES :14
 ORIGINAL  :Menu général[END]
+TRANSLATED:Menu général[END]
+
 ADDRESS   :0x4f580
 LEN_BYTES :18
 ORIGINAL  :基本メニュー[END]
+TRANSLATED:基本メニュー[END]
+
 ADDRESS   :0x4f594
 LEN_BYTES :12
 ORIGINAL  :General menu[END]
+TRANSLATED:General menu[END]
+
 ADDRESS   :0x4f5b4
 LEN_BYTES :12
 ORIGINAL  :高级设置[END]
+TRANSLATED:高级设置[END]
+
 ADDRESS   :0x4f5c4
 LEN_BYTES :20
 ORIGINAL  :Modell Einstellungen[END]
+TRANSLATED:Modell Einstellungen[END]
+
 ADDRESS   :0x4f5dc
 LEN_BYTES :15
 ORIGINAL  :Menu du modèle[END]
+TRANSLATED:Menu du modèle[END]
+
 ADDRESS   :0x4f5ec
 LEN_BYTES :21
 ORIGINAL  :モデルメニュー[END]
+TRANSLATED:モデルメニュー[END]
+
 ADDRESS   :0x4f604
 LEN_BYTES :10
 ORIGINAL  :Model menu[END]
+TRANSLATED:Model menu[END]
+
 ADDRESS   :0x4f9f4
 LEN_BYTES :4
 ORIGINAL  :VIUH[END]
+TRANSLATED:VIUH[END]
+
 ADDRESS   :0x4fa00
 LEN_BYTES :4
 ORIGINAL  :d!RH[END]
+TRANSLATED:d!RH[END]
+
 ADDRESS   :0x4fa30
 LEN_BYTES :15
 ORIGINAL  :遥控器设置[END]
+TRANSLATED:遥控器设置[END]
+
 ADDRESS   :0x4fa40
 LEN_BYTES :28
 ORIGINAL  :Fernsteuerungs Einstellungen[END]
+TRANSLATED:Fernsteuerungs Einstellungen[END]
+
 ADDRESS   :0x4fa60
 LEN_BYTES :22
 ORIGINAL  :parametre transmetteur[END]
+TRANSLATED:parametre transmetteur[END]
+
 ADDRESS   :0x4fa78
 LEN_BYTES :27
 ORIGINAL  :送信機セッティング[END]
+TRANSLATED:送信機セッティング[END]
+
 ADDRESS   :0x4fa94
 LEN_BYTES :20
 ORIGINAL  :Transmitter Settings[END]
+TRANSLATED:Transmitter Settings[END]
+
 ADDRESS   :0x4facc
 LEN_BYTES :15
 ORIGINAL  :接收机设置[END]
+TRANSLATED:接收机设置[END]
+
 ADDRESS   :0x4fadc
 LEN_BYTES :21
 ORIGINAL  :Receiver installiert.[END]
+TRANSLATED:Receiver installiert.[END]
+
 ADDRESS   :0x4faf4
 LEN_BYTES :23
 ORIGINAL  :Réglages du récepteur[END]
+TRANSLATED:Réglages du récepteur[END]
+
 ADDRESS   :0x4fb0c
 LEN_BYTES :15
 ORIGINAL  :受信機設定[END]
+TRANSLATED:受信機設定[END]
+
 ADDRESS   :0x4fb1c
 LEN_BYTES :16
 ORIGINAL  :Receiver setting[END]
+TRANSLATED:Receiver setting[END]
+
 ADDRESS   :0x4fb38
 LEN_BYTES :6
 ORIGINAL  :语言[END]
+TRANSLATED:语言[END]
+
 ADDRESS   :0x4fb44
 LEN_BYTES :6
 ORIGINAL  :言語[END]
+TRANSLATED:言語[END]
+
 ADDRESS   :0x4fcfc
 LEN_BYTES :44
 ORIGINAL  :English
@@ -3580,657 +6062,1121 @@ ORIGINAL  :English
 Germany
 French
 Japanese[END]
+TRANSLATED:English
+简体中文
+Germany
+French
+Japanese[END]
+
 ADDRESS   :0x500b4
 LEN_BYTES :4
 ORIGINAL  :𵍰[END]
+TRANSLATED:𵍰[END]
+
 ADDRESS   :0x509f8
 LEN_BYTES :10
 ORIGINAL  :model %02d[END]
+TRANSLATED:model %02d[END]
+
 ADDRESS   :0x50a10
 LEN_BYTES :61
 ORIGINAL  :请将手轮移动至#9f2f34 最右侧#,然后按下OK按键
 [END]
+TRANSLATED:请将手轮移动至#9f2f34 最右侧#,然后按下OK按键
+[END]
+
 ADDRESS   :0x50a50
 LEN_BYTES :61
 ORIGINAL  :Bewegen Sie das Lenkrad ganz nach rechts und drücken Sie OK
 [END]
+TRANSLATED:Bewegen Sie das Lenkrad ganz nach rechts und drücken Sie OK
+[END]
+
 ADDRESS   :0x50aac
 LEN_BYTES :34
 ORIGINAL  :xtrême droite et appuyez sur OK.
 [END]
+TRANSLATED:xtrême droite et appuyez sur OK.
+[END]
+
 ADDRESS   :0x50adc
 LEN_BYTES :61
 ORIGINAL  :请将扳机移动至#9f2f34 最上方#,然后按下OK按键
 [END]
+TRANSLATED:请将扳机移动至#9f2f34 最上方#,然后按下OK按键
+[END]
+
 ADDRESS   :0x50b1c
 LEN_BYTES :55
 ORIGINAL  :Schieben Sie den Trigger nach oben und drücken Sie OK
 [END]
+TRANSLATED:Schieben Sie den Trigger nach oben und drücken Sie OK
+[END]
+
 ADDRESS   :0x50b54
 LEN_BYTES :55
 ORIGINAL  :Déplacez la gâchette vers le haut et appuyez sur OK.
 [END]
+TRANSLATED:Déplacez la gâchette vers le haut et appuyez sur OK.
+[END]
+
 ADDRESS   :0x50b98
 LEN_BYTES :50
 ORIGINAL  :请#9f2f34 按住K10按键#,然后按下OK按键.
 [END]
+TRANSLATED:请#9f2f34 按住K10按键#,然后按下OK按键.
+[END]
+
 ADDRESS   :0x50be0
 LEN_BYTES :62
 ORIGINAL  :请将手轮移动至#9f7b34 中心点 #,然后按下OK按键
 [END]
+TRANSLATED:请将手轮移动至#9f7b34 中心点 #,然后按下OK按键
+[END]
+
 ADDRESS   :0x50c24
 LEN_BYTES :57
 ORIGINAL  :Placez le volant en position centrale et appuyez sur OK.
 [END]
+TRANSLATED:Placez le volant en position centrale et appuyez sur OK.
+[END]
+
 ADDRESS   :0x50c6c
 LEN_BYTES :62
 ORIGINAL  :请将扳机移动至#9f2f34 中心点 #,然后按下OK按键
 [END]
+TRANSLATED:请将扳机移动至#9f2f34 中心点 #,然后按下OK按键
+[END]
+
 ADDRESS   :0x50cb0
 LEN_BYTES :59
 ORIGINAL  :Placez la gâchette en position centrale et appuyez sur OK
 [END]
+TRANSLATED:Placez la gâchette en position centrale et appuyez sur OK
+[END]
+
 ADDRESS   :0x50cf8
 LEN_BYTES :58
 ORIGINAL  :请#9f2f34 同时按住K9和K10键#,然后按下OK按键.
 [END]
+TRANSLATED:请#9f2f34 同时按住K9和K10键#,然后按下OK按键.
+[END]
+
 ADDRESS   :0x510e8
 LEN_BYTES :15
 ORIGINAL  :正在校准...[END]
+TRANSLATED:正在校准...[END]
+
 ADDRESS   :0x51100
 LEN_BYTES :14
 ORIGINAL  :Kalibrieren...[END]
+TRANSLATED:Kalibrieren...[END]
+
 ADDRESS   :0x51110
 LEN_BYTES :11
 ORIGINAL  :Calibrer...[END]
+TRANSLATED:Calibrer...[END]
+
 ADDRESS   :0x5111c
 LEN_BYTES :30
 ORIGINAL  :キャリブレーション...[END]
+TRANSLATED:キャリブレーション...[END]
+
 ADDRESS   :0x5113c
 LEN_BYTES :19
 ORIGINAL  :Being calibrated...[END]
+TRANSLATED:Being calibrated...[END]
+
 ADDRESS   :0x51154
 LEN_BYTES :7
 ORIGINAL  :警告![END]
+TRANSLATED:警告![END]
+
 ADDRESS   :0x5115c
 LEN_BYTES :8
 ORIGINAL  :Warnung![END]
+TRANSLATED:Warnung![END]
+
 ADDRESS   :0x51168
 LEN_BYTES :7
 ORIGINAL  :Alarme![END]
+TRANSLATED:Alarme![END]
+
 ADDRESS   :0x51170
 LEN_BYTES :8
 ORIGINAL  :Warning![END]
+TRANSLATED:Warning![END]
+
 ADDRESS   :0x51180
 LEN_BYTES :62
 ORIGINAL  :请将手轮移动至#3df3ff 最左侧#,然后按下OK按键.
 [END]
+TRANSLATED:请将手轮移动至#3df3ff 最左侧#,然后按下OK按键.
+[END]
+
 ADDRESS   :0x511c0
 LEN_BYTES :60
 ORIGINAL  :Bewegen Sie das Lenkrad ganz nach links und drücken Sie OK
 [END]
+TRANSLATED:Bewegen Sie das Lenkrad ganz nach links und drücken Sie OK
+[END]
+
 ADDRESS   :0x51200
 LEN_BYTES :61
 ORIGINAL  :Move the steering wheel all the way to the left and press OK
 [END]
+TRANSLATED:Move the steering wheel all the way to the left and press OK
+[END]
+
 ADDRESS   :0x51240
 LEN_BYTES :70
 ORIGINAL  :xDD:请将扳机移动至#3df3ff 最下方#,然后按下OK按键.
 [END]
+TRANSLATED:xDD:请将扳机移动至#3df3ff 最下方#,然后按下OK按键.
+[END]
+
 ADDRESS   :0x51288
 LEN_BYTES :55
 ORIGINAL  :Bewegen Sie den Trigger nach unten und drücken Sie OK
 [END]
+TRANSLATED:Bewegen Sie den Trigger nach unten und drücken Sie OK
+[END]
+
 ADDRESS   :0x512c0
 LEN_BYTES :53
 ORIGINAL  :Déplacez la gâchette vers le bas et appuyez sur OK
 [END]
+TRANSLATED:Déplacez la gâchette vers le bas et appuyez sur OK
+[END]
+
 ADDRESS   :0x51300
 LEN_BYTES :49
 ORIGINAL  :请#3df3ff 按住K9按键#,然后按下OK按键.
 [END]
+TRANSLATED:请#3df3ff 按住K9按键#,然后按下OK按键.
+[END]
+
 ADDRESS   :0x51334
 LEN_BYTES :59
 ORIGINAL  :Halten Sie die Taste K9 gedrückt und drücken Sie dann OK
 [END]
+TRANSLATED:Halten Sie die Taste K9 gedrückt und drücken Sie dann OK
+[END]
+
 ADDRESS   :0x51370
 LEN_BYTES :55
 ORIGINAL  :Maintenez la touche K9 enfoncée, puis appuyez sur OK.
 [END]
+TRANSLATED:Maintenez la touche K9 enfoncée, puis appuyez sur OK.
+[END]
+
 ADDRESS   :0x516a8
 LEN_BYTES :4
 ORIGINAL  : CH[END]
+TRANSLATED: CH[END]
+
 ADDRESS   :0x517f4
 LEN_BYTES :29
 ORIGINAL  :..\STM32_Lib\FreeRTOS\tasks.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\tasks.c[END]
+
 ADDRESS   :0x51814
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x5195c
 LEN_BYTES :50
 ORIGINAL  :..\STM32_Lib\FreeRTOS\portable\RVDS\ARM_CM3\port.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\portable\RVDS\ARM_CM3\port.c[END]
+
 ADDRESS   :0x51990
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x51ab0
 LEN_BYTES :47
 ORIGINAL  :..\STM32_Lib\FreeRTOS\portable\MemMang\heap_4.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\portable\MemMang\heap_4.c[END]
+
 ADDRESS   :0x51ae0
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x53518
 LEN_BYTES :4
 ORIGINAL  :GIBH[END]
+TRANSLATED:GIBH[END]
+
 ADDRESS   :0x53524
 LEN_BYTES :4
 ORIGINAL  :#!?H[END]
+TRANSLATED:#!?H[END]
+
 ADDRESS   :0x538a4
 LEN_BYTES :6
 ORIGINAL  :gHigH[END]
+TRANSLATED:gHigH[END]
+
 ADDRESS   :0x538e8
 LEN_BYTES :6
 ORIGINAL  :VHiVH[END]
+TRANSLATED:VHiVH[END]
+
 ADDRESS   :0x53e50
 LEN_BYTES :4
 ORIGINAL  :!H[END]
+TRANSLATED:!H[END]
+
 ADDRESS   :0x54404
 LEN_BYTES :5
 ORIGINAL  :05 [END]
+TRANSLATED:05 [END]
+
 ADDRESS   :0x547d8
 LEN_BYTES :4
 ORIGINAL  :p0F[END]
+TRANSLATED:p0F[END]
+
 ADDRESS   :0x54844
 LEN_BYTES :5
 ORIGINAL  :\9[END]
+TRANSLATED:\9[END]
+
 ADDRESS   :0x54c3c
 LEN_BYTES :6
 ORIGINAL  :2FAF h[END]
+TRANSLATED:2FAF h[END]
+
 ADDRESS   :0x54ff4
 LEN_BYTES :50
 ORIGINAL  :..\STM32_Lib\FreeRTOS\portable\RVDS\ARM_CM3\port.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\portable\RVDS\ARM_CM3\port.c[END]
+
 ADDRESS   :0x55028
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x5506c
 LEN_BYTES :50
 ORIGINAL  :..\STM32_Lib\FreeRTOS\portable\RVDS\ARM_CM3\port.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\portable\RVDS\ARM_CM3\port.c[END]
+
 ADDRESS   :0x550a0
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x5512c
 LEN_BYTES :47
 ORIGINAL  :..\STM32_Lib\FreeRTOS\portable\MemMang\heap_4.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\portable\MemMang\heap_4.c[END]
+
 ADDRESS   :0x5515c
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x551c8
 LEN_BYTES :29
 ORIGINAL  :..\STM32_Lib\FreeRTOS\tasks.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\tasks.c[END]
+
 ADDRESS   :0x551e8
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x552e0
 LEN_BYTES :29
 ORIGINAL  :..\STM32_Lib\FreeRTOS\tasks.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\tasks.c[END]
+
 ADDRESS   :0x55300
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x5537c
 LEN_BYTES :4
 ORIGINAL  :IDLE[END]
+TRANSLATED:IDLE[END]
+
 ADDRESS   :0x55384
 LEN_BYTES :5
 ORIGINAL  :!gX[END]
+TRANSLATED:!gX[END]
+
 ADDRESS   :0x55394
 LEN_BYTES :29
 ORIGINAL  :..\STM32_Lib\FreeRTOS\tasks.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\tasks.c[END]
+
 ADDRESS   :0x553b4
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x55454
 LEN_BYTES :29
 ORIGINAL  :..\STM32_Lib\FreeRTOS\tasks.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\tasks.c[END]
+
 ADDRESS   :0x55474
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x555a0
 LEN_BYTES :6
 ORIGINAL  :!FpF[END]
+TRANSLATED:!FpF[END]
+
 ADDRESS   :0x55688
 LEN_BYTES :50
 ORIGINAL  :..\STM32_Lib\FreeRTOS\portable\RVDS\ARM_CM3\port.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\portable\RVDS\ARM_CM3\port.c[END]
+
 ADDRESS   :0x556bc
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x557d4
 LEN_BYTES :6
 ORIGINAL  :7HhCH[END]
+TRANSLATED:7HhCH[END]
+
 ADDRESS   :0x558b8
 LEN_BYTES :29
 ORIGINAL  :..\STM32_Lib\FreeRTOS\tasks.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\tasks.c[END]
+
 ADDRESS   :0x558d8
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x559e4
 LEN_BYTES :29
 ORIGINAL  :..\STM32_Lib\FreeRTOS\tasks.c[END]
+TRANSLATED:..\STM32_Lib\FreeRTOS\tasks.c[END]
+
 ADDRESS   :0x55a04
 LEN_BYTES :13
 ORIGINAL  :Error:%s,%d
 [END]
+TRANSLATED:Error:%s,%d
+[END]
+
 ADDRESS   :0x55e64
 LEN_BYTES :6
 ORIGINAL  :pG+Ŀ[END]
+TRANSLATED:pG+Ŀ[END]
+
 ADDRESS   :0x56508
 LEN_BYTES :4
 ORIGINAL  :ϸc[END]
+TRANSLATED:ϸc[END]
+
 ADDRESS   :0x58060
 LEN_BYTES :4
 ORIGINAL  :AtA[END]
+TRANSLATED:AtA[END]
+
 ADDRESS   :0x59050
 LEN_BYTES :4
 ORIGINAL  :DDA%[END]
+TRANSLATED:DDA%[END]
+
 ADDRESS   :0x59994
 LEN_BYTES :4
 ORIGINAL  :pˀ[END]
+TRANSLATED:pˀ[END]
+
 ADDRESS   :0x59b4c
 LEN_BYTES :5
 ORIGINAL  :00[END]
+TRANSLATED:00[END]
+
 ADDRESS   :0x5a750
 LEN_BYTES :6
 ORIGINAL  :vffffc[END]
+TRANSLATED:vffffc[END]
+
 ADDRESS   :0x5aea8
 LEN_BYTES :4
 ORIGINAL  :y[END]
+TRANSLATED:y[END]
+
 ADDRESS   :0x5af08
 LEN_BYTES :5
 ORIGINAL  :?wwS[END]
+TRANSLATED:?wwS[END]
+
 ADDRESS   :0x5b510
 LEN_BYTES :5
 ORIGINAL  :D:DBB[END]
+TRANSLATED:D:DBB[END]
+
 ADDRESS   :0x5b5d4
 LEN_BYTES :5
 ORIGINAL  :33tCt[END]
+TRANSLATED:33tCt[END]
+
 ADDRESS   :0x5b75c
 LEN_BYTES :4
 ORIGINAL  :wwwt[END]
+TRANSLATED:wwwt[END]
+
 ADDRESS   :0x5b784
 LEN_BYTES :5
 ORIGINAL  :ʎ#__[END]
+TRANSLATED:ʎ#__[END]
+
 ADDRESS   :0x5bb84
 LEN_BYTES :6
 ORIGINAL  :4P[END]
+TRANSLATED:4P[END]
+
 ADDRESS   :0x5bb9c
 LEN_BYTES :6
 ORIGINAL  :f 	[END]
+TRANSLATED:f 	[END]
+
 ADDRESS   :0x5bbcc
 LEN_BYTES :6
 ORIGINAL  :! 	[END]
+TRANSLATED:! 	[END]
+
 ADDRESS   :0x5bbd4
 LEN_BYTES :6
 ORIGINAL  :A 	[END]
+TRANSLATED:A 	[END]
+
 ADDRESS   :0x5bbdc
 LEN_BYTES :6
 ORIGINAL  :a 	[END]
+TRANSLATED:a 	[END]
+
 ADDRESS   :0x5bc4c
 LEN_BYTES :6
 ORIGINAL  :+p	[END]
+TRANSLATED:+p	[END]
+
 ADDRESS   :0x5bc94
 LEN_BYTES :6
 ORIGINAL  :Qp			[END]
+TRANSLATED:Qp			[END]
+
 ADDRESS   :0x5bc9c
 LEN_BYTES :6
 ORIGINAL  :zp	[END]
+TRANSLATED:zp	[END]
+
 ADDRESS   :0x5bcc4
 LEN_BYTES :6
 ORIGINAL  :9 			[END]
+TRANSLATED:9 			[END]
+
 ADDRESS   :0x5bd4c
 LEN_BYTES :6
 ORIGINAL  :=p
 [END]
+TRANSLATED:=p
+[END]
+
 ADDRESS   :0x5bddc
 LEN_BYTES :6
 ORIGINAL  :0
 p[END]
+TRANSLATED:0
+p[END]
+
 ADDRESS   :0x5be5c
 LEN_BYTES :6
 ORIGINAL  :z0
 [END]
+TRANSLATED:z0
+[END]
+
 ADDRESS   :0x5c1b4
 LEN_BYTES :6
 ORIGINAL  :b-
 [END]
+TRANSLATED:b-
+[END]
+
 ADDRESS   :0x5c440
 LEN_BYTES :4
 ORIGINAL  :p _[END]
+TRANSLATED:p _[END]
+
 ADDRESS   :0x5c6f8
 LEN_BYTES :4
 ORIGINAL  : ͷ[END]
+TRANSLATED: ͷ[END]
+
 ADDRESS   :0x5cdbc
 LEN_BYTES :4
 ORIGINAL  :Э	P[END]
+TRANSLATED:Э	P[END]
+
 ADDRESS   :0x5cff4
 LEN_BYTES :4
 ORIGINAL  :OP[END]
+TRANSLATED:OP[END]
+
 ADDRESS   :0x5df6c
 LEN_BYTES :5
 ORIGINAL  :0P5[END]
+TRANSLATED:0P5[END]
+
 ADDRESS   :0x5e09c
 LEN_BYTES :5
 ORIGINAL  :0
 pYt[END]
+TRANSLATED:0
+pYt[END]
+
 ADDRESS   :0x5f950
 LEN_BYTES :6
 ORIGINAL  :wwwwwq[END]
+TRANSLATED:wwwwwq[END]
+
 ADDRESS   :0x5fe0c
 LEN_BYTES :5
 ORIGINAL  :wwwwt[END]
+TRANSLATED:wwwwt[END]
+
 ADDRESS   :0x5ff04
 LEN_BYTES :5
 ORIGINAL  :wwwwr[END]
+TRANSLATED:wwwwr[END]
+
 ADDRESS   :0x60880
 LEN_BYTES :6
 ORIGINAL  :PPJop[END]
+TRANSLATED:PPJop[END]
+
 ADDRESS   :0x60bb4
 LEN_BYTES :4
 ORIGINAL  :ppf[END]
+TRANSLATED:ppf[END]
+
 ADDRESS   :0x60c60
 LEN_BYTES :5
 ORIGINAL  :6PP[END]
+TRANSLATED:6PP[END]
+
 ADDRESS   :0x61130
 LEN_BYTES :4
 ORIGINAL  :Pv[END]
+TRANSLATED:Pv[END]
+
 ADDRESS   :0x62030
 LEN_BYTES :5
 ORIGINAL  :bya[END]
+TRANSLATED:bya[END]
+
 ADDRESS   :0x62214
 LEN_BYTES :4
 ORIGINAL  :y~p[END]
+TRANSLATED:y~p[END]
+
 ADDRESS   :0x63530
 LEN_BYTES :4
 ORIGINAL  :wwws[END]
+TRANSLATED:wwws[END]
+
 ADDRESS   :0x63b48
 LEN_BYTES :4
 ORIGINAL  :o[END]
+TRANSLATED:o[END]
+
 ADDRESS   :0x64350
 LEN_BYTES :6
 ORIGINAL  :pwww [END]
+TRANSLATED:pwww [END]
+
 ADDRESS   :0x644a0
 LEN_BYTES :6
 ORIGINAL  :p 	P[END]
+TRANSLATED:p 	P[END]
+
 ADDRESS   :0x64a40
 LEN_BYTES :4
 ORIGINAL  :N0o[END]
+TRANSLATED:N0o[END]
+
 ADDRESS   :0x64f14
 LEN_BYTES :4
 ORIGINAL  : Q[END]
+TRANSLATED: Q[END]
+
 ADDRESS   :0x650fc
 LEN_BYTES :4
 ORIGINAL  :Lck0[END]
+TRANSLATED:Lck0[END]
+
 ADDRESS   :0x65204
 LEN_BYTES :4
 ORIGINAL  :Pp5[END]
+TRANSLATED:Pp5[END]
+
 ADDRESS   :0x655c4
 LEN_BYTES :5
 ORIGINAL  :N~PN[END]
+TRANSLATED:N~PN[END]
+
 ADDRESS   :0x655d4
 LEN_BYTES :5
 ORIGINAL  :NPN[END]
+TRANSLATED:NPN[END]
+
 ADDRESS   :0x6581c
 LEN_BYTES :5
 ORIGINAL  :wPe[END]
+TRANSLATED:wPe[END]
+
 ADDRESS   :0x65a54
 LEN_BYTES :4
 ORIGINAL  :0*r[END]
+TRANSLATED:0*r[END]
+
 ADDRESS   :0x65cb0
 LEN_BYTES :7
 ORIGINAL  :~pϐL[END]
+TRANSLATED:~pϐL[END]
+
 ADDRESS   :0x65ed8
 LEN_BYTES :7
 ORIGINAL  :0S0JT[END]
+TRANSLATED:0S0JT[END]
+
 ADDRESS   :0x66524
 LEN_BYTES :12
 ORIGINAL  :337wwwtr-Bp[END]
+TRANSLATED:337wwwtr-Bp[END]
+
 ADDRESS   :0x66e7c
 LEN_BYTES :4
 ORIGINAL  :NFq[END]
+TRANSLATED:NFq[END]
+
 ADDRESS   :0x66f2c
 LEN_BYTES :4
 ORIGINAL  :Fy0[END]
+TRANSLATED:Fy0[END]
+
 ADDRESS   :0x66f38
 LEN_BYTES :4
 ORIGINAL  :Uvs[END]
+TRANSLATED:Uvs[END]
+
 ADDRESS   :0x66fb8
 LEN_BYTES :4
 ORIGINAL  :3FQ:[END]
+TRANSLATED:3FQ:[END]
+
 ADDRESS   :0x67230
 LEN_BYTES :4
 ORIGINAL  :EVr[END]
+TRANSLATED:EVr[END]
+
 ADDRESS   :0x672a8
 LEN_BYTES :4
 ORIGINAL  :3Ea[END]
+TRANSLATED:3Ea[END]
+
 ADDRESS   :0x67900
 LEN_BYTES :4
 ORIGINAL  :%P [END]
+TRANSLATED:%P [END]
+
 ADDRESS   :0x67d94
 LEN_BYTES :4
 ORIGINAL  :m0W [END]
+TRANSLATED:m0W [END]
+
 ADDRESS   :0x683b8
 LEN_BYTES :6
 ORIGINAL  :w[END]
+TRANSLATED:w[END]
+
 ADDRESS   :0x68518
 LEN_BYTES :6
 ORIGINAL  :C
 0[END]
+TRANSLATED:C
+0[END]
+
 ADDRESS   :0x68598
 LEN_BYTES :6
 ORIGINAL  :! [END]
+TRANSLATED:! [END]
+
 ADDRESS   :0x685d0
 LEN_BYTES :6
 ORIGINAL  :K[END]
+TRANSLATED:K[END]
+
 ADDRESS   :0x685f8
 LEN_BYTES :6
 ORIGINAL  :E[END]
+TRANSLATED:E[END]
+
 ADDRESS   :0x68600
 LEN_BYTES :6
 ORIGINAL  :aP[END]
+TRANSLATED:aP[END]
+
 ADDRESS   :0x686b0
 LEN_BYTES :6
 ORIGINAL  :4P[END]
+TRANSLATED:4P[END]
+
 ADDRESS   :0x693cc
 LEN_BYTES :7
 ORIGINAL  :+,-./01[END]
+TRANSLATED:+,-./01[END]
+
 ADDRESS   :0x693d8
 LEN_BYTES :5
 ORIGINAL  :45678[END]
+TRANSLATED:45678[END]
+
 ADDRESS   :0x69ce0
 LEN_BYTES :9
 ORIGINAL  :UUUUUUUUS[END]
+TRANSLATED:UUUUUUUUS[END]
+
 ADDRESS   :0x69e48
 LEN_BYTES :5
 ORIGINAL  :fffeQ[END]
+TRANSLATED:fffeQ[END]
+
 ADDRESS   :0x6dfac
 LEN_BYTES :4
 ORIGINAL  :x/[END]
+TRANSLATED:x/[END]
+
 ADDRESS   :0x6e184
 LEN_BYTES :4
 ORIGINAL  :IK[END]
+TRANSLATED:IK[END]
+
 ADDRESS   :0x6e194
 LEN_BYTES :6
 ORIGINAL  :d 2 [END]
+TRANSLATED:d 2 [END]
+
 ADDRESS   :0x6e29c
 LEN_BYTES :12
 ORIGINAL  :pG0HHH[END]
+TRANSLATED:pG0HHH[END]
+
 ADDRESS   :0x6e4ec
 LEN_BYTES :5
 ORIGINAL  :4F[END]
+TRANSLATED:4F[END]
+
 ADDRESS   :0x6e518
 LEN_BYTES :4
 ORIGINAL  :5a[END]
+TRANSLATED:5a[END]
+
 ADDRESS   :0x6e524
 LEN_BYTES :5
 ORIGINAL  :ua[END]
+TRANSLATED:ua[END]
+
 ADDRESS   :0x6e718
 LEN_BYTES :4
 ORIGINAL  :B![END]
+TRANSLATED:B![END]
+
 ADDRESS   :0x6e7f8
 LEN_BYTES :4
 ORIGINAL  :ž[END]
+TRANSLATED:ž[END]
+
 ADDRESS   :0x6e8a8
 LEN_BYTES :4
 ORIGINAL  :Y[END]
+TRANSLATED:Y[END]
+
 ADDRESS   :0x6e9b4
 LEN_BYTES :65
 ORIGINAL  :Maintenez la touche #9f2f34 K10# enfoncée, puis appuyez sur OK.
 [END]
+TRANSLATED:Maintenez la touche #9f2f34 K10# enfoncée, puis appuyez sur OK.
+[END]
+
 ADDRESS   :0x6e9f8
 LEN_BYTES :72
 ORIGINAL  :Please move the trigger to the #3df3ff bottom# and press the OK button.
 [END]
+TRANSLATED:Please move the trigger to the #3df3ff bottom# and press the OK button.
+[END]
+
 ADDRESS   :0x6ea44
 LEN_BYTES :85
 ORIGINAL  :Please move the handwheel to the #3df3ff far# #3df3ff left# and press the OK button.
 [END]
+TRANSLATED:Please move the handwheel to the #3df3ff far# #3df3ff left# and press the OK button.
+[END]
+
 ADDRESS   :0x6ea9c
 LEN_BYTES :69
 ORIGINAL  :Please move the trigger to the #9f2f34 top #and press the OK button.
 [END]
+TRANSLATED:Please move the trigger to the #9f2f34 top #and press the OK button.
+[END]
+
 ADDRESS   :0x6eae4
 LEN_BYTES :103
 ORIGINAL  :Please press and #9f2f34 hold# #9f2f34 the# #9f2f34 K10# #9f2f34 button# and then press the OK button.
 [END]
+TRANSLATED:Please press and #9f2f34 hold# #9f2f34 the# #9f2f34 K10# #9f2f34 button# and then press the OK button.
+[END]
+
 ADDRESS   :0x6eb4c
 LEN_BYTES :102
 ORIGINAL  :Please press and #3df3ff hold# #3df3ff the# #3df3ff K9# #3df3ff button# and then press the OK button.
 [END]
+TRANSLATED:Please press and #3df3ff hold# #3df3ff the# #3df3ff K9# #3df3ff button# and then press the OK button.
+[END]
+
 ADDRESS   :0x6ebb4
 LEN_BYTES :91
 ORIGINAL  :按 #9f2f34 OK# 重置遥控器设置以及所有模型设置,按 #1b806d HOME+OK# 退出.
 [END]
+TRANSLATED:按 #9f2f34 OK# 重置遥控器设置以及所有模型设置,按 #1b806d HOME+OK# 退出.
+[END]
+
 ADDRESS   :0x6ec10
 LEN_BYTES :64
 ORIGINAL  :按 #9f2f34 OK# 重置模型设置,按 #1b806d HOME+OK# 退出.
 [END]
+TRANSLATED:按 #9f2f34 OK# 重置模型设置,按 #1b806d HOME+OK# 退出.
+[END]
+
 ADDRESS   :0x6ec54
 LEN_BYTES :66
 ORIGINAL  :Bringen Sie das Lenkrad in die Mittelstellung und drücken Sie OK
 [END]
+TRANSLATED:Bringen Sie das Lenkrad in die Mittelstellung und drücken Sie OK
+[END]
+
 ADDRESS   :0x6ec98
 LEN_BYTES :69
 ORIGINAL  :Bringen Sie den Trigger in die mittlere Position und drücken Sie OK
 [END]
+TRANSLATED:Bringen Sie den Trigger in die mittlere Position und drücken Sie OK
+[END]
+
 ADDRESS   :0x6ece0
 LEN_BYTES :69
 ORIGINAL  :Halten Sie die Taste #9f2f34 K10# gedrückt und drücken Sie dann OK
 [END]
+TRANSLATED:Halten Sie die Taste #9f2f34 K10# gedrückt und drücken Sie dann OK
+[END]
+
 ADDRESS   :0x6ed28
 LEN_BYTES :82
 ORIGINAL  :Please move the handwheel to the #9f7b34 center position# and press the OK button
 [END]
+TRANSLATED:Please move the handwheel to the #9f7b34 center position# and press the OK button
+[END]
+
 ADDRESS   :0x6ed7c
 LEN_BYTES :80
 ORIGINAL  :Please move the trigger to the #9f7b34 center position# and press the OK button
 [END]
+TRANSLATED:Please move the trigger to the #9f7b34 center position# and press the OK button
+[END]
+
 ADDRESS   :0x6edd0
 LEN_BYTES :76
 ORIGINAL  :Please move the handwheel to the #9f2f34 far right# and press the OK button
 [END]
+TRANSLATED:Please move the handwheel to the #9f2f34 far right# and press the OK button
+[END]
+
 ADDRESS   :0x6ee20
 LEN_BYTES :76
 ORIGINAL  :Maintenez les touches K9 et K10 enfoncées simultanément et appuyez sur OK.[END]
+TRANSLATED:Maintenez les touches K9 et K10 enfoncées simultanément et appuyez sur OK.[END]
+
 ADDRESS   :0x6ee70
 LEN_BYTES :111
 ORIGINAL  :Drücken Sie #9f2f34 OK#, um alle Einstellungen zurückzusetzen, und drücken Sie #1b806d HOME+OK# zum Beenden.[END]
+TRANSLATED:Drücken Sie #9f2f34 OK#, um alle Einstellungen zurückzusetzen, und drücken Sie #1b806d HOME+OK# zum Beenden.[END]
+
 ADDRESS   :0x6eee0
 LEN_BYTES :87
 ORIGINAL  :#9f2f34 OK#, um die Einstellungen zurückzusetzen, danach #1b806d HOME+OK# zum Beenden.[END]
+TRANSLATED:#9f2f34 OK#, um die Einstellungen zurückzusetzen, danach #1b806d HOME+OK# zum Beenden.[END]
+
 ADDRESS   :0x6ef38
 LEN_BYTES :110
 ORIGINAL  :Appuyez sur #9f2f34 OK# pour réinitialiser tous les paramètres et appuyez sur #1b806d HOME+OK# pour quitter.[END]
+TRANSLATED:Appuyez sur #9f2f34 OK# pour réinitialiser tous les paramètres et appuyez sur #1b806d HOME+OK# pour quitter.[END]
+
 ADDRESS   :0x6efa8
 LEN_BYTES :84
 ORIGINAL  :#9f2f34 OK# pour réinitialiser les paramètres, puis #1b806d HOME+OK# pour quitter.[END]
+TRANSLATED:#9f2f34 OK# pour réinitialiser les paramètres, puis #1b806d HOME+OK# pour quitter.[END]
+
 ADDRESS   :0x6f000
 LEN_BYTES :82
 ORIGINAL  :Press #9f2f34 OK# to reset the model Settings, and press #1b806d HOME+OK# to exit.[END]
+TRANSLATED:Press #9f2f34 OK# to reset the model Settings, and press #1b806d HOME+OK# to exit.[END]
+
 ADDRESS   :0x6f054
 LEN_BYTES :114
 ORIGINAL  :Press #9f2f34 OK# to reset the remote control Settings and all model Settings, and press #1b806d HOME+OK# to exit.[END]
+TRANSLATED:Press #9f2f34 OK# to reset the remote control Settings and all model Settings, and press #1b806d HOME+OK# to exit.[END]
+
 ADDRESS   :0x6f0c8
 LEN_BYTES :70
 ORIGINAL  :À propos de nous:
 www.dumborc.com
 Matériel: V1.0.0
 Logiciels: V1.1.9[END]
+TRANSLATED:À propos de nous:
+www.dumborc.com
+Matériel: V1.0.0
+Logiciels: V1.1.9[END]
+
 ADDRESS   :0x6f110
 LEN_BYTES :83
 ORIGINAL  :サポート:
 www.dumborc.com
 ハードウェア: V1.0.0
 ソフトウェア: V1.1.9[END]
+TRANSLATED:サポート:
+www.dumborc.com
+ハードウェア: V1.0.0
+ソフトウェア: V1.1.9[END]
+
 ADDRESS   :0x6f164
 LEN_BYTES :75
 ORIGINAL  :Halten Sie die Tasten K9 und K10 gleichzeitig gedrückt und drücken Sie OK[END]
+TRANSLATED:Halten Sie die Tasten K9 und K10 gleichzeitig gedrückt und drücken Sie OK[END]
+
 ADDRESS   :0x6f1b4
 LEN_BYTES :144
 ORIGINAL  :Please #9f2f34 hold# #9f2f34 down# #9f2f34 the# #9f2f34 K9# #9f2f34 and# #9f2f34 K10# #9f2f34 button# at the same time, then press the OK button[END]
+TRANSLATED:Please #9f2f34 hold# #9f2f34 down# #9f2f34 the# #9f2f34 K9# #9f2f34 and# #9f2f34 K10# #9f2f34 button# at the same time, then press the OK button[END]
+
 ADDRESS   :0x6f248
 LEN_BYTES :75
 ORIGINAL  :トリガーを奥に押しながらOKボダンを
 押してください。[END]
+TRANSLATED:トリガーを奥に押しながらOKボダンを
+押してください。[END]
+
 ADDRESS   :0x6f294
 LEN_BYTES :75
 ORIGINAL  :ステアリングを右に回してOKボダンを
 押してください。[END]
+TRANSLATED:ステアリングを右に回してOKボダンを
+押してください。[END]
+
 ADDRESS   :0x6f2e0
 LEN_BYTES :69
 ORIGINAL  :K10ボダンを押したままOKボダンを
 押してください。[END]
+TRANSLATED:K10ボダンを押したままOKボダンを
+押してください。[END]
+
 ADDRESS   :0x6f328
 LEN_BYTES :78
 ORIGINAL  :トリガーを手前に引きながらOKボタンを
 押してください。[END]
+TRANSLATED:トリガーを手前に引きながらOKボタンを
+押してください。[END]
+
 ADDRESS   :0x6f378
 LEN_BYTES :68
 ORIGINAL  :K9ボタンを押しながらOKボタンを
 押してください。[END]
+TRANSLATED:K9ボタンを押しながらOKボタンを
+押してください。[END]
+
 ADDRESS   :0x6f3c0
 LEN_BYTES :81
 ORIGINAL  :トリガーをニュートラルのまま
 OKボダンを押してください。[END]
+TRANSLATED:トリガーをニュートラルのまま
+OKボダンを押してください。[END]
+
 ADDRESS   :0x6f414
 LEN_BYTES :99
 ORIGINAL  :ステアリングホイールをニュートラルの
 ままOKボダンを押してください。[END]
+TRANSLATED:ステアリングホイールをニュートラルの
+ままOKボダンを押してください。[END]
+
 ADDRESS   :0x6f478
 LEN_BYTES :87
 ORIGINAL  :ステアリングホイールを左に回して
 OKボタンを押してください。[END]
+TRANSLATED:ステアリングホイールを左に回して
+OKボタンを押してください。[END]
+
 ADDRESS   :0x6f4d0
 LEN_BYTES :80
 ORIGINAL  :K9とK10ボタン同時に押したまま
 OKボタンを押してください。[END]
+TRANSLATED:K9とK10ボタン同時に押したまま
+OKボタンを押してください。[END]
+
 ADDRESS   :0x6f524
 LEN_BYTES :128
 ORIGINAL  :OKボタンを押してプロボ設定と
 全てモデル設定をリセットします。
 HOME+OKを押して終了します。[END]
+TRANSLATED:OKボタンを押してプロボ設定と
+全てモデル設定をリセットします。
+HOME+OKを押して終了します。[END]
+
 ADDRESS   :0x6f5a8
 LEN_BYTES :139
 ORIGINAL  :OKボタン押すとモデルセッティングがリセットされます。
 HOMEボタン+OKボダンの順でキャンセルします。[END]
+TRANSLATED:OKボタン押すとモデルセッティングがリセットされます。
+HOMEボタン+OKボダンの順でキャンセルします。[END]
+
 ADDRESS   :0x6f638
 LEN_BYTES :80
 ORIGINAL  :Kanal 1
@@ -4243,6 +7189,17 @@ Kanal 7
 Kanal 8
 Kanal 9
 Kanal 10[END]
+TRANSLATED:Kanal 1
+Kanal 2
+Kanal 3
+Kanal 4
+Kanal 5
+Kanal 6
+Kanal 7
+Kanal 8
+Kanal 9
+Kanal 10[END]
+
 ADDRESS   :0x6f68c
 LEN_BYTES :80
 ORIGINAL  :通道1
@@ -4255,24 +7212,49 @@ ORIGINAL  :通道1
 通道8
 通道9
 通道10[END]
+TRANSLATED:通道1
+通道2
+通道3
+通道4
+通道5
+通道6
+通道7
+通道8
+通道9
+通道10[END]
+
 ADDRESS   :0x6f6e0
 LEN_BYTES :125
 ORIGINAL  :P シリーズ受信機のみがこのインターフェイスでのパラメーター調整をサポートしています。[END]
+TRANSLATED:P シリーズ受信機のみがこのインターフェイスでのパラメーター調整をサポートしています。[END]
+
 ADDRESS   :0x6f8f4
 LEN_BYTES :4
 ORIGINAL  :Btn1[END]
+TRANSLATED:Btn1[END]
+
 ADDRESS   :0x6f8fc
 LEN_BYTES :4
 ORIGINAL  :Btn2[END]
+TRANSLATED:Btn2[END]
+
 ADDRESS   :0x6f904
 LEN_BYTES :4
 ORIGINAL  :Btn3[END]
+TRANSLATED:Btn3[END]
+
 ADDRESS   :0x6f90c
 LEN_BYTES :4
 ORIGINAL  :Btn4[END]
+TRANSLATED:Btn4[END]
+
 ADDRESS   :0x6f914
 LEN_BYTES :4
 ORIGINAL  :Btn5[END]
+TRANSLATED:Btn5[END]
+
 ADDRESS   :0x6f92c
 LEN_BYTES :6
 ORIGINAL  :\Kp[END]
+TRANSLATED:\Kp[END]
+

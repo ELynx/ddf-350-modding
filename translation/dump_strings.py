@@ -52,7 +52,7 @@ def extract_utf8_strings(binary_file, output_file, min_length=4):
                     out.write(f"ADDRESS   :{hex(start)}\n")
                     out.write(f"LEN_BYTES :{len(current)}\n")
                     out.write(f"ORIGINAL  :{decoded}[END]\n")
-                    # out.write(f"TRANSLATED:{decoded}[END]\n\n")
+                    out.write(f"TRANSLATED:{decoded}[END]\n\n")
                     # Move past this string
                     i = j + 1
                 else:

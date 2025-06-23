@@ -87,8 +87,9 @@ if __name__ == "__main__":
     parse_and_insert_translated_strings('EN.tmp',       'DE.tmp',       'DE.txt')
     parse_and_insert_translated_strings('DE.tmp',       'DDF.bin',      'common.txt')
 
-    # parse_and_insert_translated_strings('DDF.bin',      'DDF.bin',      'ch_rainbow_sharp.txt', True)
+    parse_and_insert_translated_strings('DDF.bin',      'DDF.bin',      'ch_rainbow_sharp.txt', True)
     # parse_and_insert_translated_strings('DDF.bin',      'DDF.bin',      'ch_rainbow_muted.txt', True)
+    parse_and_insert_translated_strings('DDF.bin',      'DDF.bin',      'main_screen_uniform.txt', True)
 
     for file in os.listdir():
         if file.endswith('.tmp'):

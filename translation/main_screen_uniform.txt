@@ -1,0 +1,73 @@
+ADDRESS   :0x4db00
+COMMENT   :EXT Vol BG color
+TRANSLATED:$FF"$F3!$3D
+
+ADDRESS   :0x2154c
+TRANSLATED:%s EXT Vol
+      %d.%dV[END]
+
+ADDRESS   :0x21570
+TRANSLATED:%s EXT Ten
+      %d.%dV[END]
+
+ADDRESS   :0x21594
+TRANSLATED:%s EXT 電圧
+      %d.%dV[END]
+
+ADDRESS   :0x215bc
+TRANSLATED:%s 回传电压
+      无[END]
+
+ADDRESS   :0x215e0
+TRANSLATED:%s EXT Vol
+      NULL[END]
+
+ADDRESS   :0x21600
+TRANSLATED:%s EXT Ten
+      NULL[END]
+
+ADDRESS   :0x21620
+TRANSLATED:%s EXT 電圧
+      無[END]
+
+
+
+ADDRESS   :0x4db4a
+COMMENT   :RSSI BG color
+TRANSLATED:$FF"$F3!$3D
+
+ADDRESS   :0x204b4
+TRANSLATED:%s 信号强度
+      %d%s[END]
+
+ADDRESS   :0x204dc
+TRANSLATED:%s 受信感度
+      %d%s[END]
+
+ADDRESS   :0x20504
+TRANSLATED:%s RSSI
+      %d%s[END]
+
+ADDRESS   :0x20524
+TRANSLATED:%s 信号强度
+      无[END]
+
+ADDRESS   :0x20548
+TRANSLATED:%s 受信感度
+      無[END]
+
+ADDRESS   :0x2056c
+TRANSLATED:%s RSSI
+      NULL[END]
+
+
+
+ADDRESS   :0x4db9e
+COMMENT   :Timer BG color
+TRANSLATED:$FF"$F3!$3D
+
+
+
+ADDRESS   :0x4e58c
+COMMENT   :CH2 Bar color
+TRANSLATED:$A8"$D8!$24
