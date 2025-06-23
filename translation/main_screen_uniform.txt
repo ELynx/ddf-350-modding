@@ -1,8 +1,9 @@
 ADDRESS   :0x4db00
 COMMENT   :EXT Vol BG color
-TRANSLATED:$FF"$F3!$3D
+TRANSLATED:$64"$4E!$00
 
 ADDRESS   :0x2154c
+COMMENT   :Remove #000000 ...# from text to make it uniform white
 TRANSLATED:%s EXT Vol
       %d.%dV[END]
 
@@ -34,7 +35,7 @@ TRANSLATED:%s EXT 電圧
 
 ADDRESS   :0x4db4a
 COMMENT   :RSSI BG color
-TRANSLATED:$FF"$F3!$3D
+TRANSLATED:$64"$4E!$00
 
 ADDRESS   :0x204b4
 TRANSLATED:%s 信号强度
@@ -64,10 +65,10 @@ TRANSLATED:%s RSSI
 
 ADDRESS   :0x4db9e
 COMMENT   :Timer BG color
-TRANSLATED:$FF"$F3!$3D
+TRANSLATED:$64"$4E!$00
 
 
 
 ADDRESS   :0x4e58c
-COMMENT   :CH2 Bar color
+COMMENT   :CH2 Bar color, set to same color as CH1, 5 and 6
 TRANSLATED:$A8"$D8!$24

@@ -168,6 +168,12 @@ Run `update.bat` that is just verbose translated official update script. Process
 
 If you flashed garbage, just flash working version again.
 
+### Ghidra scripts
+
+Add `./ghidra_scripts` to Ghidra script manager to get script(s) from this repo.
+
+`rgb888_to_rgb565_color_visualizer.py` - sets background color of calls to `RGB888_to_RGB565` according to passed values. Function name must be set manually, should be set in 1.1.9 binary.
+
 ## Feedback and Suggestions
 
 If you find translation issues or better wording choices, let me know. My primary goal was to eliminate scrolling, which caused me eye fatigue and headaches, and to update outdated terms.
