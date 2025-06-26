@@ -10,6 +10,20 @@
 
 ### Version 0.8.0
 
+#### Cruise Control - Throttle Trigger Override
+
+When Cruise Control is engaged (both Mode 1 and Mode 2 are supported), and CC throttle is greater than 0%, positive throttle trigger pull makes throttle higher.
+
+Example:
+* Cruise Control is set to Mode 2 (preset value) and preset source is VR-6.
+* You engage CC, and set throttle to 60% with VR-6.
+* If you pull throttle trigger, *and go past 60%*, throttle will increase accordingly.
+* If you let throttle trigger go, throttle will go back to CC setting, 60%.
+
+I found this behavior quite natural on all actual cars I drove, and it has same use case in RC as in real life. It is a way to overtake a vehicle, or catch up to a vehicle, without changing overall speed.
+
+#### Ported from earlier versions
+
 Improved translations for EN and DE:
 * No scrolling.
 * Reduced ambiguity.
