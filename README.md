@@ -2,11 +2,40 @@
 
 ## ℹ️ Current Supported Firmware Version - 1.1.9 ℹ️
 
-## ℹ️ Current Mod Version - 0.8.0 ℹ️
+## ℹ️ Current Mod Version - 0.8.1 ℹ️
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FELynx%2Fddf-350-modding&count_bg=%237FD2C6&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%237FD2C6&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FELynx%2Fddf-350-modding&label=Hits&countColor=%237fd2c6&style=flat&labelStyle=none)
 
 ## Versions 0.8.x Targeting Long-Term Firmware Release 1.1.9
+
+### Version 0.8.1
+
+#### Lock out CH1 through CH4
+
+When "lock" is engaged on main screen, CH1, CH2, CH3 and CH4 are "frozen", i.e. not affected by controls that affect them. The "freeze" value is the last value that was on the channel before lock was activated.
+
+At the same time, they can affect other channels via (for example) ProgMIX.
+
+Example:
+* CH2 Throttle is ProgMIX´d to CH5, and CH5 is driving emulated engine sound module.
+* Throttle trigger is in neutral, CH2 is 0%.
+* Lock is activated.
+* Throttle trigger is pressed, *but CH2 value remains at 0%*.
+* CH5 mix is still engaged, CH5 value goes up, simulated engine sound module produces revving sound.
+
+Example:
+* 4WS vehicle with Winch.
+* Configured using standard functionality.
+  * Winch is CH3 via Winch Mix.
+  * Rear axle servo is CH4 via 4WS Mix.
+* CH1 trim is set to 5% in neutral.
+* CH2 is 0% in neutral.
+* CH3 is 0% in neutral.
+* CH4 trim is set to -7% in neutral.
+* Lock is activated.
+* Steering, throttle and winch inputs are ignored, *values stay at 5% / 0% / 0% / -7%*.
+
+I am especially proud of an idea to freeze values to allow for trims etc. to be valid even in lock, and for tricks I did to implement that.
 
 ### Version 0.8.0
 
