@@ -6,28 +6,29 @@
 from java.awt import Color
 
 # locate the converter function symbol
-symList1 = currentProgram.getSymbolTable().getGlobalSymbols("RGB888_to_RGB565")
-symList2 = currentProgram.getSymbolTable().getGlobalSymbols("RGB888_to_RGB565_2")
-if not symList1 or not symList2:
-    println("Function symbol 'RGB888_to_RGB565...' not found. Check mangling or case.")
-else:
-    funcAddr1 = symList1[0].getAddress()
-    println("Found RGB888_to_RGB565 at %s " % funcAddr1)
+prefix = "RGB888_to_RGB565"
+sym_table = currentProgram.getSymbolTable()
+symbols = []
+for sym in sym_table.getAllSymbols(True):
+    if sym.getName().startswith(prefix):
+        symbols.append(sym)
 
-    funcAddr2 = symList2[0].getAddress()
-    println("Found RGB888_to_RGB565_2 at %s " % funcAddr2)
+if not symbols:
+    println("Function symbol '%s*' not found. Check mangling or case." % prefix)
+else:
+    addrs = [sym.getAddress() for sym in symbols]
+    for sym, addr in zip(symbols, addrs):
+        println("Found %s at %s" % (sym.getName(), addr))
 
     # find all call-sites to that function
-    refsTo1 = currentProgram.getReferenceManager().getReferencesTo(funcAddr1)
-    refsTo2 = currentProgram.getReferenceManager().getReferencesTo(funcAddr2)
-    if not refsTo1 or not refsTo2:
-        println("No calls/references to RGB888_to_RGB565... found.")
+    refsTo = []
+    for addr in addrs:
+        refsTo.extend(list(currentProgram.getReferenceManager().getReferencesTo(addr)))
+
+    if not refsTo:
+        println("No calls/references to %s* found." % prefix)
     else:
         listing = currentProgram.getListing()
-
-        refsTo = []
-        refsTo.extend(list(refsTo1))
-        refsTo.extend(list(refsTo2))
 
         for ref in refsTo:
             fromAddr = ref.getFromAddress()
