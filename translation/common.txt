@@ -7,7 +7,7 @@ ORIGINAL  :官网: www.dumborc.com
 TRANSLATED:官网:
 www.dumborc.com
 软件: V1.1.9
-ELynx V0.8.1[END]
+ELynx V0.8.2[END]
 
 ADDRESS   :0x1441c
 LEN_BYTES :60
@@ -18,7 +18,7 @@ Software: V1.1.9[END]
 TRANSLATED:Über uns:
 www.dumborc.com
 Software: V1.1.9
-ELynx V0.8.1[END]
+ELynx V0.8.2[END]
 
 ADDRESS   :0x14464
 LEN_BYTES :59
@@ -29,7 +29,7 @@ Software: V1.1.9[END]
 TRANSLATED:About Us:
 www.dumborc.com
 Software: V1.1.9
-ELynx V0.8.1[END]
+ELynx V0.8.2[END]
 
 ADDRESS   :0x6f0c8
 LEN_BYTES :70
@@ -40,7 +40,7 @@ Logiciels: V1.1.9[END]
 TRANSLATED:À propos de nous:
 www.dumborc.com
 Logiciels: V1.1.9
-ELynx V0.8.1[END]
+ELynx V0.8.2[END]
 
 ADDRESS   :0x6f110
 LEN_BYTES :83
@@ -51,7 +51,7 @@ www.dumborc.com
 TRANSLATED:サポート:
 www.dumborc.com
 ソフトウェア: V1.1.9
-ELynx V0.8.1[END]
+ELynx V0.8.2[END]
 
 ADDRESS   :0x4fcfc
 LEN_BYTES :44
